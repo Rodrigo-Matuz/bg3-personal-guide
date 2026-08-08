@@ -1,5 +1,10 @@
-- Aberrant Mind
-- Clockwork Soul
-- Divine Right
-- Divine Soul
-- Draconic Blood
+- [[Aberrant Mind]]
+- [[Clockwork Soul]]
+- [[Divine Right]]
+- [[Divine Soul]]
+- [[Draconic Bloodline]]
+- [[Favored Soul]]
+- [[Lunar Sorcery]]
+- [[Shadow Magic]]
+- [[Storm Sorcery]]
+- [[Wild Magic]]
