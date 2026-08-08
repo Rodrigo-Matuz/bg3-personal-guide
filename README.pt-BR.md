@@ -200,6 +200,13 @@ As anotações são escritas para funcionar bem com o **Obsidian**, usando links
 
 Isso permite que conceitos relacionados sejam conectados diretamente, em vez de duplicar a mesma explicação em várias páginas.
 
+**Plugins Recomendados:**
+- Iconize
+- Link Embed
+- Linter
+- Omnisearch
+- Symbols Prettifier
+
 ## Spoilers
 
 Como este repositório contém informações de missões, locais de itens, escolhas e outras anotações de gameplay, **spoilers são esperados**.
