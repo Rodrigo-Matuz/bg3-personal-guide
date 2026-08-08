@@ -22,12 +22,13 @@ Preferred skills: [[Acrobatics]], [[Athletics]], [[Insight]], [[Perception]]
 
 |Ability Score Priority|||
 |---|---|---|
-|STR |12|Medium|
-|DEX ++|16|**Highest**|
-|CON +|16|High|
+|STR|8|Low|
+|DEX |17|**Highest**|
+|CON|14|Medium|
 |INT|8|Low|
-|WIS|14|High|
+|WIS |14|High|
 |CHA|8|Low|
+
 
 > **Alternative:** If you intend to use [[Tavern Brawler]] and build around **Strength**, prioritize **STR** instead of DEX. This can result in significantly higher unarmed damage, especially when combined with ways to increase your Strength.
 
