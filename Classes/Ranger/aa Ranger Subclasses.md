@@ -1,8 +1,12 @@
-- Beast Master
-- Drakewarden
-- Fey Wanderer
-- Gloom Stalker
-- Horizon Walker
-- Hunter
-- Monster Slayer
-- Primeval GHu
+- [[Beast Master]]
+- [[Drakewarden]]
+- [[Fey Wanderer]]
+- [[Gloom Stalker]]
+- [[Horizon Walker]]
+- [[Hunter]]
+- [[Monster Slayer]]
+- [[Primeval Guardian]]
+- [[Spiritmaster]]
+- [[Stargazer]]
+- [[Swarmkeeper]]
+- [[Winter Walker]]
