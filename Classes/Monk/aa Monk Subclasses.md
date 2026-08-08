@@ -1,1 +1,15 @@
-- Way of the 
+- [[Way of the Ascendant Dragon]]
+- [[Way of the Astral Self]]
+- [[Way of the Brewmaster]]
+- [[Way of the Drunken Master]]
+- [[Way of the Forge]]
+- [[Way of the Four Elements]]
+- [[Way of the Kensei]]
+- [[Way of the Long Death]]
+- [[Way of the Mercy]]
+- [[Way of the Mistweaver]]
+- [[Way of the Open Hand]]
+- Way of the Shadow
+- Way of the Steel
+- Way of the Sun Soul
+- Way of the Windwalker
