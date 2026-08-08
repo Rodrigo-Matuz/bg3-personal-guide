@@ -1,7 +1,7 @@
-- Bloodhound Bruiser
-- Dog & Hound
-- Hand of Dread
-- Mailed Fist
-- Piss & Vinegar
-- Street Saint
-- The Sweet 
+- [[Bloodhound Bruiser]]
+- [[Dog & Hound]]
+- [[Hand of Dread]]
+- [[Mailed Fist]]
+- [[Piss & Vinegar]]
+- [[Street Saint]]
+- [[The Sweet Science]]
