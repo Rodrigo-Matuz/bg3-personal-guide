@@ -51,7 +51,7 @@ Preferred skills: [[Acrobatics]], [[Athletics]], [[Insight]], [[Perception]]
 
 ## References
 
-#### Written Guide at
+#### Written Guide at gamestegy.com
 ```embed
 title: "Best Way of Open Hand - Monk Build | Baldur's Gate 3 (BG3)"
 image: "https://cdn.gamestegy.com/posts-images/open-hand-monk-build-MxCgcY_D71.png?width=860,cm-pad_resize,bg-F3F3F3"
