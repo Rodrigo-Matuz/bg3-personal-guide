@@ -23,10 +23,10 @@ Preferred skills: [[Acrobatics]], [[Athletics]], [[Insight]], [[Perception]]
 |Ability Score Priority|||
 |---|---|---|
 |STR|8|Low|
-|DEX |17|**Highest**|
-|CON|14|Medium|
+|DEX +|16|High|
+|CON |15|High|
 |INT|8|Low|
-|WIS |14|High|
+|WIS ++|17|**Highest**|
 |CHA|8|Low|
 
 
@@ -51,6 +51,17 @@ Preferred skills: [[Acrobatics]], [[Athletics]], [[Insight]], [[Perception]]
 
 ## References
 
+#### Written Guide at
+```embed
+title: "Best Way of Open Hand - Monk Build | Baldur's Gate 3 (BG3)"
+image: "https://cdn.gamestegy.com/posts-images/open-hand-monk-build-MxCgcY_D71.png?width=860,cm-pad_resize,bg-F3F3F3"
+description: "This post cover Best Open Hand Monk Build in Baldur's Gate 3. The ultimate unarmed martial build, with 6+ attacks per turn"
+url: "https://gamestegy.com/post/bg3/981/open-hand-monk-build"
+favicon: ""
+aspectRatio: "57.14285714285714"
+```
+
+#### Youtube Video (PT-BR)
 ```embed
 title: "BALDUR'S GATE 3 - BUILD COM DANO ABSURDO, MONGE DO CAMINHO DA MÃO ESPALMADA! #baldursgate3 #buildbg3"
 image: "https://i.ytimg.com/vi/OBlUwE7p-Kw/maxresdefault.jpg"
