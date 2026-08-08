@@ -1,4 +1,4 @@
-- Farmer
-- Innkeeper
-- Labourer
-- Town Guard
+- [[Farmer]]
+- [[Innkeeper]]
+- [[Labourer]]
+- [[Town Guard]]
