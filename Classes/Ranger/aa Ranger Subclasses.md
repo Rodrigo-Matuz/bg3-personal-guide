@@ -56,7 +56,3 @@ A Ranger accompanied by a **magical swarm of tiny creatures**, which they can ma
 ### [[Winter Walker]]
 
 A Ranger empowered by **winter and frost**, turning the cold into both an offensive weapon and a means of controlling the battlefield. **Physical + cold/elemental magic**, specializing in frost damage, slowing enemies, and creating dangerous terrain.
-
-
-
-ddddddddddddddddddddddddddddddddddddddddRdrfefefggertDfdrgfgRdsdwteSwtewr
