@@ -1,10 +1,3 @@
----
-created: 2026-08-08T02:20
-updated: 2026-08-08T03:06
-tags:
-  - class
----
-
 ## Desc.
 
 A dedicated divine healer and protector who keeps the party alive through powerful healing, buffs, and defensive magic. Focuses on supporting allies rather than dealing damage.

@@ -1,10 +1,3 @@
----
-created: 2026-08-08T03:01
-updated: 2026-08-08T03:13
-tags:
-  - class
----
-
 ## Desc.
 
 A dedicated arcane damage dealer who specializes in powerful area-of-effect and elemental spells. Evocation Wizards excel at dealing massive magical damage while their Evocation features allow them to cast destructive spells more safely around allies.

@@ -1,7 +1,3 @@
----
-created: 2026-08-08T02:24
-updated: 2026-08-08T02:28
----
 - [[Ambition Domain]]
 - [[Arcana Domain]]
 - [[Death Domain]]

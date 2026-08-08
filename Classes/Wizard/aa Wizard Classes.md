@@ -1,7 +1,3 @@
----
-created: 2026-08-08T02:58
-updated: 2026-08-08T03:10
----
 - [[Abjuration]]
 - [[Bladesinging]]
 - [[Chronurgy]]

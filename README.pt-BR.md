@@ -1,7 +1,4 @@
----
-created: 2026-08-08T04:10
-updated: 2026-08-08T04:23
----
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
 
 # Baldur's Gate 3 — Guia Pessoal
 

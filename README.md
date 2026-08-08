@@ -1,7 +1,5 @@
----
-created: 2026-08-08T03:48
-updated: 2026-08-08T04:06
----
+[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+
 # Baldur's Gate 3 — Personal Guide
 
 A personal reference guide for **Baldur's Gate 3**, focused on understanding classes, subclasses, feats, mechanics, quests, items, and other useful information while playing with a **heavily modded setup**.
