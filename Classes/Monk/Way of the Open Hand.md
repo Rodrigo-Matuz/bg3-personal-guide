@@ -29,7 +29,6 @@ Preferred skills: [Acrobatics](https://chatgpt.com/c/Acrobatics), [Athletics](ht
 |WIS ++|16|High|
 |CHA|10|Low|
 
-> **Note:** Starting with **17 DEX / 16 WIS** allows you to use a single [Ability Improvement](https://chatgpt.com/c/Ability%20Improvement) feat to bring them to **18 DEX / 16 WIS**, or **18 DEX / 18 WIS** if your available ability increases allow it.
 
 > **Alternative:** If you intend to use [[Tavern Brawler]] and build around **Strength**, prioritize **STR** instead of DEX. This can result in significantly higher unarmed damage, especially when combined with ways to increase your Strength.
 
@@ -57,3 +56,8 @@ Preferred skills: [Acrobatics](https://chatgpt.com/c/Acrobatics), [Athletics](ht
     
 
 > **Note:** These are merely universal suggestions. The best feats may vary depending on your build, equipment, party composition, and preferred playstyle etc...
+
+
+## References
+
+# [BALDUR'S GATE 3 - BUILD COM DANO ABSURDO, MONGE DO CAMINHO DA MÃO ESPALMADA!]()
