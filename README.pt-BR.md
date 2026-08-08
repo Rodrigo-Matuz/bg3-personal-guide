@@ -56,7 +56,7 @@ O objetivo é **compreensão**, e não simplesmente listar o que cada feature fa
 
 Os talentos são documentados com explicações práticas de quando são úteis.
 
-Em vez de assumir que todo feat tem o mesmo valor, as recomendações podem incluir:
+Em vez de assumir que todo talento tem o mesmo valor, as recomendações podem incluir:
 
 - Altamente recomendado
 - Geralmente útil
