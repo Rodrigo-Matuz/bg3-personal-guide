@@ -1,0 +1,7 @@
+- [[Curse of the Armament]]
+- [[Curse of Combustion]]
+- [[Curse of the Created]]
+- [[Curse of Immortality (Mage)]]
+- [[Curse of Immortality (Warrior)]]
+- [[Curse of Invisibility]]
+- [[Curse of Vampirism]]
