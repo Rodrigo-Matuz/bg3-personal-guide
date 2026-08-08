@@ -1,11 +1,11 @@
 - [[Arcane Trickster]]
 - [[Assassin]]
-- [Debonaire]
-- Fencer
-- Grim Surgeon
-- Justiciar
-- Misfortune Bringer
-- Ruffian
-- Scavenger
-- Swashbuckler
-- Thief
+- [[Debonaire]]
+- [[Fencer]]
+- [[Grim Surgeon]]
+- [[Justiciar]]
+- [[Misfortune Bringer]]
+- [[Ruffian]]
+- [[Scavenger]]
+- [[Swashbuckler]]
+- [[Thief]]
