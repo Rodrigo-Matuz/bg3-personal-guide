@@ -1,0 +1,3 @@
+- [[Aspect of the Daredevil]]
+- [[Aspect of the Eyebiter]]
+- [[Aspect of the Trickster]]
