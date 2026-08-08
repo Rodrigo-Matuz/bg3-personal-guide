@@ -200,6 +200,12 @@ The notes are written to work well with **Obsidian**, using internal links such 
 
 This allows related concepts to be connected directly instead of duplicating the same explanation across multiple pages.
 
+**Recommended Plugins:**
+- Iconize
+- Link Embed
+- Linter
+- Omnisearch
+- Symbols Prettifier
 ## Spoilers
 
 Because this repository contains quest information, item locations, choices, and other gameplay notes, **spoilers are expected**.
