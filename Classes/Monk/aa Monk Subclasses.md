@@ -9,7 +9,7 @@
 - [[Way of the Mercy]]
 - [[Way of the Mistweaver]]
 - [[Way of the Open Hand]]
-- Way of the Shadow
-- Way of the Steel
-- Way of the Sun Soul
-- Way of the Windwalker
+- [[Way of the Shadow]]
+- [[Way of the Steel]]
+- [[Way of the Sun Soul]]
+- [[Way of the Windwalker]]
