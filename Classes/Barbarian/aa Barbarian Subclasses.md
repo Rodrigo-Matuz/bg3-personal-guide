@@ -8,6 +8,6 @@
 - [[Path of the Corpse Eater]]
 - [[Rage Mage]]
 - [[Storm Herald]]
-- [[Wild Magic]]
+- [[Wild Magic (Bar)]]
 - [[Wildheart]]
 - [[Zealot]]

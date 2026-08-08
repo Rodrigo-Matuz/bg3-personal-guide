@@ -7,4 +7,4 @@
 - [[Lunar Sorcery]]
 - [[Shadow Magic]]
 - [[Storm Sorcery]]
-- [[Wild Magic]]
+- [[Wild Magic (Sor)]]
