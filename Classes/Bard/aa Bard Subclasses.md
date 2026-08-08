@@ -1,8 +1,9 @@
-- College of Cantors
-- College of Command
-- College of Dueling
-- College of Glamour
-- College of Lore
-- College of Spirits
-- College of 
-- College of
+- [[College of Cantors]]
+- [[College of Command]]
+- [[College of Dueling]]
+- [[College of Glamour]]
+- [[College of Lore]]
+- [[College of Spirits]]
+- [[College of Swords]]
+- [[College of Tragedy]]
+- [[College of Valour]]

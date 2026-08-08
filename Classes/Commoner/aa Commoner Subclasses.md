@@ -1,0 +1,4 @@
+- Farmer
+- Innkeeper
+- Labourer
+- Town Guard
