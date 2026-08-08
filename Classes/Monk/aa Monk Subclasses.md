@@ -1,59 +1,73 @@
 ### [[Way of the Ascendant Dragon]]
 
-Elemental martial artist focused on **dragon-themed abilities and elemental damage**. Primarily physical, with some elemental magic and ranged options.
+A dragon-themed Monk that channels **acid, cold, fire, lightning, and poison** through its martial arts, alongside breath attacks and draconic abilities. **Mostly physical with elemental damage**, making it a versatile damage dealer that can adapt to enemy resistances.
 
+---
 ### [[Way of the Astral Self]]
 
-Summons **astral arms and body parts** to enhance melee combat. Primarily physical, with a supernatural/force-based theme.
+Manifest an **astral body** to extend your reach, fight through Wisdom, and deal force damage. **Mostly physical with supernatural/force abilities**, built around enhanced unarmed attacks and powerful defensive tools.
 
+---
 ### [[Way of the Brewmaster]]
 
-A **staggering, alcohol-themed Monk** that uses brews and debuffs to weaken enemies. Primarily physical with utility and status effects.
+A **tough, evasive Monk** inspired by WoW's Brewmaster, using alcohol and concoctions to enhance combat and absorb punishment. **Mostly physical with alchemical effects**, intended to play as a durable frontliner rather than a pure damage dealer.
 
+---
 ### [[Way of the Drunken Master]]
 
-A highly mobile **trickster Monk** that uses unpredictable movement and attacks. Primarily physical, focused on mobility, evasion, and disrupting enemies.
+An unpredictable brawler that turns **alcohol, stumbling movements, and enemy intoxication** into weapons. **Purely martial with some psychic effects**, focused on mobility, disruption, and making enemies easier to exploit.
 
+---
 ### [[Way of the Forge]]
 
-A Monk focused on **forging and enhancing weapons/armor**. Primarily physical, with some magical crafting and defensive abilities.
+A Monk who combines martial discipline with the **power of the forge**, using fire to burn enemies and strengthening the equipment of allies. **Physical with fire-based magic and support**, making it a good offensive/support hybrid.
 
+---
 ### [[Way of the Four Elements]]
 
-An elemental martial artist who channels **fire, water, air, and earth** through Ki. A hybrid of physical combat and elemental magic.
+A classic **elemental Monk** capable of channeling fire, water, air, and earth through Ki. **Physical + elemental magic**, with options for ranged attacks, AoE damage, control, and utility.
 
+---
 ### [[Way of the Kensei]]
 
-A **weapon-focused Monk** specializing in mastery of chosen weapons. Primarily physical, with little to no magic.
+A weapon master who treats selected weapons as an extension of their martial arts. **Almost entirely physical**, specializing in precise weapon attacks, ranged options, and enhanced martial damage rather than spellcasting.
 
+---
 ### [[Way of the Long Death]]
 
-A dark Monk who manipulates **death and necrotic energy**. Primarily physical with necrotic abilities and strong defensive/survival tools.
+A dark, death-obsessed Monk who manipulates **necrotic energy, fear, and life force** to become increasingly difficult to kill. **Physical + necrotic magic**, with a strong focus on survivability, temporary HP, fear, and draining enemies.
 
+---
 ### [[Way of the Mercy]]
 
-A Monk who combines **martial arts with healing and necrotic techniques**. Hybrid playstyle with physical damage, healing, and life-draining abilities.
+A masked martial artist who manipulates **life force to heal allies or inflict necrotic wounds** on enemies. **Physical + healing/necrotic magic**, making it one of the best Monk options for a hybrid damage/support role.
 
+---
 ### [[Way of the Mistweaver]]
 
-A mystical Monk who uses **mist and supernatural abilities** to enhance combat. Primarily physical with magical utility and mobility.
+A mystical martial artist focused on **healing, restorative abilities, and fighting through spiritual/mist-based power**. **Physical + healing magic**, intended primarily as a support/healer that can still participate in melee combat. The BG3 version is based on WoW's Mistweaver specialization.
 
+---
 ### [[Way of the Open Hand]]
 
-A pure **martial-arts-focused Monk** specializing in unarmed combat and Ki techniques. Primarily physical, with minimal supernatural effects.
+The purest expression of **unarmed martial arts**, using Ki to dramatically enhance punches, movement, and control over enemies. **Almost entirely physical**, making it the straightforward choice for players who just want to punch things extremely hard.
 
+---
 ### [[Way of the Shadow]]
 
-A stealth-oriented Monk who uses **darkness, teleportation, and illusion-like abilities**. Physical assassin/skirmisher with Shadow magic.
+A stealth-oriented Monk that uses **darkness, teleportation, invisibility, and shadow techniques** to appear and disappear around the battlefield. **Physical + shadow/utility magic**, ideal for assassins, infiltrators, and highly mobile skirmishers.
 
+---
 ### [[Way of the Steel]]
 
-A Monk specializing in **weapons, armor, and disciplined martial combat**. Primarily physical, focused on weapon-based fighting and durability.
+A more durable martial path built around **hardened defenses and powerful physical strikes**. **Almost entirely physical**, favoring toughness and direct melee combat over elemental or spell-like abilities.
 
+---
 ### [[Way of the Sun Soul]]
 
-A Monk who channels **radiant energy into ranged attacks**. Hybrid martial/caster, focused on physical combat and radiant magic.
+A Monk who turns their Ki into **blazing radiant energy**, allowing them to fight effectively from range as well as in melee. **Physical + radiant magic**, making it one of the best choices for a Monk who wants ranged attacks and AoE without becoming a traditional spellcaster.
 
+---
 ### [[Way of the Windwalker]]
 
-A highly mobile Monk who harnesses **wind and air-based abilities**. Primarily physical with elemental magic, mobility, and ranged options.
+A highly mobile martial artist who channels **wind and elemental energy** into rapid attacks and movement. **Physical + wind/air magic**, emphasizing mobility, melee DPS, and chaining attacks together rather than standing still and trading blows.
