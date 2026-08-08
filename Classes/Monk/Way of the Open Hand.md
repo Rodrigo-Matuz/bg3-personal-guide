@@ -5,15 +5,13 @@ A highly mobile martial monk who specializes in unarmed combat, controlling enem
 **Playstyle:** Stay mobile, focus on high-priority targets, and use Flurry of Blows to overwhelm enemies with multiple unarmed attacks. Use your Open Hand techniques to knock enemies [[Prone]], [[Staggered]], or push them away. Take advantage of your high mobility to move in and out of combat without relying heavily on armor or weapons.
 
 **Notes:**
-
 - Extremely strong unarmed damage.
 - Highly mobile thanks to increased movement and [[Step of the Wind]].
-- Excellent at controlling enemies through unarmed attacks.
 - Can knock enemies [[Prone]], [[Staggered]], or push them away.
 - Very strong single-target damage.
 - Does not use armor, relying on [[Unarmoured Defence]] and mobility instead.
-- [[WIS]] improves both your [[Unarmoured Defence]] and certain Monk abilities.
-- [[DEX]] is important for attack rolls, damage, and [[Unarmoured Defence]].
+- **WIS** improves both your [[Unarmoured Defence]] and certain Monk abilities.
+- **DEX** is important for attack rolls, damage, and [[Unarmoured Defence]].
 - [[Tavern Brawler]] can dramatically increase damage when using [[Strength]]-based unarmed attacks.
 
 ---
