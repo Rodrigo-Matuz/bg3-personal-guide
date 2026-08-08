@@ -226,7 +226,7 @@ O guia vai crescer naturalmente junto com a playthrough, em vez de tentar docume
 
 **Importante:** Este guia **não será traduzido** para português (pt-BR). Todo o conteúdo permanece em inglês.
 
-Este arquivo `LEIAME.md` é apenas a versão localizada do README, para facilitar a compreensão do propósito e da estrutura do repositório.
+Este arquivo `README.pt-BR.md` é apenas a versão localizada do README, para facilitar a compreensão do propósito e da estrutura do repositório.
 
 No futuro, é possível que seja criado um site contendo traduções de todo o conteúdo deste guia.
 
