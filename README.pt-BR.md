@@ -219,11 +219,11 @@ Este é um projeto pessoal em andamento.
 
 As informações podem estar:
 
-- Incomplete
-- Subject to change
-- Specific to the current modlist
-- Based on personal testing
-- Updated as new discoveries are made
+- Incompleto
+- Sujeito a alterações
+- Específico para a lista de mods atual
+- Baseado em testes pessoais
+- Atualizado conforme novas descobertas são feitas
 
 O guia vai crescer naturalmente junto com a playthrough, em vez de tentar documentar tudo desde o início.
 
