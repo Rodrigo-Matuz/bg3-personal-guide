@@ -18,7 +18,7 @@ A highly mobile martial monk who specializes in unarmed combat, controlling enem
 
 ## Suggested Stats + Skills
 
-Preferred skills: [Acrobatics](https://chatgpt.com/c/Acrobatics), [Athletics](https://chatgpt.com/c/Athletics), [Insight](https://chatgpt.com/c/Insight), [Perception](https://chatgpt.com/c/Perception)
+Preferred skills: [[Acrobatics]], [[Athletics]], [[Insight]], [[Perception]]
 
 |Ability Score Priority|||
 |---|---|---|
@@ -36,15 +36,15 @@ Preferred skills: [Acrobatics](https://chatgpt.com/c/Acrobatics), [Athletics](ht
 
 ## Feats
 
-- [Ability Improvement](https://chatgpt.com/c/Ability%20Improvement): Always good for increasing **DEX**, **WIS**, or **STR** depending on your build
-- [Alert](https://chatgpt.com/c/Alert): Excellent for getting into position early and controlling priority targets
-- [Athlete](https://chatgpt.com/c/Athlete): Useful for improving mobility and jumping
-- [Mobile](https://chatgpt.com/c/Mobile): Good for an even more mobile playstyle
-- [Tavern Brawler](https://chatgpt.com/c/Tavern%20Brawler): **Excellent** for Strength-based Open Hand builds
-- [Tough](https://chatgpt.com/c/Tough): More HP if you want additional survivability
-- [Resilient](https://chatgpt.com/c/Resilient): Good defensive option, especially for **CON**
-- [Sentinel](https://chatgpt.com/c/Sentinel): Useful if you want to stay close to enemies and punish them for moving
-- [Defensive Duelist](https://chatgpt.com/c/Defensive%20Duelist): Good defensive option for DEX-based builds using a finesse weapon
+- [[Ability Improvement]]: Always good for increasing **DEX**, **WIS**, or **STR** depending on your build
+- [[Alert]]: Excellent for getting into position early and controlling priority targets
+- [[Athlete]]: Useful for improving mobility and jumping
+- [[Mobile]]: Good for an even more mobile playstyle
+- [[Tavern Brawler]]: **Excellent** for Strength-based Open Hand builds
+- [[Tough]]: More HP if you want additional survivability
+- [[Resilient]]: Good defensive option, especially for **CON**
+- [[Sentinel]]: Useful if you want to stay close to enemies and punish them for moving
+- [[Defensive Duelist]]: Good defensive option for DEX-based builds using a finesse weapon
 
 > **Note:** These are merely universal suggestions. The best feats may vary depending on your build, equipment, party composition, and preferred playstyle etc...
 
