@@ -1,0 +1,3 @@
+- [[Tactics Inquisition]]
+- [[Vengeance Inquisition]]
+- [[Zeal Inquisition]]
