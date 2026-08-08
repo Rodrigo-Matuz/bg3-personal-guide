@@ -1,0 +1,13 @@
+- Ancestral Guardian
+- Battlerager
+- Beast
+- Berserker
+- Giant
+- Ginnungagap
+- Juggernaut
+- Path of the Corpse Eater
+- Rage Mage
+- Storm Herald
+- Wild Magic
+- Wildheart
+- Zealot

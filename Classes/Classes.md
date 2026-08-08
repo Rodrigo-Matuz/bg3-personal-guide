@@ -1,2 +1,2 @@
-- [[aa Cleric Classes]]
-- [[aa Wizard Classes]]
+- [[aa Cleric Subclasses]]
+- [[aa Wizard Subclasses]]
