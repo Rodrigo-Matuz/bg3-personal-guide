@@ -1,4 +1,4 @@
-[🇺🇸 English](README.md) | [🇧🇷 Português](README.pt-BR.md)
+[English](README.md) | [Português](README.pt-BR.md)
 
 # Baldur's Gate 3 — Personal Guide
 
