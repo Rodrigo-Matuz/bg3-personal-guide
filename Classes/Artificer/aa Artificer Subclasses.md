@@ -177,6 +177,6 @@ Outside combat, the mechanical companion gives the subclass additional utility a
 - [[Alchemist]] — Choose it if you want to support the party through potions, healing, buffs, and preparation.
 - [[Armorer]] — Choose it if you want your equipment to define your combat style and prefer either tanking or ranged armored combat.
 - [[Artillerist]]— Choose it if you want to fight from the backline with spells and magical cannons.
-- [Battle Smith]] — Choose it if you want the most martial Artificer experience and a mechanical companion.
+- [[Battle Smith]] — Choose it if you want the most martial Artificer experience and a mechanical companion.
 
 [[Artificer]] is fundamentally a preparation and customization class: enhance your equipment, use your inventions efficiently, and let your subclass determine how you fight.
