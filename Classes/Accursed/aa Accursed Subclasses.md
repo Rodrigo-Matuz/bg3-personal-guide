@@ -1,249 +1,257 @@
 # [[Accursed]]
 
-## Description
+A versatile half-caster that turns its own curse into a combat advantage. [[Accursed]] combines curse-based debuffs with either martial combat, offensive magic, stealth, durability, or specialized mechanics depending on the subclass. Its core toolkit focuses on weakening enemies, controlling their actions, and exploiting the specific curse affecting your character. The class uses Charisma as its default spellcasting ability, although the mod also provides optional Intelligence and Wisdom variants.
 
-[[Accursed]] is a hybrid martial and magical class built around living with a powerful supernatural curse. Rather than removing the curse, an Accursed learns to control it, suppress its drawbacks when necessary, and eventually use it as a source of combat power.
+The main drawback is that every [[Accursed]] has an inherent ailment. These drawbacks can be temporarily suppressed by spending spell slots, but they cannot simply be removed during normal play. This makes the class more demanding than a conventional half-caster: you need to build around your curse rather than treating it as a minor inconvenience.
 
-The class is a **Charisma-based half-caster** by default, with access to a specialized spell list focused heavily on **debuffs, curses, control effects, and necrotic or entropic damage**. It also has a unique system of **Malediction Metamorphoses**, allowing you to specialize your core abilities toward offense, defense, stealth, or curse manipulation. Optional versions of the mod can instead make Intelligence or Wisdom the casting ability.
+In combat, [[Accursed]] can fill several different roles depending on its subclass:
 
-The defining mechanic is that **every Accursed has an ailment**. Your subclass determines what that drawback is, and you can spend spell slots to temporarily suppress it. You can also use your curse against enemies through **Afflict**, while your basic **Jinx** ability can impose disadvantage on an enemy's next attack or ability check. This makes the class less about simply maximizing raw damage and more about managing conditions, positioning, and timing your abilities.
+- **Martial damage dealer:** Weapon-focused subclasses gain Extra Attack and additional curse-based damage.
+- **Spellcaster:** Use curses, debuffs, control spells, and subclass-specific offensive magic.
+- **Tank:** Several subclasses gain heavy armor, shields, temporary hit points, resistances, or ways to survive lethal damage.
+- **Controller:** Jinxes, curses, fear, silence, movement reduction, and other debuffs can disable or weaken enemies.
+- **Skirmisher:** Invisibility and mobility tools allow certain builds to attack from advantageous positions and avoid retaliation.
+- **Utility character:** The class can provide skills, proficiencies, defensive effects, resurrection mechanics, and other specialized party utility.
 
-In combat, **Accursed** can fill several different roles depending on its subclass:
+## [[Curse of the Armament]]
 
-- **Martial damage dealer** through weapons, Extra Attack, and curse-enhanced attacks.
-- **Spellcaster** through debuffs, control spells, and specialized subclass magic.
-- **Frontliner** through defensive metamorphoses and subclass-specific survivability.
-- **Utility/control character** through curses, stealth, fear, silence, movement denial, and other debuffs.
-- **Hybrid** by mixing weapon attacks with spellcasting and curse effects.
+A weapon-focused [[Accursed]] permanently bound to a cursed weapon. The subclass is essentially a martial half-caster that combines weapon attacks with curse magic and Smite-like effects. Your cursed weapon can be changed to other suitable weapons during the adventure, but it always returns to you and can be thrown without being permanently lost.
 
-The class is particularly suited to players who want a character with **strong mechanical drawbacks that are balanced by unusual abilities**. It is less straightforward than a Fighter or Wizard because you constantly need to consider whether to work around your ailment, suppress it, or deliberately build your character around it.
+The main drawback is also straightforward: attacking with weapons other than your cursed weapon comes with disadvantage. This means you should treat the cursed weapon as your primary equipment rather than constantly swapping between weapons.
 
-### Core Gameplay
+### Combat
 
-[[Accursed]] starts with its subclass immediately, so your curse defines your character from the beginning. You gain your main spellcasting system shortly afterward, while the class continues adding subclass features and Malediction Metamorphoses throughout the game.
+[[Curse of the Armament]] is one of the most straightforward martial versions of [[Accursed]]. Use your cursed weapon for consistent weapon damage, apply curse effects when appropriate, and use its spell list for additional damage and utility.
 
-Your spell slots have an additional purpose beyond normal spellcasting: you can use them to **suppress your own curse** or **afflict enemies with your subclass's ailment**. Higher-level slots make suppression last longer, with sufficiently high-level slots allowing the suppression to last until your next long rest.
-
-The class also gains several universal defensive advantages as it progresses, including immunity to other curses, protection against hit-point reduction, and eventually immunity to effects such as magical sleep, possession, and involuntary polymorphing.
-
-### Early Game
-
-[[Accursed]] is already defined by its subclass from the beginning. Your gameplay is generally built around your curse's unique ability, [[Jinx]], and eventually your first Malediction Metamorphosis.
-
-This is also when the class's drawbacks are most noticeable. You do not yet have as many tools to compensate for your ailment, so learning when to suppress it is important.
-
-### Mid Game
-
-The class begins to come together as your subclass gains its major combat features and you accumulate more Malediction Metamorphoses.
-
-Your role becomes much more specialized here. Martial subclasses begin functioning like genuine weapon-based hybrids, while magical subclasses gain stronger tools for controlling or damaging groups of enemies.
-
-### End Game
-
-At high levels, [[Accursed]] becomes highly specialized according to its chosen curse. Its universal metamorphoses can provide substantial offensive, defensive, stealth, or utility improvements, while the subclass supplies the majority of the character's defining power.
-
-The class's endgame identity is therefore determined less by the base class alone and more by **how well you combine your subclass, curse management, spells, and Malediction Metamorphoses**.
-
----
-
-# [[Curse of the Armament]]
-
-[[Curse of the Armament]] turns the [[Accursed]] into a dedicated supernatural weapon user. Your cursed weapon is permanently bound to you, cannot simply be given away, and automatically returns when thrown. In exchange, using other weapons is heavily penalized.
-
-This makes the subclass unusually dependent on **one specific weapon**, but that restriction comes with significant benefits. You gain martial weapon proficiency, additional damage with your cursed weapon, Extra Attack, weapon-enhancement spells, and eventually specialized fighting styles.
-
-The subclass works particularly well for players who want a **weapon-focused hybrid similar to a cursed version of a Paladin or Fighter**, while still retaining the [[Accursed]] spell and curse toolkit.
-
-### Combat & Exploration
-
-In combat, your cursed weapon is the center of your action economy. You can attack normally, enhance it with magic, or throw it without permanently losing access to it.
-
-The returning weapon also gives you useful ranged flexibility. You can throw your weapon at an enemy and later use the subclass's high-level mobility to close the distance.
-
-Your biggest drawback is weapon flexibility. You cannot casually switch between whatever weapon happens to be strongest because attacks with other weapons suffer disadvantage until you make that weapon your new cursed armament.
+The returning weapon mechanic also gives the subclass a useful ranged option without requiring a dedicated throwing build. Later features improve both melee and thrown combat, while the subclass eventually gains a teleporting throw and extremely strong action economy at the highest end of progression.
 
 ### Progression
 
-**Early Game:** You immediately receive your cursed weapon and martial weapon proficiency. The subclass plays primarily as a melee fighter with curse magic and weapon-based utility.
+**Early:** Establish your cursed weapon as your main weapon and play primarily as a martial character with curse magic supporting your attacks. The extra damage from the cursed weapon makes it immediately useful.
 
-**Mid Game:** Your cursed weapon gains additional damage and you gain Extra Attack. This is where the subclass becomes a proper martial damage dealer, while spells such as [[Magic Weapon]], [[Elemental Weapon]], and [[Wrathful Smite]] give you additional ways to improve your attacks.
+**Mid:** Extra Attack significantly improves your weapon-based damage. You also gain access to stronger weapon enhancement and Smite-style spells, making the subclass much more capable of converting spell slots into offensive pressure.
 
-**End Game:** Fighting-style options, weapon-based mobility, and powerful improvements to the cursed weapon make the subclass extremely effective at sustained martial combat. Its final abilities allow weapon attacks and spellcasting to work together much more aggressively.
+**End:** Fighting-style options improve your preferred weapon setup, while throwing becomes increasingly powerful because you can teleport toward targets after successful throws. At the highest end, the cursed weapon becomes a +3 weapon and can make an additional attack as part of the same action as a spell or weapon attack.
 
----
+**Best for:**
 
-# [[Curse of Combustion]]
+- Martial half-caster builds
+    
+- Weapon + curse hybrids
+    
+- Throwing weapon builds
+    
+- Smite-style burst damage
+    
+- Players who want one signature weapon
+    
 
-[[Curse of Combustion]] is the dedicated fire-damage specialization of [[Accursed]]. It gives you powerful fire spells and explosive abilities, but your body is inherently unstable.
+## [[Curse of Combustion]]
 
-The defining drawback is that **taking damage can cause your internal flames to erupt**. You must make Concentration saves even when you are not concentrating on a spell. Failure damages you and can damage creatures nearby.
+A [[Curse of Combustion]] contains an unstable magical flame that makes fire magic extremely powerful but dangerous to use. It is the dedicated offensive caster option for [[Accursed]], combining fire-based area damage with explosive self-risk. Its curse can literally cause you to damage yourself and nearby creatures when you lose control.
 
-This makes the subclass a **high-risk AoE damage dealer**. You can deliberately release your flames, amplify their damage, and eventually become capable of using large fire attacks without harming your allies.
+### Combat
 
-### Combat & Exploration
+This subclass is built around **large-area fire damage**. [[Burning Hands]], [[Fireball]], [[Wall of Fire]], and other combustion abilities give it strong AoE potential. You can also deliberately trigger Flame Burst for close-range damage.
 
-Combat revolves around controlling your position and deciding when the extra damage is worth the risk.
+The defining mechanic is Overheat. You can take self-damage to dramatically increase the Fire damage of your combustion abilities. This makes the subclass capable of extremely high burst damage, but it requires careful health management.
 
-You can deliberately use [[Flame Burst]] against nearby enemies, channel your flames into individual targets, or use your fire spell list for larger AoE attacks. Later, [[Overheat]] lets you sacrifice your own health to dramatically increase the fire damage of your abilities.
-
-The main weakness is self-damage. You are effectively spending part of your own health to increase your damage output, so defensive tools, healing, positioning, and temporary hit points become particularly valuable.
-
-### Progression
-
-**Early Game:** You gain [[Flame Burst]] and your unstable-flame ailment. The subclass already has strong close-range AoE potential, but controlling the risk of accidental explosions is important.
-
-**Mid Game:** [[Overheat]] dramatically increases your fire damage at the cost of your own health. Your fire spell selection also becomes much stronger, giving you access to major AoE options.
-
-**End Game:** Your fire attacks become substantially safer for the party because your flames learn to avoid allies. You eventually ignore Fire resistance, while the highest-level version of [[Overheat]] can bypass even Fire immunity.
-
----
-
-# [[Curse of the Created]]
-
-[[Curse of the Created]] turns the [[Accursed]] into a heavily armored artificial or stitched-together warrior designed to survive damage that would kill other characters.
-
-The subclass is primarily a **frontline tank with offensive lightning abilities**. It gains martial weapons, shields, Extra Attack, defensive tools, and one of its most important mechanics: [[It's Alive!]].
-
-When you would normally be reduced to 0 HP, [[It's Alive!]] allows you to remain in the fight by bursting with lightning and gaining a large amount of temporary HP.
-
-### Combat & Exploration
-
-In combat, [[Curse of the Created]] wants to be attacked. Its abilities encourage you to stand near enemies, absorb punishment, and retaliate with lightning-enhanced attacks.
-
-[[Shocking Strike]] adds Lightning damage to your attacks and encourages enemies to focus on you rather than your allies. Your temporary HP mechanics also allow you to convert incoming or stored durability into additional melee damage.
-
-Outside combat, the subclass is less specialized than some alternatives. Its main advantage is simply being extremely difficult to kill, while its unusual nature can affect social interactions with humanoids.
+The subclass becomes considerably safer later because its fire abilities can avoid allies, allowing you to use large AoE spells without constantly worrying about friendly fire. It eventually ignores Fire resistance, while its highest-end Overheat attacks can bypass Fire immunity.
 
 ### Progression
 
-**Early Game:** You gain martial weapons, shields, and your emergency survival mechanic. The subclass is already capable of acting as a durable frontline character.
+**Early:** You are already capable of strong AoE fire damage, but your unstable flame is a serious drawback. Taking damage can trigger your curse and hurt you and nearby allies.
 
-**Mid Game:** Extra Attack and [[Shocking Strike]] turn you into a much stronger martial combatant. Later defensive improvements make Lightning damage beneficial rather than dangerous.
+**Mid:** Overheat becomes the main damage amplifier. You can deliberately sacrifice health for much higher Fire damage, making careful positioning and defensive support increasingly important.
 
-**End Game:** Temporary HP becomes an offensive resource as well as a defensive one. High-level abilities allow you to redistribute physical ability scores and enter a powerful temporary combat state with healing, temporary HP, improved attacks, and better physical saving throws.
+**End:** The subclass becomes a specialized Fire damage dealer. It gains protection against its own AoE, ignores Fire resistance, and eventually gains substantial bonus Fire damage. Overheat can also overcome Fire immunity at the highest end.
 
----
+**Best for:**
 
-# [[Curse of Immortality]]
+- AoE damage
+    
+- Fire-focused spellcasters
+    
+- High-risk/high-reward builds
+    
+- Burning and area denial
+    
+- Players who want maximum offensive spell pressure
+    
 
-[[Curse of Immortality]] is the most flexible [[Accursed]] subclass. Instead of specializing exclusively in one combat style, the immortal has accumulated centuries of experience and can develop in either a **Mage** or **Warrior** direction.
+## [[Curse of the Created]]
 
-Its major drawback is severe but straightforward: **other creatures cannot normally heal you with healing spells**. You can heal yourself, but external magical healing is blocked.
+A heavily modified, stitched-together [[Accursed]] designed to survive punishment rather than avoid it. [[Curse of the Created]] combines martial combat, heavy armor, shields, Lightning damage, temporary hit points, and unusual survival mechanics.
 
-The compensation is [[Immortality]] itself: if you remain dead when the day ends, you return at dawn at full health, although you suffer a temporary penalty afterward.
+The subclass is particularly good at remaining relevant after taking damage that would normally remove another character from the fight. Its unnatural construction also provides additional utility through inherited proficiencies.
 
-The subclass therefore rewards players who want a character that is **self-sufficient, versatile, and difficult to permanently remove from the party**.
+### Combat
+
+[[Curse of the Created]] works best as a frontline bruiser or tank. You gain martial weapon and shield proficiency, access to heavy defensive tools, and a unique mechanic that prevents your first lethal hit from simply ending the fight.
+
+When you would normally reach 0 HP, [[It's Alive!]] instead gives you a large amount of temporary HP and releases Lightning damage around you. Later, Lightning resistance and temporary HP generation make Lightning damage itself part of your defensive toolkit.
+
+Shocking Strike also adds Lightning damage to your attacks while encouraging enemies to attack you, making the subclass naturally suited to protecting the rest of the party.
+
+### Progression
+
+**Early:** Play as a durable melee character with martial weapons and shields. Your unique death-prevention mechanic makes you unusually difficult to finish off.
+
+**Mid:** Extra Attack increases your martial damage, while Shocking Strike and Lightning-related defenses improve both offense and survivability. You become increasingly comfortable staying in the center of a fight.
+
+**End:** Temporary HP becomes a major resource for both defense and damage. Your strongest transformation provides repeated healing, temporary HP, improved Shocking Strike damage, and bonuses to physical attacks and saving throws.
+
+**Best for:**
+
+- Frontline tanks
+    
+- Martial bruisers
+    
+- Shield users
+    
+- Characters that want strong survivability
+    
+- Players who enjoy temporary HP mechanics
+    
 
 ## [[Curse of Immortality (Mage)]]
 
-The Mage path develops the immortal into a hybrid spellcaster with access to **Wizard cantrips and Wizard spells** on top of the normal [[Accursed]] spell list.
+An ancient [[Accursed]] who has accumulated knowledge across an unnaturally long life. The Mage path combines the normal curse-based [[Accursed]] toolkit with Wizard spells and cantrips, creating a hybrid caster that can expand its magical options while retaining the class's debuff and curse mechanics.
 
-This makes it one of the more unusual caster hybrids. You are not a full Wizard, but you can combine Wizard magic with the Accursed's curses, debuffs, and specialized abilities.
+Its defining drawback is that other characters cannot normally heal it with spells. In exchange, the character automatically returns at dawn if they die, returning at full health but suffering a temporary penalty afterward.
 
-### Combat & Exploration
+### Combat
 
-The Mage path works best as a **ranged magical hybrid**. You can use Wizard cantrips for consistent damage while reserving Accursed spell slots for curses, control, and utility.
+The Mage path is the most spell-focused version of [[Curse of Immortality]]. Use [[Accursed]] spells for debuffs and control while using Wizard spells and cantrips for additional offensive and utility options.
 
-The flexible skill and weapon proficiency choices also make the subclass useful outside combat. The ability to change these choices after a long rest means the immortal can adapt to different situations.
+The subclass is particularly useful when you want a character who can switch between different types of magical pressure rather than specializing entirely in one damage type.
+
+Its self-healing restriction means party healers cannot be relied upon in the same way as they can for other characters. You therefore need to make good use of your own healing tools, defensive abilities, and the subclass's resurrection mechanic.
 
 ### Progression
 
-**Early Game:** You gain flexible proficiency choices and the ability to return from death at dawn. Your normal [[Accursed]] abilities form the foundation of your combat style.
+**Early:** Play as a hybrid caster with curse magic and a small selection of Wizard tools. Your immortality drawback is already active, so managing your own health matters.
 
-**Mid Game:** The Mage path begins adding Wizard cantrips and spells. Wizard cantrips also gain additional damage through your Charisma modifier, making them a reliable part of your action economy.
+**Mid:** Your Wizard spell selection expands alongside your normal [[Accursed]] spells. Cantrips also gain additional damage, making them a more reliable part of your action economy.
 
-**End Game:** You have a broad hybrid spell selection and continue gaining the universal tools of [[Accursed]]. You also gain more ways to sustain yourself despite being unable to receive normal magical healing.
+**End:** You become a flexible high-level caster with substantial spell utility and the ability to share your dawn resurrection with another party member. Additional [[Malediction Metamorphosis]] options further customize your build.
 
----
+**Best for:**
+
+- Hybrid spellcasters
+    
+- Wizard + curse magic
+    
+- Flexible magical utility
+    
+- Players who want resurrection mechanics
+    
+- Characters that do not rely heavily on party healing
+    
 
 ## [[Curse of Immortality (Warrior)]]
 
-The Warrior path turns the immortal into a long-lived martial expert. Rather than relying primarily on Wizard magic, you gain **heavy armor, martial weapons, Extra Attack, and increasing bonus damage on weapon and unarmed attacks**.
+The Warrior path turns centuries of experience into a dedicated martial build. Unlike the Mage path, it focuses on weapons, heavy armor, Extra Attack, and increasingly powerful bonus damage on weapon and unarmed attacks.
 
-This is the better choice if you want the Immortality concept while still playing primarily as a frontline martial character.
+You still retain the defining immortality mechanic: other characters cannot normally heal you with spells, but dying allows you to return at dawn.
 
-### Combat & Exploration
+### Combat
 
-Your basic combat loop is straightforward: engage enemies, make multiple weapon attacks, and spend your bonus action to add additional damage to an attack.
+[[Curse of Immortality (Warrior)]] is a durable martial character that uses its bonus action to increase the damage of successful weapon or unarmed attacks.
 
-The subclass is particularly good for players who want a martial character that still retains the [[Accursed]] curse and spell toolkit rather than simply playing a conventional Fighter.
+Heavy armor and martial weapon proficiency give it a conventional frontline setup, while its bonus damage scales as the character progresses. Extra Attack makes the subclass much more effective at converting that bonus damage into sustained weapon pressure.
 
-Outside combat, [[Jack of All Trades]] and the subclass's flexible proficiency system make the immortal unusually adaptable.
-
-### Progression
-
-**Early Game:** You are a versatile hybrid with the ability to adapt your proficiencies while relying on your immortality for survivability.
-
-**Mid Game:** Heavy armor, martial weapons, additional weapon damage, and Extra Attack establish the subclass as a true frontline martial.
-
-**End Game:** Your bonus damage continues scaling, while the subclass gains additional self-sustainability and the ability to share its resurrection mechanic with another party member.
-
----
-
-# [[Curse of Invisibility]]
-
-[[Curse of Invisibility]] specializes in **stealth, evasion, and attacking from concealment**. Your curse makes physical manipulation more difficult, but compensates by making you extremely difficult to detect and allowing you to disappear during combat.
-
-This is the closest [[Accursed]] comes to a dedicated stealth-based martial character.
-
-### Combat & Exploration
-
-Your primary resource is **visibility**.
-
-You can disappear as a bonus action, attack from stealth, and use your reaction to make attacks against you less likely to hit. Attacks made while enemies cannot see you receive additional damage, making stealth directly contribute to your offensive output rather than merely serving as a defensive tool.
-
-This also makes the subclass excellent for exploration. Its high Stealth capability and invisibility spells allow you to bypass enemies, reposition, sneak through areas, and initiate fights on your own terms.
-
-The main limitation is that enemies capable of seeing through invisibility can bypass many of your defensive advantages.
+Unlike [[Curse of the Armament]], it does not revolve around one specific cursed weapon. It is better suited to players who want a conventional heavily armored martial character with the unusual advantages of immortality.
 
 ### Progression
 
-**Early Game:** You gain strong Stealth capabilities, martial weapon proficiency, and a reaction that can interfere with attacks against you. Your invisibility-focused spell list already supports the subclass's exploration role.
+**Early:** Establish yourself as a heavily armored martial character while working around the inability to receive normal magical healing.
 
-**Mid Game:** [[Vanish]] becomes the core of the subclass. You can turn invisible as a bonus action and gain substantial bonus damage when attacking unseen or from hiding.
+**Mid:** Extra Attack greatly improves your sustained damage, while the increasing bonus damage makes your weapon attacks more threatening.
 
-**End Game:** Vanish becomes much more sustainable, eventually requiring no charges and lasting for an extended duration. Your defensive reaction also becomes significantly stronger, making you extremely difficult to hit while your invisibility remains effective.
+**End:** Your bonus damage reaches its maximum value, while your immortality and self-healing mechanics make you extremely difficult to permanently remove from the party.
 
----
+**Best for:**
 
-# [[Curse of Vampirism]]
+- Heavy armor builds
+    
+- Frontline martial characters
+    
+- Weapon and unarmed combat
+    
+- Durable solo-capable characters
+    
+- Players who want an immortal warrior fantasy
+    
 
-[[Curse of Vampirism]] is the most specialized melee-control option available to [[Accursed]]. It combines **grappling, biting, necrotic damage, self-healing, charm effects, and mobility** into a predator-style playstyle.
+## [[Curse of Invisibility]]
 
-Unlike the other subclasses, it is an optional addition to the mod and relies on the **Grappling Framework** for some of its mechanics.
+A stealth-focused [[Accursed]] whose curse makes them exceptionally difficult to see and attack. The subclass combines invisibility, stealth bonuses, defensive reactions, martial weapons, and bonus damage against enemies that cannot see you.
 
-The defining gameplay loop is simple:
+It is particularly effective outside combat because its invisibility and stealth mechanics make it useful for scouting, positioning, infiltration, and avoiding unnecessary encounters.
 
-**Grapple an enemy → restrain or incapacitate them → bite them → deal additional Necrotic damage → recover health.**
+### Combat
 
-Your bite initially uses your full action and does not work with Extra Attack, so the subclass becomes considerably more effective once its later features allow you to combine grappling and biting more efficiently.
+[[Curse of Invisibility]] is a mobile skirmisher rather than a conventional frontline fighter. Use Vanish to become invisible, reposition, then attack enemies who cannot see you.
 
-### Combat & Exploration
+Its Disappearing Duellist reaction provides another defensive layer by imposing disadvantage on attacks that would hit you. Attacks made from concealment also deal additional damage, giving the subclass a strong incentive to attack from stealth rather than standing in prolonged melee.
 
-[[Curse of Vampirism]] is strongest at close range. You want to isolate a target, prevent them from escaping, and repeatedly exploit their vulnerable state.
-
-The subclass also has useful utility through its supernatural abilities. [[Charm Person]], [[Misty Step]], [[Gaseous Form]], and later domination spells give you options beyond simply attacking.
-
-Its biggest drawback is sunlight. In direct sunlight, you suffer disadvantage on attacks and Perception checks, making environmental positioning important.
+At higher progression, Vanish becomes easier to sustain and can eventually provide group invisibility for nearby allies.
 
 ### Progression
 
-**Early Game:** You gain Darkvision, Necrotic resistance, the Bite attack, and the subclass's sunlight weakness. The subclass is functional but requires enemies to be vulnerable to your bite.
+**Early:** Focus on stealth, positioning, and attacking from concealment. Your defensive reaction gives you a reliable way to reduce incoming attacks.
 
-**Mid Game:** Extra Attack makes grappling and biting much easier to combine, while your bite gains additional Necrotic damage and healing against Grappled, Restrained, or Incapacitated targets. Your control over grappling continues improving.
+**Mid:** Vanish becomes the centerpiece of your combat loop. You can repeatedly disappear, reposition, and attack from advantageous positions while gaining stronger defensive benefits.
 
-**End Game:** You gain strong grappling advantages, additional utility through [[Conjure Animals]], and eventually flight. At the highest level, Necrotic damage against eligible creatures also heals you for the damage dealt, turning the vampire into a powerful self-sustaining melee predator.
+**End:** Your invisibility becomes much easier to maintain, eventually lasting for extended periods without consuming Vanish Charges. Your defensive reaction also becomes substantially stronger, giving you broad protection against attacks and improved spell saving throws.
 
----
+**Best for:**
 
-## Choosing an [[Accursed]]
+- Stealth characters
+    
+- Scouting and infiltration
+    
+- Hit-and-run combat
+    
+- Invisible melee attackers
+    
+- Players who want strong defensive mobility
+    
 
-- [[Curse of the Armament]] — Best for a weapon-focused martial hybrid.
-- [[Curse of Combustion]] — Best for aggressive fire-based AoE damage.
-- [[Curse of the Created]] — Best for a durable frontline tank.
-- [[Curse of Immortality (Mage)]] — Best for a flexible magical hybrid with Wizard spells.
-- [[Curse of Immortality (Warrior)]] — Best for a durable martial hybrid with strong sustained weapon damage.
-- [[Curse of Invisibility]] — Best for stealth, evasion, and attacking from concealment.
-- [[Curse of Vampirism]] — Best for grappling, biting, life drain, and supernatural melee control.
+## [[Curse of Vampirism]]
 
-[[Accursed]] is fundamentally a hybrid class: your curse determines your main combat identity, while your spells and Malediction Metamorphoses let you adapt that identity to the situation.
+A melee predator built around grappling, biting, life drain, and supernatural control. [[Curse of Vampirism]] combines martial combat with vampiric abilities and becomes increasingly effective when it can isolate and restrain enemies.
+
+The main drawback is sunlight. When you or your target are in direct sunlight, you suffer disadvantage on attack rolls and Perception checks. This makes environmental awareness particularly important. The subclass also relies on the mod's Grappling Framework.
+
+### Combat
+
+[[Curse of Vampirism]] wants to fight at close range. Grapple an enemy, restrict their movement, then use your bite against a vulnerable target.
+
+Biting a Grappled, Restrained, or Incapacitated creature deals additional Necrotic damage and heals you. Later, Extra Attack allows you to combine a grapple with an immediate bite, making the grapple-to-bite sequence a central part of the subclass's action economy.
+
+The subclass also provides Charm, Misty Step, Gaseous Form, and eventually Dominate spells, giving it tools for both combat control and social manipulation. At the highest end, Necrotic damage becomes a source of sustained healing and the subclass gains flight.
+
+### Progression
+
+**Early:** Establish yourself as a melee grappler. The bite is useful, but its full value comes from attacking enemies that are already Grappled, Restrained, or Incapacitated.
+
+**Mid:** Extra Attack makes the grapple-to-bite combination much more efficient. Your advantage on Grappling checks also makes it easier to consistently set up your preferred targets.
+
+**End:** The subclass becomes a powerful sustain-oriented predator. Necrotic damage can directly restore your health, while flight and stronger control tools give you significantly more mobility and target access.
+
+**Best for:**
+
+- Grappling builds
+    
+- Melee sustain
+    
+- Life-draining characters
+    
+- Crowd control through physical restraint
+    
+- Vampiric-themed characters
+    
+
+[[Accursed]] is strongest when you build around its curse instead of trying to ignore it: each subclass turns a major drawback into a specialized combat advantage.
