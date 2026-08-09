@@ -6,9 +6,9 @@
 
 The class is a **Charisma-based half-caster** by default, with access to a specialized spell list focused heavily on **debuffs, curses, control effects, and necrotic or entropic damage**. It also has a unique system of **Malediction Metamorphoses**, allowing you to specialize your core abilities toward offense, defense, stealth, or curse manipulation. Optional versions of the mod can instead make Intelligence or Wisdom the casting ability.
 
-The defining mechanic is that **every [[Accursed]] has an ailment**. Your subclass determines what that drawback is, and you can spend spell slots to temporarily suppress it. You can also use your curse against enemies through **Afflict**, while your basic **Jinx** ability can impose disadvantage on an enemy's next attack or ability check. This makes the class less about simply maximizing raw damage and more about managing conditions, positioning, and timing your abilities.
+The defining mechanic is that **every Accursed has an ailment**. Your subclass determines what that drawback is, and you can spend spell slots to temporarily suppress it. You can also use your curse against enemies through **Afflict**, while your basic **Jinx** ability can impose disadvantage on an enemy's next attack or ability check. This makes the class less about simply maximizing raw damage and more about managing conditions, positioning, and timing your abilities.
 
-In combat, [[Accursed]] can fill several different roles depending on its subclass:
+In combat, **Accursed** can fill several different roles depending on its subclass:
 
 - **Martial damage dealer** through weapons, Extra Attack, and curse-enhanced attacks.
 - **Spellcaster** through debuffs, control spells, and specialized subclass magic.
@@ -238,19 +238,12 @@ Its biggest drawback is sunlight. In direct sunlight, you suffer disadvantage on
 
 ## Choosing an [[Accursed]]
 
-- **[[Curse of the Armament]]** — Best for a weapon-focused martial hybrid.
-    
-- **[[Curse of Combustion]]** — Best for aggressive fire-based AoE damage.
-    
-- **[[Curse of the Created]]** — Best for a durable frontline tank.
-    
-- **[[Curse of Immortality (Mage)]]** — Best for a flexible magical hybrid with Wizard spells.
-    
-- **[[Curse of Immortality (Warrior)]]** — Best for a durable martial hybrid with strong sustained weapon damage.
-    
-- **[[Curse of Invisibility]]** — Best for stealth, evasion, and attacking from concealment.
-    
-- **[[Curse of Vampirism]]** — Best for grappling, biting, life drain, and supernatural melee control.
-    
+- [[Curse of the Armament]] — Best for a weapon-focused martial hybrid.
+- [[Curse of Combustion]] — Best for aggressive fire-based AoE damage.
+- [[Curse of the Created]] — Best for a durable frontline tank.
+- [[Curse of Immortality (Mage)]] — Best for a flexible magical hybrid with Wizard spells.
+- [[Curse of Immortality (Warrior)]] — Best for a durable martial hybrid with strong sustained weapon damage.
+- [[Curse of Invisibility]] — Best for stealth, evasion, and attacking from concealment.
+- [[Curse of Vampirism]] — Best for grappling, biting, life drain, and supernatural melee control.
 
 [[Accursed]] is fundamentally a hybrid class: your curse determines your main combat identity, while your spells and Malediction Metamorphoses let you adapt that identity to the situation.
