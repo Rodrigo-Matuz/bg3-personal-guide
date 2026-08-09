@@ -152,9 +152,10 @@ The main drawback is that the Defender needs to be managed. Positioning matters,
 
 ## Choosing an [[Artificer]]
 
-- [[Alchemist]] — Choose it if you want a support specialist focused on healing, buffs, consumables, and utility.
-- [[Armorer]] — Choose it if you want magical armor with the flexibility to switch between tanking and ranged combat.
-- [[Artillerist]] — Choose it if you want ranged magical damage, AoE, and battlefield control through deployable cannons.
-- [[Battle Smith]] — Choose it if you want martial combat combined with a mechanical companion.
+| Subclass | Description | |----------|-------------|
+| Alchemist | Choose it if you want a support specialist focused on healing, buffs, consumables, and utility. |
+| Armorer | Choose it if you want magical armor with the flexibility to switch between tanking and ranged combat. |
+| Artillerist | Choose it if you want ranged magical damage, AoE, and battlefield control through deployable cannons. | 
+| Battle Smith | Choose it if you want martial combat combined with a mechanical companion.
 
 The [[Artificer]] is a versatile magical engineer that combines spellcasting, enhanced equipment, and specialized inventions to adapt to almost any party role.

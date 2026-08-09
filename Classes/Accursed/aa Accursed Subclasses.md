@@ -225,12 +225,14 @@ The subclass is less effective against Undead and Constructs because its enhance
 ---
 ## Choosing an [[Accursed]]
 
-- [[Curse of the Armament]] — Choose it if you want a dedicated weapon master with cursed-weapon attacks and thrown-weapon utility.
-- [[Curse of Combustion]] — Choose it if you want explosive fire AoE and are willing to sacrifice health for more damage.
-- [[Curse of the Created]] — Choose it if you want a heavily armored tank that combines durability with lightning-enhanced martial attacks.
-- [[Curse of Immortality (Mage)]] — Choose it if you want a versatile caster combining Accursed curses with Wizard magic.
-- [[Curse of Immortality (Warrior)]] — Choose it if you want a self-sufficient heavy-armor warrior with strong sustained weapon damage
-- [[Curse of Invisibility]] — Choose it if you want stealth, invisibility, evasive combat, and attacks from concealment.
-- [[Curse of Vampirism]] — Choose it if you want a grappling melee predator that drains enemies to sustain itself.
+| Subclass | Description |
+|----------|-------------|
+| Curse of the Armament | Choose it if you want a dedicated weapon master with cursed-weapon attacks and thrown-weapon utility. |
+| Curse of Combustion | Choose it if you want explosive fire AoE and are willing to sacrifice health for more damage. |
+| Curse of the Created | Choose it if you want a heavily armored tank that combines durability with lightning-enhanced martial attacks. |
+| Curse of Immortality (Mage) | Choose it if you want a versatile caster combining Accursed curses with Wizard magic. |
+| Curse of Immortality (Warrior) | Choose it if you want a self-sufficient heavy-armor warrior with strong sustained weapon damage. |
+| Curse of Invisibility | Choose it if you want stealth, invisibility, evasive combat, and attacks from concealment. |
+| Curse of Vampirism | Choose it if you want a grappling melee predator that drains enemies to sustain itself. |
 
 The [[Accursed]] is a flexible curse-powered half-caster that trades conventional weaknesses for specialized supernatural power, with each subclass turning its curse into a completely different combat role.
