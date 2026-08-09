@@ -395,15 +395,10 @@ It is less specialized than Light or Tempest for direct elemental damage, but it
 **Best for:**
 
 - Terrain control
-    
 - Elemental damage
-    
 - Defensive utility
-    
 - Nature-themed parties
-    
 - Battlefield manipulation
-    
 
 ---
 
@@ -432,15 +427,10 @@ The main drawback is party compatibility. Darkness can also interfere with your 
 **Best for:**
 
 - Stealth parties
-    
 - Darkness builds
-    
 - Invisibility
-    
 - Crowd control
-    
 - Ranged denial
-    
 
 ---
 
@@ -469,15 +459,10 @@ The Domain also provides enchantment and control effects, allowing you to interf
 **Best for:**
 
 - Martial-heavy parties
-    
 - Ally attacks
-    
 - Battlefield coordination
-    
 - Enchantment
-    
 - Tactical support
-    
 
 ---
 
@@ -506,15 +491,10 @@ Its support can reduce incoming damage and improve important rolls while normal 
 **Best for:**
 
 - Party-wide buffs
-    
 - Damage mitigation
-    
 - Coordinated parties
-    
 - Defensive support
-    
 - Team-oriented gameplay
-    
 
 ---
 
@@ -543,15 +523,10 @@ The subclass rewards careful HP management, but there is an important difference
 **Best for:**
 
 - High-risk gameplay
-    
 - Low-HP damage
-    
 - Reactive support
-    
 - Radiant/necrotic damage
-    
 - Players comfortable managing HP carefully
-    
 
 ---
 
@@ -580,15 +555,10 @@ The subclass works especially well alongside fragile damage dealers, allowing th
 **Best for:**
 
 - Damage mitigation
-    
 - Protecting fragile allies
-    
 - Defensive support
-    
 - Tank/support hybrids
-    
 - Survival-focused parties
-    
 
 ---
 
@@ -617,15 +587,10 @@ Unlike a dedicated healer, Solidarity aims to prevent problems and improve party
 **Best for:**
 
 - Party buffs
-    
 - Teamwork
-    
 - Coordinated parties
-    
 - Martial-heavy groups
-    
 - Support-focused gameplay
-    
 
 ---
 
@@ -652,15 +617,10 @@ You can fight in melee while still retaining Cleric spellcasting. This makes it 
 **Best for:**
 
 - Strength-based Clerics
-    
 - Physical enhancement
-    
 - Melee hybrids
-    
 - Athletic utility
-    
 - Frontline support
-    
 
 ---
 
@@ -689,15 +649,10 @@ This makes resource timing important. Your strongest Channel Divinity and spell 
 **Best for:**
 
 - Lightning damage
-    
 - Thunder damage
-    
 - Burst AoE
-    
 - Elemental spellcasting
-    
 - Offensive Clerics
-    
 
 ---
 
@@ -726,15 +681,10 @@ In direct combat, however, it generally lacks the raw offensive specialization o
 **Best for:**
 
 - Stealth
-    
 - Infiltration
-    
 - Illusion
-    
 - Deception
-    
 - Ambushes
-    
 
 ---
 
@@ -763,15 +713,10 @@ Its defensive tools also complement concentration spells well because preventing
 **Best for:**
 
 - Temporary HP
-    
 - Defensive support
-    
 - Long encounters
-    
 - Party survivability
-    
 - Darkvision and night utility
-    
 
 ---
 
@@ -800,15 +745,10 @@ The main limitation is that your Bonus Action can become crowded. You may want t
 **Best for:**
 
 - Martial Clerics
-    
 - Frontline combat
-    
 - Weapon damage
-    
 - Offensive buffs
-    
 - Hybrid melee/caster builds
-    
 
 ---
 
