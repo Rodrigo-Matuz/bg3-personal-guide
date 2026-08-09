@@ -213,9 +213,7 @@ The subclass is particularly well suited to the Pugilist's natural action econom
 - Maximum unarmed damage
 - Repeated attacks
 - Knockout-focused builds
-
 - Players who want the most straightforward Pugilist experience
-    
 
 ---
 
