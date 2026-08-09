@@ -8,10 +8,10 @@ The class's defining mechanic is **Infusion**. Infusions allow you to enhance we
 
 [[Artificer]] is a **hybrid class**. It has spellcasting, cantrips, equipment enhancements, utility tools, and several ways to contribute directly to combat. Its subclasses then specialize this general toolkit into very different roles:
 
-- **[[Alchemist]]** — potions, healing, buffs, and support.
-- **[[Armorer]]** — magical heavy armor, tanking, or ranged armored combat.
-- **[[Artillerist]]** — ranged damage, AoE, and magical cannons.
-- **[[Battle Smith]]** — martial combat with a mechanical companion.
+- **Alchemist** — potions, healing, buffs, and support.
+- **Armorer** — magical heavy armor, tanking, or ranged armored combat.
+- **Artillerist** — ranged damage, AoE, and magical cannons.
+- **Battle Smith** — martial combat with a mechanical companion.
 
 The class begins without a subclass and chooses one at **Level 3**. This is an important breakpoint: the early game teaches you the general Artificer toolkit, while the subclass determines what your character is primarily built to do for the rest of the game.
 
@@ -81,8 +81,8 @@ At high levels, **Chemical Mastery** substantially improves the support role, pr
 
 The subclass can switch between two armor configurations:
 
-- **[[Guardian Armor]]** — frontline combat, durability, and drawing enemy attention.
-- **[[Infiltrator Armor]]** — mobility, ranged attacks, and a more evasive playstyle.
+- **Guardian Armor** — frontline combat, durability, and drawing enemy attention.
+- **Infiltrator Armor** — mobility, ranged attacks, and a more evasive playstyle.
 
 This makes [[Armorer]] one of the most flexible Artificer subclasses because the same character can approach combat as either a heavily armored frontline fighter or a ranged armored combatant.
 
