@@ -1,4 +1,4 @@
-## Accursed
+## [[Accursed]]
 
 A cursed warrior who has learned to **turn their affliction into a source of supernatural power**. Rather than simply trying to remove their curse, Accursed characters learn to suppress, control, and weaponize it against their enemies. The class is fundamentally a **half-caster focused on curses, debuffs, and weakening enemies**, but its subclasses can push it heavily toward martial combat, destructive magic, tanking, stealth, or other specialized roles.
 
