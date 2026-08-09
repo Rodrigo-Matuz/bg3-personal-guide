@@ -438,15 +438,10 @@ The subclass can therefore function as either a durable melee character or a mor
 **Best for:**
 
 - Strength builds
-    
 - Giant-themed characters
-    
 - Large weapons
-    
 - Defensive utility
-    
 - Throwing builds
-    
 
 ---
 
@@ -477,15 +472,10 @@ The main drawback is that its strongest tools are more valuable when saved for i
 **Best for:**
 
 - Burst damage
-    
 - Advantage-based attacks
-    
 - Precision weapon builds
-    
 - Single-target elimination
-    
 - Martial characters without magic
-    
 
 ---
 
@@ -516,15 +506,10 @@ Its major weakness is dependence on positioning. Enemies that close the distance
 **Best for:**
 
 - Archery
-    
 - Ranged weapon damage
-    
 - High-ground combat
-    
 - Priority-target elimination
-    
 - Pure physical ranged builds
-    
 
 ---
 
@@ -555,15 +540,10 @@ The main drawback is that its magical tools are more specialized than those of a
 **Best for:**
 
 - Occult martial builds
-    
 - Curses
-    
 - Dark magic
-    
 - Hybrid weapon/magic gameplay
-    
 - Supernatural Fighters
-    
 
 ---
 
