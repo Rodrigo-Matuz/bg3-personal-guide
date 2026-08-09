@@ -120,7 +120,7 @@ This makes it straightforward to play: get into range, use your heavy weapon, an
 
 ## [[Town Guard]]
 
-The [[Town Guard]] is the most traditionally martial Commoner. It represents someone with actual combat training without becoming a full **Fighter**. It gains medium armor, shields, a chosen martial weapon, and limited **Battle Master**-style maneuvers that use Grit instead of Superiority Dice.
+The [[Town Guard]] is the most traditionally martial Commoner. It represents someone with actual combat training without becoming a full [[Fighter]]. It gains medium armor, shields, a chosen martial weapon, and limited [[Battle Master]]-style maneuvers that use Grit instead of Superiority Dice.
 
 In exploration, it has fewer unusual utility tools than the other Commoner subclasses, but it is the easiest Commoner to use as a conventional adventuring combatant.
 
