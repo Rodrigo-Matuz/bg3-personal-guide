@@ -1,438 +1,431 @@
 # [[Barbarian]]
 
-## Description
+The [[Barbarian]] is a frontline martial class built around [[Rage]], high durability, strong physical damage, and aggressive positioning. Its basic gameplay is simple: enter Rage, get into melee, and use your superior durability and physical power to keep fighting while other characters rely on armor, spells, or defensive positioning.
 
-[[Barbarian]] is a **frontline martial class built around Rage, physical durability, and aggressive melee combat**. Instead of relying on armor, complicated spell rotations, or extensive utility, Barbarians use high Strength, large amounts of durability, and Rage to become extremely difficult to kill while dealing heavy physical damage.
+Most Barbarian subclasses do not replace this core gameplay. Instead, they add a specialized mechanic to Rage. Some improve your damage, some make you harder to stop, while others add elemental, magical, defensive, or supernatural effects. This means the Barbarian remains primarily a physical combatant even when the subclass introduces magic.
 
-The class is straightforward at its core: **enter Rage, get into melee, and keep attacking**. Rage provides major offensive and defensive benefits while also defining which abilities you can effectively use. [[Reckless Attack]] allows you to trade defense for a much higher chance of hitting, making the Barbarian particularly effective at maintaining consistent damage.
+Rage also shapes the class's action economy. Entering Rage uses a Bonus Action, after which your subsequent turns are generally free to spend on attacks, movement, Shoves, throws, or subclass abilities. The class is therefore especially effective when it can reach enemies quickly and spend most of its turns attacking rather than repeatedly setting itself up.
 
-[[Barbarian]] also has unusually strong physical control. Depending on your build and subclass, you can **throw enemies, shove creatures around, knock targets prone, resist incoming damage, grapple enemies, or force opponents to deal with you instead of your allies**.
+In combat, [[Barbarian]] can fill several different roles depending on its subclass:
 
-The subclasses significantly change what you do with this basic framework:
+- **Melee damage dealer** — Uses Rage, high Strength, and repeated attacks to deal consistent physical damage.
+- **Frontline tank** — Absorbs punishment and uses defensive subclass mechanics to protect the party.
+- **Bruiser** — Combines high durability with battlefield control such as Shoves, knockbacks, and forced movement.
+- **Grappler** — Uses superior physical strength to restrain and manipulate individual enemies.
+- **Thrower** — Turns weapons, objects, and enemies into ranged weapons.
+- **AoE damage dealer** — Uses elemental or supernatural Rage effects to damage multiple enemies.
+- **Battlefield controller** — Pushes, knocks down, frightens, or otherwise disrupts enemies.
+- **Anti-mage** — Uses supernatural abilities to resist, interrupt, or punish enemy spellcasters.
+- **Self-sustaining fighter** — Converts kills or enemy damage into additional survivability.
 
-- **[[Ancestral Guardian]]** — Defensive tank that protects allies through ancestral spirits.
-- **[[Battlerager]]** — Aggressive close-range fighter using spiked armor.
-- **[[Beast]]** — Natural-weapon Barbarian with claws, fangs, and other animal traits.
-- **[[Berserker]]** — Straightforward high-damage Barbarian with Frenzy and powerful Bonus Action attacks.
-- **[[Giant]]** — Large, powerful thrower with giant strength and elemental abilities.
-- **[[Ginnungagap]]** — Anti-magic Barbarian that uses the primordial void to suppress and consume magic.
-- **[[Juggernaut]]** — Extremely durable Barbarian focused on momentum, knockbacks, and resisting control.
-- **[[Path of the Corpse Eater]]** — Necrotic Barbarian that gains power from consuming fallen enemies.
-- **[[Rage Mage]]** — Spellcasting Barbarian capable of using arcane magic while Raging.
-- **[[Storm Herald]]** — Elemental Barbarian surrounded by persistent fire, cold, or lightning effects.
-- **[[Wild Magic (Bar)]]** — Barbarian whose Rage produces unpredictable magical effects.
-- **[[Wildheart]]** — Highly customizable primal Barbarian based on different animal spirits.
-- **[[Zealot]]** — Fanatical warrior focused on exceptional damage and supernatural survivability.
+## [[Ancestral Guardian]]
 
-### Core Gameplay
+The [[Ancestral Guardian]] is the defensive [[Barbarian]], using ancestral spirits to interfere with enemies and protect allies. Instead of simply surviving attacks through Rage, this subclass actively makes enemies less effective when fighting your party.
 
-The Barbarian generally has a **simple but effective action economy**. Your Action is normally spent attacking, while your Bonus Action is commonly used to Rage, make subclass attacks, activate special abilities, or perform combat maneuvers.
+In exploration, it remains a straightforward martial character, but its spiritual abilities give it a more supernatural identity than the standard Barbarian. In combat, it is strongest when positioned near vulnerable allies and attacking enemies that would otherwise threaten them.
 
-[[Reckless Attack]] is one of the class's most important offensive tools. It gives enemies an easier time hitting you, but dramatically improves your ability to land attacks. Because Barbarians are naturally durable, this trade is often worthwhile.
+### Combat
 
-Your durability also changes how you approach positioning. You generally want to be **close to the enemy**, not hiding behind the party. Many subclasses actively reward staying in melee, while others give you additional ways to control enemy movement or protect your allies.
+The [[Ancestral Guardian]] is designed to **redirect enemy pressure toward yourself**. Your Rage becomes more than a personal defensive tool: it helps reduce the damage and effectiveness of enemies that you engage.
 
-Outside combat, [[Barbarian]] is less utility-focused than classes such as [[Artificer]], [[Bard]], or [[Rogue]]. Its main advantages are **high Strength, physical ability checks, intimidation, jumping, shoving, throwing, and interacting with the environment through brute force**.
+This makes target selection important. You generally want to attack dangerous enemies rather than simply hitting whatever is closest. By applying your ancestral effects to them, you make it harder for those enemies to effectively attack the rest of the party.
 
-### Early Game
-
-[[Barbarian]] is already effective from the beginning. Rage provides immediate durability and offensive benefits, while Reckless Attack gives you a reliable way to increase your damage output.
-
-Your subclass then determines whether you should prioritize straightforward damage, defense, natural weapons, throwing, magic, or battlefield control.
-
-### Mid Game
-
-The Barbarian's core combat loop becomes more reliable as you gain additional attacks and stronger Rage-related abilities.
-
-This is where the subclasses begin to diverge heavily. A [[Berserker]] may spend Bonus Actions on additional attacks, a [[Giant]] may focus on throwing enormous objects and creatures, while an [[Ancestral Guardian]] concentrates on protecting the party.
-
-### End Game
-
-At high levels, [[Barbarian]] becomes extremely difficult to remove from the battlefield. Stronger Rage effects, improved physical damage, subclass abilities, and powerful defensive features allow the class to remain effective even against enemies capable of dealing enormous amounts of damage or applying powerful control effects.
-
-The main limitation remains its specialization: most Barbarians are at their best **in direct physical combat** rather than at long range or while solving complex problems outside combat.
-
----
-
-# [[Ancestral Guardian]]
-
-[[Ancestral Guardian]] is the **defensive and protective Barbarian**. Instead of using Rage purely to increase your own damage, you use ancestral spirits to interfere with enemies and reduce the pressure placed on your party.
-
-The subclass is designed around the idea that **attacking you should be preferable to attacking your allies**. Your abilities make enemies less effective against other party members while allowing you to absorb punishment yourself.
-
-### Combat & Exploration
-
-In combat, your job is to enter the enemy formation and become the party's primary target.
-
-The subclass is especially useful when your group contains fragile characters such as [[Wizard]], [[Sorcerer]], [[Rogue]], or support-focused casters. You can reduce the effectiveness of enemies that try to attack your allies and use your natural Barbarian durability to remain in the middle of the fight.
-
-You sacrifice some personal damage compared with more aggressive subclasses, but gain considerably more **party protection and damage mitigation**.
-
-Outside combat, it remains a fairly conventional Barbarian. Its value is primarily combat-oriented.
+The subclass does not have to sacrifice all of its damage to tank. You still retain the Barbarian's normal Extra Attack and Rage-based damage, so your defensive contribution comes largely from adding protection to attacks you were already going to make.
 
 ### Progression
 
-**Early Game:** You establish yourself as a frontline protector. Rage and ancestral abilities make enemies less effective when attacking your allies.
+**Early:** You establish yourself as a defensive frontliner whose attacks provide protection for nearby allies.
 
-**Mid Game:** Your defensive tools become stronger and your ability to protect multiple party members improves. You remain capable of normal Barbarian damage while increasingly functioning as a tank.
+**Mid:** Your ancestral abilities become more useful against dangerous enemies while your normal Barbarian damage continues improving.
 
-**End Game:** You become one of the strongest dedicated defensive Barbarians, combining high durability with abilities that reduce incoming damage and punish enemies for ignoring you.
+**End:** You become a reliable party protector who can engage high-priority enemies while reducing the pressure they place on your allies.
 
-**Best for:** Tanking, protecting allies, damage mitigation, and parties with vulnerable backline characters.
+**Best for:**
 
----
+- Party tanking
+- Protecting fragile allies
+- Frontline control
+- Defensive melee builds
+- Players who want to actively protect the party
 
-# [[Battlerager]]
+## [[Battlerager]]
 
-[[Battlerager]] is the most straightforward **close-range aggression** option. It turns spiked armor into an additional weapon and encourages you to stay directly on top of enemies.
+The [[Battlerager]] is an extremely direct melee subclass built around aggression and spiked armor. It rewards getting into close range and staying there, using your armor and physical attacks as additional sources of damage.
 
-The subclass does not require complicated positioning or spell management. Its basic idea is to **get into melee and deal damage through both your normal attacks and your armor-based abilities**.
+In exploration, it is one of the least complicated Barbarian subclasses: you are primarily a physical character who solves problems through strength and durability. In combat, its goal is equally straightforward—get close, Rage, and keep attacking.
 
-### Combat & Exploration
+### Combat
 
-Combat is highly direct. You want to close the distance quickly and use your armor and Rage to overwhelm enemies at close range.
+The [[Battlerager]] focuses on **close-range pressure**. Its spiked armor gives you additional ways to hurt enemies while you are already fighting them, allowing your defensive equipment to contribute offensively.
 
-Its additional durability helps compensate for the aggressive playstyle, allowing you to remain engaged even when surrounded.
+This makes the subclass particularly comfortable in fights where enemies are forced to remain nearby. Your high durability lets you accept incoming attacks while your armor-based abilities add additional damage.
 
-The drawback is that [[Battlerager]] has relatively little ranged or utility functionality. If you cannot reach your target, much of the subclass's value is temporarily unavailable.
-
-### Progression
-
-**Early Game:** Spiked armor immediately adds another layer to your melee combat and encourages aggressive positioning.
-
-**Mid Game:** Your armor-based attacks and durability improve, allowing you to stay in the middle of groups of enemies more comfortably.
-
-**End Game:** You become a durable close-range bruiser capable of dealing damage through multiple physical sources while remaining difficult to dislodge.
-
-**Best for:** Simple melee combat, aggressive tanking, durability, and players who want to stay in the enemy's face.
-
----
-
-# [[Beast]]
-
-[[Beast]] turns Rage into a set of **natural weapons and animalistic combat abilities**. Instead of depending on conventional weapons, you can fight with claws, fangs, tails, or other biological weapons depending on your chosen form.
-
-This gives the subclass a flexible unarmed combat identity while keeping the Barbarian's normal durability and Rage mechanics.
-
-### Combat & Exploration
-
-The main advantage is adaptability. Different natural weapons provide different attack patterns and utility, allowing you to choose the form that best fits the encounter.
-
-Claws are useful for repeated attacks, while other natural weapons can provide different defensive or control benefits. This makes [[Beast]] less equipment-dependent than a conventional weapon Barbarian.
-
-Outside combat, the animalistic abilities can provide situational utility, but the subclass remains primarily combat-oriented.
+The main drawback is limited flexibility. Compared with subclasses that provide ranged attacks, magic, or strong battlefield manipulation, the Battlerager gets most of its value from simply being in melee.
 
 ### Progression
 
-**Early Game:** Your natural weapons become the main feature of your Rage, giving you an alternative to conventional weapons.
+**Early:** Your spiked armor establishes the subclass's close-range identity and gives Rage an additional offensive purpose.
 
-**Mid Game:** Your animal options become more effective and give you more ways to adapt your combat style.
+**Mid:** Improved durability and additional attacks allow you to remain in melee longer while continuing to punish nearby enemies.
 
-**End Game:** Your natural attacks and animal abilities become a complete alternative to weapon-based Barbarian builds, allowing you to remain effective without depending heavily on specific weapons.
+**End:** The subclass becomes a dedicated aggressive bruiser that relies on sustained close-range pressure rather than complicated abilities.
 
-**Best for:** Natural weapons, unarmed-style combat, adaptability, and players who want a primal animal-themed Barbarian.
+**Best for:**
 
----
+- Aggressive melee combat
+- Spiked armor builds
+- Straightforward Barbarian gameplay
+- Durable bruisers
+- Players who want minimal complexity
 
-# [[Berserker]]
+## [[Beast]]
 
-[[Berserker]] is the classic **maximum aggression Barbarian**. It focuses on Frenzy, repeated attacks, throwing, and using your Bonus Action to deal as much damage as possible.
+The [[Beast]] turns the Barbarian's body into its primary weapon. Rage grants access to natural weapons such as claws, fangs, or a tail, allowing you to change your combat style depending on what the encounter requires.
 
-This is one of the easiest Barbarian subclasses to understand: **Rage, attack repeatedly, and use every available action to keep pressure on the enemy**.
+In exploration, the subclass has a strong primal identity and benefits from having unusual physical capabilities. In combat, the important feature is flexibility: instead of committing to one conventional weapon, you choose the natural weapon that best fits the situation.
 
-### Combat & Exploration
+### Combat
 
-[[Berserker]] has one of the strongest action economies among straightforward Barbarian builds because Frenzy gives you additional ways to spend your Bonus Action.
+The [[Beast]] is an adaptable melee Barbarian. Its natural weapons provide different advantages, so your Rage choice can determine how you approach the fight.
 
-You can make additional attacks, throw creatures or objects, and use physical control abilities without sacrificing your normal Action.
+Claws emphasize repeated attacks, fangs provide a more predatory option, while the tail provides additional reach and defensive utility. This means you can alter your combat approach without changing your equipment.
 
-Throwing is particularly useful because it gives you a ranged option without turning the character into a conventional ranged build. You can throw enemies into hazards, off ledges, into other creatures, or simply use heavy objects as weapons.
-
-The downside is that [[Berserker]] has relatively little defensive specialization. You are primarily surviving through the Barbarian's natural durability rather than protecting allies or manipulating incoming damage.
-
-### Progression
-
-**Early Game:** Frenzy establishes the subclass as an aggressive melee attacker with strong Bonus Action options.
-
-**Mid Game:** Additional attacks and improved throwing abilities significantly increase your damage and battlefield control.
-
-**End Game:** The subclass becomes an extremely efficient physical damage dealer capable of attacking repeatedly, throwing enemies, and converting Bonus Actions into additional offensive pressure.
-
-**Best for:** Pure melee damage, throwing, aggressive combat, and players who want the simplest high-damage Barbarian.
-
----
-
-# [[Giant]]
-
-[[Giant]] takes the Barbarian's physical strength and pushes it into **large-scale battlefield control**. Your Rage is enhanced by giant power, allowing you to become larger, hit harder, throw heavier targets, and manipulate the battlefield through sheer physical force.
-
-The subclass is particularly effective for players who enjoy **throwing enemies and objects** but want more than the standard [[Berserker]] approach.
-
-### Combat & Exploration
-
-The increased size and strength make positioning more important because you occupy more battlefield space and can interact with larger creatures and objects.
-
-Throwing becomes a major part of your combat toolkit. You can use enemies and environmental objects as weapons while your increased reach and physical power make it easier to control the battlefield.
-
-Elemental effects add some magical damage without turning the character into a conventional caster.
-
-Outside combat, increased Strength and size can be useful for physical interactions, carrying, jumping, and environmental manipulation.
+The subclass is especially appealing if you want to fight without depending entirely on conventional weapons. However, natural attacks can lose some of the equipment-based advantages available to dedicated weapon builds.
 
 ### Progression
 
-**Early Game:** Giant power begins improving your physical capabilities and establishes throwing as a major part of the subclass.
+**Early:** Natural weapons give you several ways to fight during Rage and immediately establish the subclass's flexible combat style.
 
-**Mid Game:** Increased size, stronger throws, and elemental abilities give you more ways to control groups of enemies.
+**Mid:** Your natural attacks become more effective and your primal abilities provide additional ways to approach encounters.
 
-**End Game:** You become a massive frontline combatant with exceptional physical reach, throwing power, and elemental damage, capable of influencing large portions of the battlefield.
+**End:** The subclass becomes a highly adaptable melee fighter capable of combining natural attacks with increasingly powerful primal effects.
 
-**Best for:** Throwing, large weapons and objects, battlefield control, physical damage, and players who want a giant-themed Barbarian.
+**Best for:**
 
----
+- Unarmed/natural attacks
+- Flexible melee combat
+- Primal characters
+- Players who want multiple combat forms
+- Weapon-independent builds
 
-# [[Ginnungagap]]
+## [[Berserker]]
 
-[[Ginnungagap]] is an unusual Barbarian specialization built around **the primordial void and anti-magic**. Rather than simply adding elemental damage to Rage, this subclass is designed to interact with magic itself, including suppressing or consuming magical effects.
+The [[Berserker]] is the most direct expression of Barbarian aggression. Its [[Frenzy]] mechanics give you additional ways to spend your Bonus Action, allowing you to make more attacks, throw creatures and objects, and maintain constant offensive pressure.
 
-This makes it fundamentally different from most Barbarians. You remain a physical frontline character, but your subclass gives you tools for dealing specifically with **spellcasters and magical effects**.
+In exploration, the subclass is straightforward and physical. In combat, it is one of the easiest Barbarian subclasses to understand: Rage, close the distance, and use your additional attacks and throws to maximize the number of actions you take each turn.
 
-### Combat & Exploration
+### Combat
 
-Against normal physical enemies, you still function as a Barbarian. Against spellcasters, however, the subclass becomes much more valuable.
+The major strength of the [[Berserker]] is **action economy**. Frenzy gives you additional Bonus Action attacks, meaning your Bonus Action can contribute directly to damage rather than being used only for setup or movement.
 
-Your void abilities allow you to interfere with magic rather than simply trying to survive it. This gives you a specialized role as an **anti-mage frontline character**.
+Throwing is another major advantage. You can throw weapons, objects, and creatures, giving you both ranged damage and battlefield control. Throwing an enemy can remove them from a position, damage them, or create opportunities for the rest of the party.
 
-The subclass is particularly useful in encounters containing dangerous spellcasters, magical defenses, or other effects that conventional martial characters have difficulty dealing with.
-
-### Progression
-
-**Early Game:** You establish the void theme and gain your first anti-magic tools while retaining the Barbarian's normal melee capabilities.
-
-**Mid Game:** Your ability to interfere with magical effects becomes more important, giving you a stronger role against spellcasters.
-
-**End Game:** The subclass reaches its full anti-magic identity, combining Barbarian durability with powerful void-based tools for suppressing and dealing with magic.
-
-**Best for:** Anti-magic, fighting spellcasters, physical combat with supernatural utility, and players who want an unusual Barbarian.
-
----
-
-# [[Juggernaut]]
-
-[[Juggernaut]] is built around **momentum, physical control, and refusing to stop**. Instead of relying primarily on damage or traditional tank mechanics, it makes the Barbarian exceptionally difficult to control while rewarding movement through the battlefield.
-
-The subclass is ideal for players who want their Barbarian to **crash through enemy formations rather than simply stand in one place and attack**.
-
-### Combat & Exploration
-
-Movement is part of your combat strategy.
-
-You can charge through enemies, knock creatures around, resist forced movement, and remain effective despite attempts to restrain or disable you. This gives the subclass strong battlefield-control potential without requiring spellcasting.
-
-The main advantage is reliability. Enemies that depend heavily on knockdowns, forced movement, or other physical control effects have a harder time stopping you.
+Because the subclass is so heavily focused on attacks, it performs best when it has targets within reach and can continuously spend its Actions and Bonus Actions on offense.
 
 ### Progression
 
-**Early Game:** You gain stronger movement and physical-control tools, allowing you to establish yourself as an aggressive frontline character.
+**Early:** Frenzy immediately improves your offensive action economy and gives you a powerful alternative to normal attacks.
 
-**Mid Game:** Your ability to move through enemies and resist control improves, while your physical attacks remain highly effective.
+**Mid:** Extra Attack and improved Frenzy options allow you to make multiple meaningful attacks in a single turn while throwing becomes increasingly useful.
 
-**End Game:** You become extremely difficult to stop, combining high durability with powerful movement, knockbacks, and resistance to battlefield control.
+**End:** The subclass becomes a relentless physical damage dealer capable of combining multiple attacks, Bonus Action attacks, and throws.
 
-**Best for:** Charging, knockbacks, resisting control, durability, and players who want an unstoppable physical tank.
+**Best for:**
 
----
+- Pure melee damage
+- Throwing builds
+- Extra attacks
+- Aggressive play
+- Players who want the classic Barbarian experience
 
-# [[Path of the Corpse Eater]]
+## [[Giant]]
 
-[[Path of the Corpse Eater]] turns the Barbarian's hunger into a **combat resource**. Instead of treating defeated enemies as the end of an encounter, you can consume their remains or essence to gain additional benefits.
+The [[Giant]] uses supernatural size and strength to turn the Barbarian into a massive battlefield threat. Its Rage enhances physical power while introducing giant-themed abilities, elemental effects, and improved throwing capabilities.
 
-The subclass combines physical brutality with **necrotic abilities and self-sustain**, making it particularly effective in fights where you can repeatedly secure kills.
+In exploration, the subclass is useful for characters who want their strength to be a central part of how they interact with the world. In combat, increased size and reach make positioning less restrictive and give the Barbarian exceptional battlefield presence.
 
-### Combat & Exploration
+### Combat
 
-The subclass becomes stronger as enemies die around you. This encourages aggressive targeting and makes finishing wounded enemies particularly valuable.
+The [[Giant]] excels at **strength-based battlefield manipulation**. Increased size improves your physical presence while giant-enhanced abilities give you additional ways to damage and move enemies.
 
-Your necrotic abilities provide a damage type and utility that standard Barbarians do not normally have, while the corpse-eating mechanics provide additional sustain.
+Throwing is particularly effective because your increased size and strength make it easier to use creatures and objects as weapons. This gives the Giant a useful ranged option without requiring conventional ranged equipment.
 
-The main weakness is dependence on available corpses or defeated creatures. In encounters where enemies are difficult to kill quickly, the subclass cannot exploit its full potential.
-
-### Progression
-
-**Early Game:** You establish the corpse-consuming mechanic and gain your first necrotic tools.
-
-**Mid Game:** Consuming enemies becomes increasingly valuable, improving your survivability and offensive output during extended encounters.
-
-**End Game:** You can turn repeated kills into a significant source of power and sustain, making the subclass particularly effective in encounters with multiple enemies.
-
-**Best for:** Necrotic damage, self-healing, aggressive play, and players who enjoy a brutal undead-adjacent Barbarian.
-
----
-
-# [[Rage Mage]]
-
-[[Rage Mage]] combines the Barbarian's physical combat with **arcane spellcasting**, solving one of the biggest limitations of a conventional Barbarian: normally, Rage prevents you from casting spells. This modded subclass specifically allows its spells to function while Raging.
-
-The subclass uses a limited spell selection based on the Sorcerer spell list, with a focus on **Evocation and Transmutation**. Its spells are intentionally limited compared with a dedicated caster, keeping the character primarily martial while adding magical options.
-
-### Combat & Exploration
-
-[[Rage Mage]] has a more complicated action economy than normal Barbarians because you are deciding whether your Action is better spent on a weapon attack or a spell.
-
-The key advantage is that **Rage no longer shuts off your spellcasting**. You can enter Rage and continue using your subclass spells, allowing you to combine magical attacks and physical attacks in the same combat.
-
-However, this versatility comes with a resource limitation. Your spellcasting is not equivalent to having a full [[Sorcerer]] or [[Wizard]] in the party. You have fewer spell slots and a narrower selection.
-
-Outside combat, some utility spells can be cast without combat Rage restrictions, although doing so can consume a Rage Charge.
+Elemental abilities also give the subclass damage options beyond ordinary physical attacks. You remain a melee Barbarian first, but you have more ways to deal with enemies that are difficult to reach or resist ordinary physical damage.
 
 ### Progression
 
-**Early Game:** You gain your limited arcane spellcasting and establish the hybrid playstyle. You can use magic without abandoning your Barbarian identity.
+**Early:** Your giant transformation improves physical combat and establishes throwing as an important secondary option.
 
-**Mid Game:** Your spell selection expands, allowing you to combine offensive magic, utility, and physical attacks more effectively.
+**Mid:** Increased size, reach, and elemental abilities make you much more effective at controlling the battlefield.
 
-**End Game:** You become a true melee spellcaster, combining Barbarian durability and physical damage with a limited but useful collection of spells that can function during Rage.
+**End:** You become an enormous frontline threat with powerful throws, strong physical attacks, and supernatural elemental options.
 
-**Best for:** Magical melee combat, hybrid builds, arcane utility, and players who want to cast spells without giving up Rage.
+**Best for:**
 
----
+- Giant-themed characters
+- Throwing
+- High Strength builds
+- Battlefield presence
+- Melee + elemental damage
 
-# [[Storm Herald]]
+## [[Ginnungagap]]
 
-[[Storm Herald]] surrounds the Barbarian with a **persistent elemental aura**. You choose an elemental theme such as fire, cold, or lightning, then use your Rage to create effects around yourself.
+The [[Ginnungagap]] Barbarian combines physical rage with the power of the primordial void. Rather than becoming a conventional spellcaster, it uses supernatural abilities to resist, interrupt, and consume magic while continuing to fight as a Barbarian.
 
-Unlike a conventional spellcaster, you do not need to stand at the back and repeatedly cast spells. You remain a frontline Barbarian while your elemental effects provide additional damage or protection.
+In exploration, this gives the character a strong anti-magic identity. In combat, the subclass is particularly valuable against enemy spellcasters because its Rage can provide advantages against magical effects and opportunities to interrupt hostile spells. The BG3 implementation specifically adapts the subclass around spell resistance, spell interruption, healing from successful saves, and other void-based mechanics.
 
-### Combat & Exploration
+### Combat
 
-Your aura makes positioning important. You want to stay close enough to enemies or allies for your chosen effect to matter.
+The [[Ginnungagap]] is an **anti-mage Barbarian**. Its main advantage is that it can engage spellcasters without simply relying on raw durability.
 
-The offensive versions provide additional elemental damage, while defensive options can improve your party's survivability.
+While Raging, you gain improved protection against spells and magical effects. You can also use a Reaction to interfere with an enemy spell being cast. Successfully interrupting magic can then increase the damage of your next weapon attack.
 
-This makes [[Storm Herald]] useful when fighting groups of enemies because your Rage can affect multiple creatures without requiring you to spend your entire Action on spellcasting.
+This gives your Reaction a meaningful purpose beyond defensive abilities. You must pay attention to enemy spellcasting and decide when stopping a spell is more valuable than saving the Reaction for another effect.
 
-Outside combat, the subclass offers little specialized utility compared with magical classes. Its main value is still combat.
-
-### Progression
-
-**Early Game:** Your elemental aura establishes the subclass's identity and provides additional effects while Raging.
-
-**Mid Game:** The aura becomes stronger and more useful in larger encounters, giving you more consistent elemental damage or defensive support.
-
-**End Game:** Your chosen element becomes a substantial part of your combat identity, allowing you to combine Barbarian durability with persistent area effects.
-
-**Best for:** Elemental damage, AoE effects, defensive auras, and players who want a magical effect without becoming a caster.
-
----
-
-# [[Wild Magic (Bar)]]
-
-[[Wild Magic (Bar)]] combines conventional Barbarian Rage with **unpredictable magical surges**. Instead of choosing exactly what happens whenever you Rage, your magic can produce different effects that alter the battlefield.
-
-The result is a Barbarian whose combat performance can vary from encounter to encounter.
-
-### Combat & Exploration
-
-The major advantage is flexibility. Your magical surge can provide offensive effects, defensive benefits, movement, or other battlefield changes.
-
-This can create powerful situations without requiring you to spend additional Actions, but the randomness means you cannot always plan around the exact effect you will receive.
-
-The subclass is therefore less reliable than a specialized Barbarian, but more capable of producing unexpected solutions.
+Later abilities reward successful saving throws against spells with healing, allowing enemy magic to become a source of sustain rather than purely a threat.
 
 ### Progression
 
-**Early Game:** Rage begins producing random magical effects, adding utility and unpredictability to otherwise conventional Barbarian combat.
+**Early:** You become significantly better at resisting hostile magic and can interfere with critical hits while Raging.
 
-**Mid Game:** The available magical effects become stronger and provide more meaningful offensive and defensive benefits.
+**Mid:** Spell interruption gives you an active response to enemy casters and can convert interrupted magic into additional weapon damage.
 
-**End Game:** Your magical surges become a substantial secondary combat system, allowing Rage to influence the battlefield in ways a normal Barbarian cannot predict or replicate.
+**End:** Successful spell saves can restore health while your void abilities make you increasingly difficult for magical enemies to control.
 
-**Best for:** Random effects, flexible combat, unusual builds, and players who enjoy unpredictability.
+**Best for:**
 
----
+- Anti-mage builds
+- Spell resistance
+- Frontlining against casters
+- Reaction-based gameplay
+- Players who want a supernatural Barbarian without conventional spellcasting
 
-# [[Wildheart]]
+## [[Juggernaut]]
 
-[[Wildheart]] is the most customizable primal Barbarian. Instead of committing to one fixed combat identity, you choose an **animal spirit** that determines how your Rage behaves.
+The [[Juggernaut]] is built around momentum, physical control, and refusing to be moved. Instead of relying on magical defenses, it makes the Barbarian itself the battlefield obstacle that enemies struggle to stop.
 
-Different Bestial Hearts can emphasize **damage, mobility, defense, control, or utility**, making [[Wildheart]] one of the most adaptable Barbarian subclasses.
+In exploration, it is a straightforward physical powerhouse. In combat, it specializes in pushing enemies around while resisting forced movement and other forms of battlefield control.
 
-### Combat & Exploration
+### Combat
 
-Your chosen Bestial Heart changes your combat priorities.
+The defining feature of the [[Juggernaut]] is **forced movement**. Your melee attacks can push enemies away from you, allowing ordinary attacks to double as battlefield-control tools. The subclass also becomes resistant to being knocked prone or forcibly moved while Raging.
 
-Some options make you better at controlling enemies, others improve your durability, while others provide mobility or additional offensive tools. This lets you build a Barbarian around what your party actually needs rather than following one fixed combat rotation.
+This makes positioning extremely important. You can push enemies away from allies, move them toward hazards, separate groups, or simply create space after attacking.
 
-The subclass also has additional animal-themed abilities that provide useful utility outside direct combat.
-
-Its main drawback is that you need to understand what your selected spirit actually provides. Unlike [[Berserker]], it is not simply a matter of pressing the most obvious damage option every turn.
-
-### Progression
-
-**Early Game:** Your Bestial Heart establishes your primary combat role and gives Rage a specialized effect.
-
-**Mid Game:** Additional animal-spirit abilities expand your utility and give you more ways to adapt to encounters.
-
-**End Game:** You gain a broad collection of primal abilities, allowing the subclass to function as a damage dealer, controller, tank, or mobility-focused Barbarian depending on your choices.
-
-**Best for:** Customization, primal abilities, versatility, and players who want to tailor their Barbarian to a specific animal theme.
-
----
-
-# [[Zealot]]
-
-[[Zealot]] is a highly aggressive Barbarian powered by **fanatical devotion and supernatural determination**. Its primary purpose is to increase your ability to deal damage while making you unusually difficult to permanently remove from combat.
-
-The subclass is a good fit for players who want a Barbarian that feels more supernatural without becoming a spellcaster.
-
-### Combat & Exploration
-
-[[Zealot]] remains primarily a melee damage dealer. Your basic strategy is still to Rage, use Reckless Attack when appropriate, and attack repeatedly.
-
-The difference is that your subclass gives you additional damage and survivability that reward staying in the fight even when your health becomes dangerously low.
-
-This makes the subclass particularly effective when you are willing to take risks. You can commit to fights that would force another character to retreat.
-
-Outside combat, [[Zealot]] provides relatively little specialized utility. Its strengths are overwhelmingly combat-focused.
+The drawback is that forced movement is situational. An enemy that you want to keep next to you may actually be pushed away, so you need to consider where each attack will place the target.
 
 ### Progression
 
-**Early Game:** You gain additional offensive power while retaining the Barbarian's standard Rage and durability.
+**Early:** Your melee attacks gain battlefield-control value through forced movement, while you become harder to knock down or reposition.
 
-**Mid Game:** Your supernatural survivability becomes more noticeable, allowing you to remain effective through increasingly dangerous encounters.
+**Mid:** Increased pushing power and additional durability make you much better at controlling enemy positioning.
 
-**End Game:** You become a highly durable damage dealer capable of continuing to fight through punishment that would normally remove a martial character from the encounter.
+**End:** You become a highly reliable physical controller who can move enemies while remaining extremely difficult to move yourself.
 
-**Best for:** Melee damage, survivability, aggressive play, and players who want a supernatural warrior without spellcasting.
+**Best for:**
+
+- Battlefield control
+- Shoving and knockback
+- High-durability frontliners
+- Hazard-based combat
+- Players who enjoy manipulating enemy positioning
+
+## [[Path of the Corpse Eater]]
+
+The [[Path of the Corpse Eater]] turns fallen enemies into a resource. Instead of activating Rage normally, the subclass consumes corpses to heal itself and enter Rage, making defeated creatures part of its combat loop.
+
+In exploration, this creates an unusual interaction with the environment: corpses are resources rather than simple battlefield remnants. In combat, the subclass becomes stronger when enemies have already been defeated and corpses are available. The BG3 implementation specifically requires the Corpse Eater to consume an eligible nearby corpse as a Bonus Action to enter Rage and heal, with several creature types excluded.
+
+### Combat
+
+The biggest difference is your **Rage setup**. You cannot simply activate Rage normally. Instead, you use a Bonus Action to consume a nearby corpse.
+
+This creates a useful sustain mechanic because the corpse consumption also heals you. However, it can create an awkward action-economy problem at the beginning of combat: if there is no usable corpse nearby, you cannot immediately access your subclass's main Rage state.
+
+Once Rage is active, the subclass functions much like a normal aggressive Barbarian while gaining additional benefits from its corpse-eating mechanics. This makes the subclass particularly effective in prolonged fights where enemies are dying around you.
+
+### Progression
+
+**Early:** Corpse consumption becomes the central setup mechanic, giving you healing but making Rage dependent on having an eligible corpse.
+
+**Mid:** Your ability to turn fallen enemies into additional power becomes increasingly useful during prolonged encounters.
+
+**End:** The subclass becomes highly self-sustaining when surrounded by defeated enemies, allowing kills to help maintain your momentum.
+
+**Best for:**
+
+- Self-healing
+- Aggressive melee
+- Corpse-based mechanics
+- Prolonged battles
+- Players who want a brutal supernatural Barbarian
+
+## [[Rage Mage]]
+
+The [[Rage Mage]] combines Barbarian melee combat with limited spellcasting, allowing you to use magic without abandoning Rage. Its defining difference from normal spellcasting subclasses is that it is specifically designed to function while Raging.
+
+In exploration, it provides more magical utility than a normal Barbarian. In combat, it lets you alternate between physical attacks and magical abilities instead of being forced to choose between Rage and spellcasting. The BG3 implementation specifically focuses on allowing spellcasting during Rage and provides a limited number of spell slots and Sorcerer spells.
+
+### Combat
+
+The [[Rage Mage]] solves one of the Barbarian's biggest limitations: normally, Rage prevents you from using conventional spellcasting.
+
+Because the subclass allows spellcasting while Raging, you can combine your physical attacks with destructive or defensive magic during the same combat state. This gives you more options when an enemy cannot be reached easily or when a spell provides more value than another weapon attack.
+
+The limitation is resource management. You do not function like a full caster and have limited spell slots, so your magic should supplement your martial combat rather than replace it.
+
+### Progression
+
+**Early:** You gain access to limited spellcasting while retaining the Barbarian's normal Rage-based combat.
+
+**Mid:** Your selection of spells gives you more ways to handle ranged enemies, defensive situations, and targets that are difficult to reach.
+
+**End:** The combination of Rage and spellcasting creates a flexible hybrid that can continue fighting physically while using magic whenever it provides a better solution.
+
+**Best for:**
+
+- Barbarian/caster hybrids
+- Spellcasting during Rage
+- Flexible combat
+- Physical + magical damage
+- Players who want a true spellcasting Barbarian
+
+## [[Storm Herald]]
+
+The [[Storm Herald]] surrounds the Barbarian with a persistent elemental aura. You choose between elemental themes such as fire, cold, and lightning, allowing your Rage to provide additional damage or defensive effects.
+
+In exploration, the subclass has a strong elemental identity without requiring you to become a conventional caster. In combat, it works best in the middle of enemy groups, where its persistent effects can influence multiple creatures while you continue making normal attacks.
+
+### Combat
+
+The [[Storm Herald]] adds an elemental effect to your normal Barbarian rotation. Instead of spending your entire turn activating complicated abilities, you can maintain the storm while continuing to make weapon attacks.
+
+Your chosen element changes how the subclass contributes. Fire emphasizes offensive damage, while cold and lightning can provide different forms of control or defensive utility depending on the configuration.
+
+This makes the Storm Herald less about burst damage and more about **persistent battlefield pressure**. You want to remain close enough to enemies for the storm effects to matter while continuing to use your normal attacks.
+
+### Progression
+
+**Early:** Your elemental aura adds a secondary effect to Rage and gives you more options than ordinary physical attacks.
+
+**Mid:** The storm becomes more impactful and allows your chosen element to play a larger role in combat.
+
+**End:** Your persistent elemental effects provide meaningful area pressure while your normal Barbarian attacks remain the primary source of sustained physical damage.
+
+**Best for:**
+
+- Elemental-themed characters
+- Area damage
+- Persistent effects
+- Frontline elemental combat
+- Players who want magic without conventional spellcasting
+
+## [[Wild Magic (Bar)]]
+
+The [[Wild Magic (Bar)]] turns Rage into an unpredictable magical event. Instead of selecting a single specialized power, you trigger random magical effects when you Rage, creating different combat situations from one encounter to the next.
+
+In exploration, it gives the Barbarian a chaotic magical identity while retaining its physical nature. In combat, the subclass is less predictable than other options, but its randomness can provide useful damage, buffs, movement, or battlefield disruption.
+
+### Combat
+
+The main advantage of [[Wild Magic (Bar)]] is that your Rage can provide **different magical effects without consuming your normal Actions**. This means you retain the Barbarian's basic attack pattern while gaining an additional random effect.
+
+The randomness can occasionally produce an effect that is less useful for the current encounter, so the subclass gives you less control than a deliberately specialized Barbarian.
+
+Its strength is adaptability. You do not know exactly what your Rage will provide, but you always gain an additional magical element that can change how the fight develops.
+
+### Progression
+
+**Early:** Random magical effects give your Rage additional utility while your normal Barbarian attacks remain reliable.
+
+**Mid:** The magical effects become more powerful and provide more meaningful damage, protection, and battlefield manipulation.
+
+**End:** Your Rage becomes a reliable source of chaotic magical effects while retaining the Barbarian's strong physical combat capabilities.
+
+**Best for:**
+
+- Randomized gameplay
+- Chaotic magic
+- Hybrid physical/magical combat
+- Flexible Rage effects
+- Players who dislike repetitive combat rotations
+
+## [[Wildheart]]
+
+The [[Wildheart]] channels animal spirits through its chosen [[Bestial Heart]], making it one of the most customizable Barbarian subclasses. Different hearts change the benefits you receive while Raging, allowing you to specialize toward damage, mobility, defense, control, or utility.
+
+In exploration, the subclass strongly reinforces a primal character concept. In combat, the important decision is choosing the animal spirit that best matches your preferred role rather than being locked into one narrow combat style.
+
+### Combat
+
+The [[Wildheart]] is about **specialized Rage effects**. Your chosen Bestial Heart determines the main benefit you receive, so the subclass can be configured around different combat needs.
+
+Some options improve durability, others improve mobility or damage, while others provide control or unusual utility. This gives the Wildheart more flexibility than subclasses that are designed around a single combat mechanic.
+
+The main drawback is that choosing one heart means giving up the benefits of the others. Your subclass is therefore highly customizable, but your selected configuration still determines your actual role in combat.
+
+### Progression
+
+**Early:** Your Bestial Heart immediately defines your Rage and gives you a specialized combat advantage.
+
+**Mid:** Additional animal-spirit abilities expand your utility and make the subclass more than a simple damage specialization.
+
+**End:** The Wildheart becomes a flexible primal specialist capable of supporting different party compositions depending on its chosen abilities.
+
+**Best for:**
+
+- Customizable Barbarians
+- Animal-themed builds
+- Defensive or offensive specialization
+- Mobility and utility
+- Players who want to tailor their Rage to a specific role
+
+## [[Zealot]]
+
+The [[Zealot]] channels supernatural devotion into raw martial power. Its divine or necrotic abilities reinforce the Barbarian's already strong damage and durability, while its defining mechanics make it unusually difficult to permanently remove from a fight.
+
+In exploration, it remains primarily a martial character, but its supernatural abilities give it a stronger religious or fanatical identity. In combat, it is built around relentless offense and surviving situations that would normally force another character out of the fight.
+
+### Combat
+
+The [[Zealot]] is primarily a **damage-focused frontliner**. Its supernatural abilities add extra damage or utility to normal weapon attacks without requiring you to abandon the Barbarian's core combat loop.
+
+Its major strength is reliability. You still Rage and attack normally, but your subclass gives those attacks additional supernatural impact. Defensive and revival-oriented features also make it difficult to completely shut down.
+
+This makes the Zealot particularly effective when you want a Barbarian who can concentrate almost entirely on offense without becoming fragile.
+
+### Progression
+
+**Early:** Your attacks gain supernatural offensive effects while your normal Rage and martial abilities remain the foundation of your combat style.
+
+**Mid:** Additional divine or necrotic abilities increase your damage and improve your ability to remain active in difficult fights.
+
+**End:** The subclass becomes a highly durable damage dealer with powerful supernatural attacks and strong resistance to being permanently removed from combat.
+
+**Best for:**
+
+- Melee damage
+- Supernatural warriors
+- High survivability
+- Aggressive frontlining
+- Players who want relentless offense
 
 ---
 
-## Choosing a [[Barbarian]]
+## Choosing an [[Barbarian]]
 
-- **[[Ancestral Guardian]]** — Best defensive/tank Barbarian for protecting the party.
-    
-- **[[Battlerager]]** — Best for straightforward close-range aggression and spiked-armor combat.
-    
-- **[[Beast]]** — Best for natural weapons and animalistic combat.
-    
-- **[[Berserker]]** — Best for simple, high-damage melee and throwing.
-    
-- **[[Giant]]** — Best for throwing, size, physical control, and giant-themed abilities.
-    
-- **[[Ginnungagap]]** — Best for fighting spellcasters and countering magic.
-    
-- **[[Juggernaut]]** — Best for unstoppable movement, knockbacks, and resisting control.
-    
-- **[[Path of the Corpse Eater]]** — Best for necrotic damage, kills, and self-sustain.
-    
-- **[[Rage Mage]]** — Best for combining Rage with actual spellcasting.
-    
-- **[[Storm Herald]]** — Best for persistent elemental effects and frontline AoE.
-    
-- **[[Wild Magic (Bar)]]** — Best for unpredictable magical effects.
-    
-- **[[Wildheart]]** — Best for customizable animal-spirit abilities.
-    
-- **[[Zealot]]** — Best for aggressive damage and supernatural survivability.
-    
+- [[Ancestral Guardian]] — Choose it if you want to protect allies by drawing enemy attention and reducing incoming damage.
+- [[Battlerager]] — Choose it if you want a straightforward, aggressive melee Barbarian built around spiked armor.
+- [[Beast]] — Choose it if you want flexible natural weapons and a primal unarmed combat style.
+- [[Berserker]] — Choose it if you want maximum aggression, extra attacks, and strong throwing mechanics.
+- [[Giant]] — Choose it if you want enormous size, powerful throws, and giant-themed elemental abilities.
+- [[Ginnungagap]] — Choose it if you want an anti-magic Barbarian that can resist and interrupt enemy spells.
+- [[Juggernaut]] — Choose it if you want to control enemy positioning through knockback while becoming extremely difficult to move.
+- [[Path of the Corpse Eater]] — Choose it if you want to consume corpses for Rage, healing, and additional power.
+- [[Rage Mage]] — Choose it if you want to combine Barbarian melee combat with spellcasting while Raging.
+- [[Storm Herald]] — Choose it if you want persistent elemental effects alongside your normal frontline attacks.
+- [[Wild Magic (Bar)]] — Choose it if you want unpredictable magical effects layered onto conventional Barbarian combat.
+- [[Wildheart]] — Choose it if you want to customize your Rage around different animal spirits and combat roles.
+- [[Zealot]] — Choose it if you want a highly aggressive supernatural warrior with strong damage and survivability.
 
-[[Barbarian]] is fundamentally a frontline class: Rage, physical power, and durability are the foundation, while each subclass determines how you specialize that strength.
+The [[Barbarian]] is a durable frontline martial class that turns Rage into its main combat engine, with subclasses specializing that raw physical power into defense, damage, control, elemental effects, magic, or supernatural abilities.
