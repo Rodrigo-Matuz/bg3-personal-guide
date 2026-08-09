@@ -44,6 +44,8 @@ Your Accursed spells are best used to complement your weapon attacks rather than
 - Smite-style weapon attacks
 - Weapon-focused frontliners
 
+---
+
 ## [[Curse of Combustion]]
 
 The [[Curse of Combustion]] turns the [[Accursed]] into a high-risk fire blaster. Your body contains an unstable flame that can erupt when you are damaged, while your subclass gives you a dedicated collection of fire spells and abilities.
@@ -73,6 +75,8 @@ Positioning matters more than with most casters because your uncontrolled explos
 - High-risk/high-reward play
 - Clearing groups of enemies
 - Players who enjoy managing health as a resource
+
+---
 
 ## [[Curse of the Created]]
 
@@ -104,6 +108,8 @@ Your temporary hit points can also be converted into additional melee damage, cr
 - Frontline damage
 - Players who want a hard-to-kill character
 
+---
+
 ## [[Curse of Immortality (Mage)]]
 
 The [[Curse of Immortality (Mage)]] is the caster-oriented version of the immortal [[Accursed]]. It combines the class's curse and debuff toolkit with Wizard cantrips and spells, allowing you to build a versatile arcane caster without giving up the unique mechanics of the [[Accursed]].
@@ -134,6 +140,8 @@ Your inability to receive normal magical healing means you need to manage your o
 - Players who want Wizard magic without playing a pure Wizard
 - Utility-heavy characters
 
+---
+
 ## [[Curse of Immortality (Warrior)]]
 
 The [[Curse of Immortality (Warrior)]] turns the immortal [[Accursed]] into a heavily armored martial character. Instead of spending centuries studying magic, this version has spent that time mastering weapons and physical combat.
@@ -161,6 +169,8 @@ Its bonus-action damage feature gives individual attacks additional impact, whil
 - Durable frontliners
 - Players who want martial combat without a weapon restriction
 - Self-sufficient characters
+
+---
 
 ## [[Curse of Invisibility]]
 
@@ -191,6 +201,8 @@ This makes the subclass excellent at picking targets and avoiding retaliation. H
 - Assassination-style gameplay
 - Avoiding enemy attacks
 - Players who enjoy invisibility mechanics
+
+---
 
 ## [[Curse of Vampirism]]
 
@@ -223,6 +235,7 @@ The subclass is less effective against Undead and Constructs because its enhance
 - Vampire-themed characters
 
 ---
+
 ## Choosing an [[Accursed]]
 
 | Subclass                           | Description                                                                                                    |

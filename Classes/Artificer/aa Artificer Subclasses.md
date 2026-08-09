@@ -152,8 +152,8 @@ The main drawback is that the Defender needs to be managed. Positioning matters,
 
 ## Choosing an [[Artificer]]
 
-| Subclass     | Description                                                                                           |   |
-| ------------ | ----------------------------------------------------------------------------------------------------- |
+| Subclass         | Description                                                                                           |
+| ---------------- | ----------------------------------------------------------------------------------------------------- |
 | [[Alchemist]]    | Choose it if you want a support specialist focused on healing, buffs, consumables, and utility.       |
 | [[Armorer]]      | Choose it if you want magical armor with the flexibility to switch between tanking and ranged combat. |
 | [[Artillerist]]  | Choose it if you want ranged magical damage, AoE, and battlefield control through deployable cannons. | 

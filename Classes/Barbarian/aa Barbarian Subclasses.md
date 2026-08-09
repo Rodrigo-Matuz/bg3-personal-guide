@@ -414,20 +414,20 @@ This makes the Zealot particularly effective when you want a Barbarian who can c
 
 ## Choosing an [[Barbarian]]
 
-| Subclass                 | Description                                                                                                      |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------- |
-| Ancestral Guardian       | Choose it if you want to protect allies by drawing enemy attention and reducing incoming damage.                 |
-| Battlerager              | Choose it if you want a straightforward, aggressive melee Barbarian built around spiked armor.                   |
-| Beast                    | Choose it if you want flexible natural weapons and a primal unarmed combat style.                                |
-| Berserker                | Choose it if you want maximum aggression, extra attacks, and strong throwing mechanics.                          |
-| Giant                    | Choose it if you want enormous size, powerful throws, and giant-themed elemental abilities.                      |
-| Ginnungagap              | Choose it if you want an anti-magic Barbarian that can resist and interrupt enemy spells.                        |
-| Juggernaut               | Choose it if you want to control enemy positioning through knockback while becoming extremely difficult to move. |
-| Path of the Corpse Eater | Choose it if you want to consume corpses for Rage, healing, and additional power.                                |
-| Rage Mage                | Choose it if you want to combine Barbarian melee combat with spellcasting while Raging.                          |
-| Storm Herald             | Choose it if you want persistent elemental effects alongside your normal frontline attacks.                      |
-| Wild Magic (Bar)         | Choose it if you want unpredictable magical effects layered onto conventional Barbarian combat.                  |
-| Wildheart                | Choose it if you want to customize your Rage around different animal spirits and combat roles.                   |
-| Zealot                   | Choose it if you want a highly aggressive supernatural warrior with strong damage and survivability.             |
+| Subclass                     | Description                                                                                                      |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [[Ancestral Guardian]]       | Choose it if you want to protect allies by drawing enemy attention and reducing incoming damage.                 |
+| [[Battlerager]]              | Choose it if you want a straightforward, aggressive melee Barbarian built around spiked armor.                   |
+| [[Beast]]                    | Choose it if you want flexible natural weapons and a primal unarmed combat style.                                |
+| [[Berserker]]                | Choose it if you want maximum aggression, extra attacks, and strong throwing mechanics.                          |
+| [[Giant]]                    | Choose it if you want enormous size, powerful throws, and giant-themed elemental abilities.                      |
+| [[Ginnungagap]]              | Choose it if you want an anti-magic Barbarian that can resist and interrupt enemy spells.                        |
+| [[Juggernaut]]               | Choose it if you want to control enemy positioning through knockback while becoming extremely difficult to move. |
+| [[Path of the Corpse Eater]] | Choose it if you want to consume corpses for Rage, healing, and additional power.                                |
+| [[Rage Mage]]                | Choose it if you want to combine Barbarian melee combat with spellcasting while Raging.                          |
+| [[Storm Herald]]             | Choose it if you want persistent elemental effects alongside your normal frontline attacks.                      |
+| [[Wild Magic (Bar)]]         | Choose it if you want unpredictable magical effects layered onto conventional Barbarian combat.                  |
+| [[Wildheart]]                | Choose it if you want to customize your Rage around different animal spirits and combat roles.                   |
+| [[Zealot]]                   | Choose it if you want a highly aggressive supernatural warrior with strong damage and survivability.             |
 
 The [[Barbarian]] is a durable frontline martial class that turns Rage into its main combat engine, with subclasses specializing that raw physical power into defense, damage, control, elemental effects, magic, or supernatural abilities.
