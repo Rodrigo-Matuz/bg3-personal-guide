@@ -1,4 +1,4 @@
-## [[Accursed]]
+## Accursed
 
 A cursed warrior who has learned to **turn their affliction into a source of supernatural power**. Rather than simply trying to remove their curse, Accursed characters learn to suppress, control, and weaponize it against their enemies. The class is fundamentally a **half-caster focused on curses, debuffs, and weakening enemies**, but its subclasses can push it heavily toward martial combat, destructive magic, tanking, stealth, or other specialized roles.
 
@@ -14,7 +14,7 @@ Overall, Accursed is best thought of as a **flexible curse-based half-caster**. 
 
 ---
 
-### Curse of the Armament
+### [[Curse of the Armament]]
 
 Bound to a **cursed weapon that refuses to leave your side**, turning you into a supernatural weapon master. **Physical + curse magic**, focused on martial combat, weapon enhancement, thrown weapons, and powerful Smite-like effects.
 
@@ -24,7 +24,7 @@ Your cursed weapon is effectively your signature companion. You have disadvantag
 
 ---
 
-### Curse of Combustion
+### [[Curse of Combustion]]
 
 An Accursed with an **unstable flame burning inside their body**, capable of unleashing devastating fire magic at the risk of losing control. **Physical + fire magic**, heavily focused on explosive AoE damage, burning enemies, and turning yourself into a walking magical bomb.
 
@@ -34,7 +34,7 @@ The major drawback is that taking damage can force you to make a Concentration s
 
 ---
 
-### Curse of the Created
+### [[Curse of the Created]]
 
 A **stitched-together creation animated by unnatural forces**, built to survive punishment that would kill an ordinary person. **Physical + lightning/defensive magic**, specializing in durability, heavy armor, shields, martial weapons, and surviving lethal damage through its unique resurrection-like mechanics.
 
@@ -44,7 +44,7 @@ The Created is the Accursed's natural **frontline/tank option**. You gain martia
 
 ---
 
-### Curse of Immortality
+### [[Curse of Immortality]]
 
 An Accursed who has **lived far beyond a normal lifespan**, accumulating fragments of knowledge and magical or martial ability over countless years. **Physical + curse magic**, with the unique ability to specialize into either a **Mage** or **Warrior** path.
 
@@ -62,7 +62,7 @@ An ancient immortal who has **spent centuries mastering weapons and combat**, tu
 
 ---
 
-### Curse of Invisibility
+### [[Curse of Invisibility]]
 
 A cursed individual whose **very existence has been partially erased from sight**, making them extraordinarily difficult to detect. **Physical + illusion/invisibility magic**, specializing in stealth, disappearing during combat, avoiding attacks, and striking from concealment.
 
@@ -74,7 +74,7 @@ As you level, Vanish becomes easier to use and your attacks from concealment bec
 
 ---
 
-### Curse of Vampirism
+### [[Curse of Vampirism]]
 
 A supernatural predator afflicted with **vampiric hunger and a weakness to sunlight**. **Physical + necrotic/vampiric magic**, built around grappling, biting restrained enemies, draining their life, charming creatures, and eventually gaining the ability to heal from Necrotic damage.
 
