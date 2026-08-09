@@ -1,280 +1,404 @@
 # [[Paladin]]
 
-A heavily armored divine warrior who combines strong martial combat with powerful divine magic. [[Paladin]]s are especially effective at close range, where weapon attacks and [[Divine Smite]] can produce high burst damage while healing, defensive spells, and auras provide strong party support. Their spellcasting is more limited than a dedicated caster's, but their abilities are designed to complement weapon combat rather than replace it.
+[[Paladin]] is a heavily armored martial class that combines strong weapon attacks with divine magic, defensive abilities, healing, and powerful Smite effects. Its core gameplay is built around staying close to enemies, using weapon attacks as the primary source of damage, and spending spell slots to add burst damage when it matters. Divine Smite adds Radiant damage to melee weapon attacks, with additional damage against Fiends and Undead, making spell slots an important offensive resource.
 
-The defining feature of a [[Paladin]] is the ability to combine **frontline durability, burst damage, and party support** in the same character. Most builds want to stay close to enemies and allies so they can make the most of their weapon attacks, [[Divine Smite]], healing, and defensive effects. Their subclass, represented by their oath, determines whether they lean toward protection, damage, control, mobility, or darker forms of divine power.
+Paladins also provide significant party utility through healing, defensive abilities, auras, and support spells. Their high Charisma makes them effective for dialogue and social checks in addition to powering their spellcasting.
+
+The subclass, or Oath, determines how the Paladin applies these basic tools. Some Oaths focus on defense and party protection, while others specialize in burst damage, control, dark magic, or specialized forms of support.
 
 In combat, [[Paladin]] can fill several different roles depending on its subclass:
 
-- **Frontline damage dealer** — Use weapon attacks and [[Divine Smite]] to eliminate high-priority enemies.
-- **Tank and protector** — Hold the frontline while defensive abilities and auras protect nearby allies.
-- **Support** — Heal allies, provide buffs, and improve the party's defenses.
-- **Control specialist** — Use fear, immobilization, debuffs, and other oath-specific effects to restrict enemies.
-- **Hybrid martial caster** — Combine melee attacks with divine spells for a flexible frontline character.
+- **Frontline damage dealer** — Uses weapon attacks, multiple attacks, and [[Divine Smite]] to deal strong melee damage.
+- **Tank/protector** — Uses heavy armor, defensive abilities, and auras to protect allies and remain on the frontline.
+- **Healer/support** — Uses divine spells and subclass abilities to heal, buff, and protect the party.
+- **Single-target burst attacker** — Focuses resources on [[Divine Smite]] and other offensive abilities to quickly eliminate priority targets.
+- **Crowd controller** — Uses fear, debuffs, and other divine effects to disable or weaken enemies.
+- **Party face** — Uses high Charisma to excel at dialogue, persuasion, intimidation, and other social interactions.
 
 ---
 
 ## [[Oath of the Ancients]]
 
-A nature-bound [[Paladin]] focused on protecting life and resisting supernatural threats. The subclass combines traditional frontline combat with strong healing and defensive magic, making it one of the more support-oriented [[Paladin]] options. Its nature-based abilities also give it useful tools for dealing with creatures and situations connected to the natural world.
+A nature-bound Paladin focused on preserving life and protecting allies from supernatural threats. The subclass combines martial combat with nature and Radiant magic, giving it strong healing, defensive tools, and useful support abilities. Outside combat, its nature-oriented abilities can provide additional utility, especially in situations involving animals, plants, and the natural world.
 
 ### Combat
 
-[[Oath of the Ancients]] excels at keeping the party alive while still functioning as a capable melee combatant. Its defensive and healing tools allow it to recover allies and mitigate incoming damage without giving up its frontline position. It works particularly well when several party members need protection at the same time.
+[[Oath of the Ancients]] is one of the more defensive Paladin options. It is well suited to staying in the middle of the party and keeping allies alive while still dealing normal Paladin weapon damage and Smite damage.
 
-The main drawback is that its strongest identity is defensive rather than purely offensive. If your priority is maximizing single-target burst damage, other oaths provide more aggressive tools.
+Its healing and defensive tools let it spend actions on supporting the party without abandoning its frontline role. This makes it particularly useful in difficult encounters where surviving several rounds is more important than maximizing immediate damage.
 
 ### Progression
 
-**Early:** Establishes a durable frontline presence with useful healing and defensive options.
+**Early:** Establishes a durable frontline role with healing and nature-based utility.
 
-**Mid:** Becomes increasingly effective at protecting groups of allies and supporting prolonged encounters.
+**Mid:** Gains stronger defensive and support options, allowing the Paladin to protect multiple allies while continuing to fight normally.
 
-**End:** Strong defensive tools, healing, and powerful auras make the subclass excellent for keeping the party alive through difficult fights.
+**End:** Becomes a highly reliable defensive Paladin with strong healing, survivability, and access to powerful divine and nature-based tools.
 
-**Best for:** Party protection, healing, defensive builds, durable frontline play, nature-themed characters.
+**Best for:**
+
+- Party protection
+- Healing and support
+- Durable frontline combat
+- Nature-themed characters
+- Long encounters where survivability matters
 
 ---
 
 ## [[Oath of the Bleak Walkers]]
 
-A grim [[Paladin]] who uses fear, punishment, and dark divine power to overwhelm enemies. The subclass shifts the traditional holy-knight fantasy toward intimidation and ruthless combat, giving the [[Paladin]] more offensive and necrotic-oriented tools.
+A grim Paladin who treats fear and overwhelming force as practical tools. [[Oath of the Bleak Walkers]] combines physical combat with dark and necrotic abilities, giving the class a more aggressive alternative to traditional defensive Oaths.
+
+Outside combat, it fits intimidation-focused characters particularly well. Its overall toolkit is aimed at weakening enemies rather than maintaining a purely protective role.
 
 ### Combat
 
-[[Oath of the Bleak Walkers]] focuses on aggressively weakening enemies and making them easier to kill. Fear and dark effects can disrupt enemy actions while your weapon attacks and [[Divine Smite]] handle direct damage.
+This subclass focuses on pressure and punishment. Instead of primarily protecting allies, it uses fear, dark effects, and strong weapon attacks to make enemies less effective.
 
-It is particularly effective when you want your [[Paladin]] to contribute through both physical burst and debilitating effects rather than simply trading attacks.
+It works well when you want your Paladin to stay aggressive and force enemies to deal with you. Divine Smite remains an important source of burst damage, while the subclass's darker abilities provide additional ways to weaken targets.
 
 ### Progression
 
-**Early:** Provides aggressive melee tools and establishes the subclass's darker combat identity.
+**Early:** Establishes an aggressive melee role with dark and intimidating abilities.
 
-**Mid:** Gains stronger offensive and debilitating abilities, allowing you to pressure groups of enemies more effectively.
+**Mid:** Gains stronger ways to punish and weaken enemies, making it increasingly effective against dangerous targets.
 
-**End:** Becomes a powerful dark frontline attacker capable of combining heavy weapon damage with fear and necrotic effects.
+**End:** Combines strong martial damage with powerful dark effects, giving the Paladin a more offensive identity than traditional protective Oaths.
 
-**Best for:** Aggressive play, dark Paladins, fear effects, necrotic damage, intimidation.
+**Best for:**
+
+- Aggressive frontline combat
+- Intimidation-focused characters
+- Dark Paladin builds
+- Necrotic and debuff effects
+- Players who want offense over protection
 
 ---
 
 ## [[Oath of Conquest]]
 
-A ruthless [[Paladin]] built around fear, domination, and controlling enemies through overwhelming force. Rather than simply killing enemies quickly, the subclass aims to make them unable to fight effectively by restricting their movement and actions.
+A Paladin dedicated to controlling enemies through fear and overwhelming martial power. [[Oath of Conquest]] combines frontline weapon combat with fear and control effects, making it particularly effective when positioning and enemy movement matter.
+
+The subclass is designed around creating situations where frightened or controlled enemies cannot effectively respond to the party. It therefore has strong battlefield-control potential without abandoning the Paladin's normal weapon damage.
 
 ### Combat
 
-[[Oath of Conquest]] is strongest when fighting groups of enemies that can be affected by fear and control effects. Once enemies are frightened or otherwise restricted, the [[Paladin]] can hold them in place while the rest of the party focuses them down.
+[[Oath of Conquest]] works best when you can keep enemies within your threat range. Fear effects can reduce enemy mobility and make it easier for the party to focus on vulnerable targets.
 
-This gives the subclass a useful combination of frontline durability and battlefield control, although its effectiveness depends more heavily on enemies being vulnerable to its control effects.
+The subclass benefits from the Paladin's normal action economy: use control abilities when they provide significant value, then rely on weapon attacks and Smite for damage. This avoids wasting turns trying to maintain control when simply attacking is more effective.
 
 ### Progression
 
-**Early:** Establishes fear and control as the main way of disrupting enemies.
+**Early:** Begins as an aggressive melee Paladin with access to fear and control tools.
 
-**Mid:** Gains stronger ways to maintain pressure on controlled enemies while remaining effective in melee.
+**Mid:** Becomes better at locking down dangerous enemies and controlling the space around the Paladin.
 
-**End:** Becomes a durable battlefield controller capable of locking down dangerous opponents while dealing heavy weapon damage.
+**End:** Combines strong melee damage with reliable battlefield control, making it difficult for enemies to disengage safely.
 
-**Best for:** Fear builds, battlefield control, aggressive tanking, disabling enemies.
+**Best for:**
+
+- Fear-based control
+- Aggressive tanking
+- Battlefield lockdown
+- Melee damage
+- Players who want to dominate enemy positioning
 
 ---
 
 ## [[Oath of Crown]]
 
-A duty-focused [[Paladin]] dedicated to protecting allies and maintaining order. It is designed around the idea of being the party's dependable frontline defender, using defensive abilities and enemy-control tools to keep attention away from vulnerable companions.
+A duty-focused Paladin specializing in protecting allies and maintaining control over the battlefield. [[Oath of Crown]] is primarily a defensive martial subclass, using divine abilities to reinforce the party while remaining on the frontline.
+
+Its playstyle is straightforward: stay near allies, draw enemy attention, and use defensive or control abilities when they provide more value than another attack.
 
 ### Combat
 
-[[Oath of Crown]] performs best when positioned between enemies and the rest of the party. Its abilities help protect nearby allies and encourage enemies to deal with the [[Paladin]] instead of attacking weaker targets.
+[[Oath of Crown]] is particularly suited to a traditional tank role. Instead of simply maximizing personal defenses, it uses its abilities to make the entire party safer.
 
-It sacrifices some offensive specialization in exchange for stronger defensive utility, making positioning particularly important. Staying close to the allies you want to protect is usually more valuable than chasing distant targets.
+The subclass is strongest when enemies are attacking multiple members of the group. By positioning yourself between enemies and vulnerable allies, you can combine heavy armor and Paladin durability with defensive abilities that reduce pressure on the rest of the party.
 
 ### Progression
 
-**Early:** Provides reliable frontline durability and basic protection for nearby allies.
+**Early:** Establishes a durable defensive frontline.
 
-**Mid:** Gains stronger defensive and control tools, improving its ability to manage groups of enemies.
+**Mid:** Gains stronger party-protection and enemy-control options.
 
-**End:** Becomes a dedicated defensive anchor capable of protecting the party while still contributing significant melee damage.
+**End:** Becomes a dedicated guardian capable of absorbing pressure while continuing to contribute meaningful weapon damage and Smite burst.
 
-**Best for:** Tanking, ally protection, defensive parties, frontline control.
+**Best for:**
+
+- Tanking
+- Protecting allies
+- Defensive party compositions
+- Enemy control
+- Frontline support
 
 ---
 
 ## [[Oath of Devotion]]
 
-The classic holy knight, combining martial combat with reliable radiant and defensive divine abilities. [[Oath of Devotion]] is one of the most straightforward [[Paladin]] choices and works well when you want a balanced character without heavily specializing in an unusual mechanic.
+The classic holy knight, combining martial combat with Radiant magic, healing, and defensive abilities. [[Oath of Devotion]] is a balanced Paladin option that does not heavily specialize in one unusual mechanic.
+
+It works well for players who want the standard Paladin experience: heavy armor, reliable weapon attacks, divine support, healing, and strong Smite damage.
 
 ### Combat
 
-The subclass performs consistently in melee, using weapon attacks and [[Divine Smite]] for damage while maintaining useful healing and defensive options. Its radiant abilities are particularly useful against enemies vulnerable to radiant damage.
+[[Oath of Devotion]] performs well in almost any standard frontline situation. You can attack normally, spend spell slots on [[Divine Smite]] for burst damage, or use defensive and supportive abilities when the party needs them.
 
-It does not radically change how the base [[Paladin]] plays, which is a strength if you want a reliable all-purpose character.
+This flexibility makes it particularly easy to fit into almost any party composition. It does not require complicated positioning or a specialized combat setup to be effective.
 
 ### Progression
 
-**Early:** Strong all-around frontline performance with reliable weapon combat and support tools.
+**Early:** Provides a straightforward mix of weapon damage, healing, and divine abilities.
 
-**Mid:** Improves its radiant damage, defensive capabilities, and overall consistency.
+**Mid:** Improves its defensive and offensive support while maintaining reliable melee performance.
 
-**End:** Remains a balanced holy warrior with strong melee damage, support, and defensive utility.
+**End:** Becomes a well-rounded holy warrior with strong weapon damage, Smite burst, healing, and party protection.
 
-**Best for:** Classic Paladin gameplay, balanced builds, radiant damage, general-purpose parties.
+**Best for:**
+
+- Traditional Paladin gameplay
+- Balanced parties
+- Holy knight characters
+- Reliable melee damage
+- New Paladin players
 
 ---
 
 ## [[Oath of Glory]]
 
-A heroic [[Paladin]] focused on physical excellence, mobility, and inspiring allies. This oath emphasizes athletic combat and powerful martial actions while retaining the core divine abilities of the class.
+A heroic Paladin focused on physical excellence, mobility, and inspiring allies. [[Oath of Glory]] combines strong martial abilities with divine buffs, making it more active and mobile than a purely defensive Paladin.
+
+It is particularly useful for characters that want to move aggressively around the battlefield while still providing meaningful support to the party.
 
 ### Combat
 
-[[Oath of Glory]] rewards aggressive movement and direct engagement. Mobility tools allow you to reach priority targets quickly, while buffs can improve the effectiveness of both yourself and your allies.
+The subclass rewards proactive play. Instead of remaining in one defensive position, you can use mobility and physical enhancements to reach important targets quickly.
 
-It works particularly well for players who want a [[Paladin]] that feels more mobile and physically aggressive rather than stationary and defensive.
+Its buffs also allow the Paladin to improve the performance of allies while continuing to contribute weapon damage. This makes it a strong option for aggressive party compositions where several characters benefit from increased mobility or combat effectiveness.
 
 ### Progression
 
-**Early:** Establishes a mobile melee playstyle with useful physical buffs.
+**Early:** Provides mobility and martial enhancements that make the Paladin more aggressive.
 
-**Mid:** Gains stronger movement and combat-enhancement tools, improving both personal and party performance.
+**Mid:** Gains stronger buffs and tools for supporting the party while maintaining frontline damage.
 
-**End:** Becomes a highly capable martial [[Paladin]] with strong mobility, burst damage, and party support.
+**End:** Combines strong martial performance, mobility, and party-enhancing abilities.
 
-**Best for:** Mobile melee combat, athletic builds, aggressive support, heroic characters.
+**Best for:**
+
+- Mobile melee combat
+- Aggressive Paladins
+- Party buffs
+- Athletic characters
+- Heroic martial builds
 
 ---
 
 ## [[Oath of Pestilence]]
 
-A corrupted [[Paladin]] who turns disease, poison, and decay into weapons. Instead of relying primarily on radiant power, this oath weakens enemies through debilitating effects and rewards prolonged engagements.
+A corrupted Paladin who uses disease, poison, and decay as weapons. [[Oath of Pestilence]] trades the traditional holy theme for debilitating effects designed to weaken enemies over time.
+
+Its playstyle is especially useful in encounters where enemies survive long enough for multiple debuffs to matter.
 
 ### Combat
 
-[[Oath of Pestilence]] focuses on applying harmful effects that reduce enemy effectiveness over time. It is less about immediately killing everything with burst damage and more about making enemies progressively weaker while continuing to attack them.
+Rather than relying entirely on immediate burst damage, this subclass can spread harmful effects and reduce enemy effectiveness. Its martial attacks remain important, but the subclass adds another layer of pressure through poison and necrotic effects.
 
-The subclass is especially useful when poison and necrotic effects can reliably affect the enemies you are fighting, but its damage can be less consistent against resistant or immune targets.
+It is strongest when you can maintain pressure on several enemies rather than constantly switching targets.
 
 ### Progression
 
-**Early:** Introduces poison and decay effects alongside normal [[Paladin]] melee combat.
+**Early:** Establishes a melee role supplemented by poison and debilitating effects.
 
-**Mid:** Builds stronger ways to spread debilitating effects and weaken groups of enemies.
+**Mid:** Gains stronger ways to spread and exploit harmful conditions.
 
-**End:** Becomes a persistent debuff-focused frontline attacker that can wear down enemies while maintaining strong martial damage.
+**End:** Becomes a durable offensive Paladin capable of combining sustained debuffs with strong weapon attacks and Smite damage.
 
-**Best for:** Poison builds, debuffs, attrition, corrupted Paladins, disease-themed characters.
+**Best for:**
+
+- Poison builds
+- Necrotic damage
+- Debuff-heavy combat
+- Attrition fights
+    
+- Corrupted Paladin characters
+    
 
 ---
 
 ## [[Oath of Redemption]]
 
-A defensive [[Paladin]] focused on preventing violence, protecting allies, and turning enemy aggression against itself. Rather than maximizing damage, the subclass specializes in reducing incoming damage and controlling encounters.
+A defensive Paladin focused on preventing violence and protecting allies. [[Oath of Redemption]] specializes in damage mitigation, defensive abilities, disabling enemies, and punishing creatures that attack the party.
+
+This subclass is especially effective when the goal is to make the entire group harder to kill rather than simply maximizing the Paladin's own damage.
 
 ### Combat
 
-[[Oath of Redemption]] is particularly strong when enemies focus on attacking your party. Damage mitigation allows you to absorb or redirect pressure, while disabling effects can prevent dangerous enemies from acting effectively.
+[[Oath of Redemption]] rewards careful positioning and reaction to enemy behavior. When enemies attack your allies, defensive abilities can reduce or redirect the damage they cause.
 
-The trade-off is lower offensive specialization. You can still use weapons and [[Divine Smite]], but the subclass's strongest tools are defensive.
+The subclass can still fight normally, but its strongest contribution may come from preventing damage rather than dealing it. This makes it particularly valuable alongside fragile spellcasters and ranged damage dealers.
 
 ### Progression
 
-**Early:** Establishes a defensive playstyle focused on reducing damage and controlling encounters.
+**Early:** Establishes a defensive frontline with tools for reducing incoming damage.
 
-**Mid:** Gains stronger ways to protect allies and punish enemies for attacking the party.
+**Mid:** Gains stronger protection and control options that let it intervene in dangerous situations.
 
-**End:** Becomes an extremely effective defensive support character capable of absorbing pressure while keeping allies safe.
+**End:** Becomes a highly effective defensive support character capable of protecting allies while still contributing Paladin damage.
 
-**Best for:** Damage mitigation, defensive support, pacifist-themed builds, protecting allies.
+**Best for:**
+
+- Damage mitigation
+    
+- Protecting fragile allies
+    
+- Defensive parties
+    
+- Enemy disabling
+    
+- Support-oriented Paladins
+    
 
 ---
 
 ## [[Oath of Vengeance]]
 
-A relentless [[Paladin]] built specifically to destroy priority targets. It emphasizes single-target pressure, mobility, advantage, and aggressive use of [[Divine Smite]] to eliminate dangerous enemies before they can threaten the party.
+A dedicated monster hunter focused on eliminating priority targets. [[Oath of Vengeance]] is one of the most offensively oriented Paladin options, combining strong martial attacks with advantage, mobility, and single-target pressure.
+
+It is particularly effective when encounters contain one or two dangerous enemies that need to die quickly.
 
 ### Combat
 
-[[Oath of Vengeance]] is one of the strongest choices for an offensive [[Paladin]]. Its abilities help you focus on a specific enemy, improve your ability to hit that target, and reach them quickly.
+The subclass excels at concentrating its resources on a single target. Marking or otherwise enhancing attacks against a priority enemy allows the Paladin to maximize its weapon damage and [[Divine Smite]] burst.
 
-The subclass is particularly effective against bosses and other high-value enemies. Instead of spreading its power across an entire battlefield, it concentrates damage where it matters most.
+This makes action economy relatively simple: identify the most important enemy, close the distance, apply the appropriate offensive ability, and spend resources when a hit or critical hit is worth maximizing.
 
 ### Progression
 
-**Early:** Establishes strong single-target pressure and tools for pursuing priority enemies.
+**Early:** Establishes a strong single-target damage role with tools for pursuing important enemies.
 
-**Mid:** Gains better mobility and offensive abilities, making it easier to maintain pressure on marked targets.
+**Mid:** Gains stronger offensive buffs, mobility, and ways to improve attack reliability.
 
-**End:** Becomes a dedicated boss killer capable of combining advantage, mobility, weapon attacks, and [[Divine Smite]] for very high burst damage.
+**End:** Becomes an exceptional priority-target killer capable of combining multiple attacks with very high Smite burst.
 
-**Best for:** Boss killing, single-target damage, burst damage, aggressive melee, hunting priority targets.
+**Best for:**
+
+- Single-target burst
+    
+- Boss killing
+    
+- Aggressive melee
+    
+- Priority-target hunting
+    
+- High-damage Paladin builds
+    
 
 ---
 
 ## [[Oath of the Watchers]]
 
-A vigilant [[Paladin]] dedicated to defending the party against extraplanar and supernatural threats. Its abilities emphasize resisting magical effects, protecting allies, and disrupting enemies that rely heavily on supernatural powers.
+A vigilant Paladin dedicated to defending the party from supernatural and extraplanar threats. [[Oath of the Watchers]] combines martial combat with anti-magic and defensive abilities.
+
+It is particularly valuable in encounters where enemies rely heavily on magical or supernatural abilities rather than purely physical attacks.
 
 ### Combat
 
-[[Oath of the Watchers]] performs well against magical and otherworldly enemies. Its defensive tools help the party resist supernatural effects, while anti-magic abilities can interfere with enemy spellcasters and powerful creatures.
+The subclass focuses on preventing enemy supernatural abilities from disrupting the party. Defensive tools and anti-magic effects allow it to function as a frontline answer to spellcasters and other magical threats.
 
-Its specialization is situational, but it becomes particularly valuable in encounters where magical enemies are common.
+Its normal weapon attacks and Smite damage remain available, so the subclass does not sacrifice the Paladin's core martial role in exchange for utility.
 
 ### Progression
 
-**Early:** Provides defensive tools against magical and supernatural threats.
+**Early:** Establishes a frontline role with tools for dealing with supernatural enemies.
 
-**Mid:** Improves party-wide protection and gains stronger options for disrupting supernatural enemies.
+**Mid:** Gains stronger anti-magic and party-protection abilities.
 
-**End:** Becomes a strong anti-magic frontline defender capable of protecting the party from powerful magical effects.
+**End:** Becomes a specialized magical-threat counter while retaining the durability and burst damage expected from a Paladin.
 
-**Best for:** Anti-magic parties, supernatural enemies, defensive builds, protecting allies from spells.
+**Best for:**
+
+- Fighting spellcasters
+    
+- Anti-magic support
+    
+- Supernatural enemies
+    
+- Defensive frontline play
+    
+- Utility-focused Paladins
+    
 
 ---
 
 ## [[Oath of Zeal]]
 
-An extremely aggressive [[Paladin]] that channels divine conviction into overwhelming martial power. The subclass places less emphasis on defensive utility and more on maximizing melee damage and [[Divine Smite]] output.
+A highly aggressive Paladin who converts divine conviction directly into martial power. [[Oath of Zeal]] focuses heavily on weapon damage, powerful Smites, and aggressive combat rather than defensive specialization.
+
+This is one of the clearest choices for players who want their Paladin to spend most turns attacking.
 
 ### Combat
 
-[[Oath of Zeal]] wants to spend its turns attacking. Its offensive abilities work naturally with the [[Paladin]]'s existing action economy, allowing weapon attacks and [[Divine Smite]] to form the core of its damage.
+[[Oath of Zeal]] is built around maximizing offensive output. Use your actions for weapon attacks and use spell slots for [[Divine Smite]] when a target is important enough to justify the resource cost.
 
-It is especially effective when you want to eliminate enemies quickly rather than control or protect them. The downside is that you give up some of the defensive specialization found in more support-oriented oaths.
+The subclass benefits particularly well from effects that improve attack accuracy or critical-hit frequency because successful attacks allow the Paladin to convert spell slots into large amounts of additional damage.
 
 ### Progression
 
-**Early:** Establishes a straightforward aggressive melee playstyle.
+**Early:** Establishes a straightforward aggressive melee role.
 
-**Mid:** Gains stronger offensive abilities and better tools for maximizing burst damage.
+**Mid:** Gains stronger offensive tools and increasingly powerful ways to convert resources into damage.
 
-**End:** Becomes a highly specialized melee damage dealer capable of producing extremely powerful turns through weapon attacks and [[Divine Smite]].
+**End:** Becomes a dedicated martial damage dealer with excellent burst potential and very high single-target pressure.
 
-**Best for:** Maximum damage, aggressive melee, Smite builds, burst turns.
+**Best for:**
+
+- Maximum melee damage
+    
+- Smite-focused builds
+    
+- Aggressive combat
+    
+- Critical-hit builds
+    
+- Players who want minimal defensive complexity
+    
 
 ---
 
 ## [[Oathbreaker]]
 
-A [[Paladin]] who has abandoned their original oath and embraced necrotic and undead power. [[Oathbreaker]] combines the normal strengths of a heavily armored [[Paladin]] with fear, life-draining abilities, and tools that empower or interact with undead creatures.
+A Paladin who has abandoned their original oath and embraced dark powers. [[Oathbreaker]] combines heavy martial combat with necrotic and dark magic, including abilities that can manipulate undead, weaken enemies, and inflict fear.
+
+It is a strong choice for dark-themed parties and builds that want to combine Paladin durability with necromantic utility.
 
 ### Combat
 
-[[Oathbreaker]] is a strong offensive and control-oriented [[Paladin]]. Necrotic abilities and fear effects provide options beyond conventional weapon damage, while [[Divine Smite]] remains an important source of burst damage.
+[[Oathbreaker]] offers several ways to disrupt enemies before returning to normal Paladin weapon attacks. Fear can prevent enemies from moving effectively, while dark abilities can weaken individual targets.
 
-Its undead-focused abilities also give it excellent synergy with parties built around necromancy and summoned creatures. However, its dark specialization can be less useful against enemies resistant or immune to necrotic effects.
+The subclass also has strong synergy with undead-focused parties. Its abilities can complement characters and builds that already rely on summons or necromantic effects.
 
 ### Progression
 
-**Early:** Adds dark control and necrotic options to the standard [[Paladin]] melee toolkit.
+**Early:** Establishes an aggressive dark Paladin with fear, necrotic damage, and offensive control.
 
-**Mid:** Gains stronger fear, life-draining, and undead-related abilities.
+**Mid:** Gains stronger dark abilities and better tools for manipulating enemies and undead.
 
-**End:** Becomes a powerful dark frontline character capable of combining heavy weapon damage, necrotic magic, fear, and undead support.
+**End:** Combines excellent martial durability and Smite damage with a powerful necrotic toolkit and strong synergy with undead.
 
-**Best for:** Necromancy, undead parties, dark Paladins, fear effects, necrotic damage.
+**Best for:**
+
+- Dark Paladin builds
+    
+- Necromancy and undead parties
+    
+- Fear and control
+    
+- Necrotic damage
+    
+- Aggressive frontline combat
+    
 
 ---
 
@@ -282,17 +406,17 @@ Its undead-focused abilities also give it excellent synergy with parties built a
 
 |Subclass|Description|
 |---|---|
-|[[Oath of the Ancients]]|Choose it if you want strong healing, protection, and nature-themed defensive support.|
-|[[Oath of the Bleak Walkers]]|Choose it if you want a dark and aggressive Paladin built around fear and necrotic power.|
+|[[Oath of the Ancients]]|Choose it if you want strong healing, defense, and nature-themed support.|
+|[[Oath of the Bleak Walkers]]|Choose it if you want an aggressive dark Paladin built around intimidation and punishment.|
 |[[Oath of Conquest]]|Choose it if you want to dominate enemies through fear and battlefield control.|
-|[[Oath of Crown]]|Choose it if you want to act as the party's dedicated frontline protector.|
-|[[Oath of Devotion]]|Choose it if you want the classic balanced holy-knight experience.|
-|[[Oath of Glory]]|Choose it if you want a mobile, physically powerful Paladin with strong party buffs.|
-|[[Oath of Pestilence]]|Choose it if you want to weaken enemies with poison, disease, and decay.|
-|[[Oath of Redemption]]|Choose it if you want maximum defensive utility and damage mitigation.|
-|[[Oath of Vengeance]]|Choose it if you want to hunt down priority targets and maximize single-target burst damage.|
-|[[Oath of the Watchers]]|Choose it if you want strong protection against magic and supernatural enemies.|
-|[[Oath of Zeal]]|Choose it if you want to maximize aggressive melee damage and [[Divine Smite]].|
-|[[Oathbreaker]]|Choose it if you want necrotic magic, fear, undead synergy, and a dark frontline playstyle.|
+|[[Oath of Crown]]|Choose it if you want to be a dedicated frontline protector for the party.|
+|[[Oath of Devotion]]|Choose it if you want the classic balanced holy-knight Paladin.|
+|[[Oath of Glory]]|Choose it if you want a mobile martial Paladin that improves the party through buffs.|
+|[[Oath of Pestilence]]|Choose it if you want poison, disease, and necrotic debuffs.|
+|[[Oath of Redemption]]|Choose it if you want to prevent damage and protect allies rather than maximize kills.|
+|[[Oath of Vengeance]]|Choose it if you want to hunt down priority targets and maximize single-target burst.|
+|[[Oath of the Watchers]]|Choose it if you want a Paladin specialized in fighting magical and supernatural threats.|
+|[[Oath of Zeal]]|Choose it if you want to maximize aggressive melee and Smite damage.|
+|[[Oathbreaker]]|Choose it if you want a dark Paladin with necrotic, fear, and undead-focused abilities.|
 
-[[Paladin]] is a durable divine frontline warrior that combines heavy weapon damage, [[Divine Smite]], defensive support, and subclass-specific abilities into one of BG3's most versatile martial classes.
+[[Paladin]] is a durable frontline hybrid that combines martial weapon damage, Divine Smite burst, defensive support, and subclass-specific divine abilities.
