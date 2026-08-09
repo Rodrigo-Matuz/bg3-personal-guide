@@ -67,8 +67,11 @@ Its main weakness is that much of its specialization is concentrated on individu
 ### Progression
 
 **Early:** Vengeful Quarry establishes the subclass's focus on hunting specific enemies.
+
 **Mid:** Improved offensive tools make marked targets increasingly vulnerable to the Inquisitor's attacks.
+
 **End:** The subclass becomes an effective elite and boss killer, combining strong weapon attacks with improved accuracy, critical-hit potential, and defense-piercing abilities.
+
 **Best for:**
 
 - Boss killing
