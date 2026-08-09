@@ -1,63 +1,188 @@
-## Artificer
+# [[Artificer]]
 
-A magical inventor who combines **arcane spellcasting with craftsmanship, experimentation, and magically enhanced equipment**. Rather than relying purely on spells or conventional weapons, Artificers create and modify their own tools, turning mundane equipment into powerful magical instruments. **Arcane magic + technology**, with a strong emphasis on utility, support, magical equipment, and specialized combat tools.
+## Description
 
-The Artificer's defining mechanic is **[[Infusion]]**. Instead of simply finding magical equipment, you can imbue weapons, armor, and other objects with magical properties, allowing you to enhance your own equipment or provide useful upgrades to your allies. This makes the Artificer particularly good at preparing for different situations and improving the effectiveness of the entire party. The class also receives a selection of spells and cantrips, giving it useful offensive, defensive, and utility options.
+[[Artificer]] is a magical inventor who combines **arcane spellcasting with craftsmanship, experimentation, and magically enhanced equipment**. Instead of specializing purely in spells or conventional weapons, the Artificer creates magical tools and modifies equipment to solve problems in combat and exploration.
 
-Artificers are also naturally versatile. Their subclasses fundamentally change **how they apply their magical craftsmanship**: an Alchemist specializes in experimental potions and support, an Armorer turns their armor into a magical weapon and defensive system, an Artillerist constructs a powerful magical cannon, while a Battle Smith fights alongside a mechanical companion.
+The class's defining mechanic is **Infusion**. Infusions allow you to enhance weapons, armor, spellcasting equipment, and other useful items with magical properties. This gives the Artificer an unusual amount of control over its equipment and allows you to improve both your own character and your allies. The class is therefore useful even when it is not spending actions attacking or casting spells.
 
-The class begins without a subclass and chooses its specialization at **Level 3**. This is where the Artificer stops being a general magical inventor and gains its defining piece of equipment or ability. The subclass then continues to receive additional features at later levels, increasingly pushing the character toward its chosen role.
+[[Artificer]] is a **hybrid class**. It has spellcasting, cantrips, equipment enhancements, utility tools, and several ways to contribute directly to combat. Its subclasses then specialize this general toolkit into very different roles:
 
-Overall, Artificer is best thought of as a **magical engineer** rather than simply a mage. You can enhance equipment, create specialized magical tools, support your party, and fight using inventions that other classes cannot replicate. The four subclasses let you specialize into **support/alchemy, armored combat, ranged magical artillery, or a companion-based martial playstyle**.
+- **[[Alchemist]]** — potions, healing, buffs, and support.
+- **[[Armorer]]** — magical heavy armor, tanking, or ranged armored combat.
+- **[[Artillerist]]** — ranged damage, AoE, and magical cannons.
+- **[[Battle Smith]]** — martial combat with a mechanical companion.
 
-**Subclass:** Level 3
+The class begins without a subclass and chooses one at **Level 3**. This is an important breakpoint: the early game teaches you the general Artificer toolkit, while the subclass determines what your character is primarily built to do for the rest of the game.
 
----
+### How [[Artificer]] Plays
 
-### [[Alchemist]]
+The Artificer's action economy depends heavily on its subclass.
 
-A magical chemist who turns **alchemy into a weapon**, creating powerful experimental elixirs, potions, and other concoctions. **Arcane magic + alchemy**, primarily focused on buffs, healing, utility, and supporting the party rather than dealing damage directly.
+Your **Action** is normally used for weapon attacks, spells, or other class abilities, while your **Bonus Action** can become particularly valuable through subclass mechanics. [[Artillerist]], for example, can use its cannon to contribute damage while keeping its main Action available for spells. [[Battle Smith]] similarly has another creature acting on the battlefield through its Steel Defender.
 
-The Alchemist's defining ability is [[Experimental Alchemy]], allowing them to create special concoctions and gain additional alchemical options as they level. Rather than depending entirely on spell slots during combat, the Alchemist can prepare useful consumables that provide healing, buffs, and other effects. The subclass also gains additional spells and increasingly powerful alchemical benefits as it levels.
+Outside combat, [[Artificer]] is one of the more utility-oriented classes. Infusions, magical equipment, crafting-oriented abilities, consumables, and a broad selection of useful spells allow the class to prepare for specific situations rather than relying on one fixed combat rotation.
 
-At higher levels, the Alchemist becomes particularly effective as a **support and utility specialist**, eventually gaining [[Chemical Mastery]], which provides powerful restorative abilities alongside resistance to Poison and Acid damage and immunity to being Poisoned.
+This makes [[Artificer]] a good choice for players who enjoy **customizing equipment, preparing tools before encounters, supporting allies, and having several different ways to solve a problem**. It is less suited to players who want a very simple class with one primary attack rotation.
 
-**Best for:** Support, healing, buffs, consumables, utility, and players who enjoy preparing specialized tools for different situations.
+### Early Game
 
----
+Before choosing a subclass, [[Artificer]] plays as a flexible magical support character. You have cantrips, spells, equipment options, and early Infusions, but your final combat role has not yet been established.
 
-### [[Armorer]]
+This is also when equipment customization is most noticeable. An Artificer can improve the party's gear instead of treating equipment as something that only comes from loot.
 
-An Artificer who turns their **armor into a magical suit of specialized equipment**, becoming either a heavily armored frontliner or a stealthier infiltrator. **Physical + arcane technology**, focused on durability, defensive abilities, magical armor, and adapting the armor to your preferred combat style.
+### Mid Game
 
-At Level 3, the Armorer gains **[[Arcane Armor]]**, allowing them to transform their armor into one of two specialized models. **[[Guardian Armor]]** focuses on frontline combat, giving you powerful Thunder Gauntlets and defensive tools that encourage enemies to attack you. **[[Infiltrator Armor]]** instead focuses on mobility and ranged combat, providing a Lightning Launcher and abilities better suited to a stealthier or more ranged playstyle.
+After choosing your subclass, the Artificer becomes much more specialized.
 
-The Armorer eventually gains [[Extra Attack]] and increasingly powerful versions of its armor models. Its later features further improve both Guardian and Infiltrator configurations, meaning the subclass can remain effective whether you want to act as a **tank/bruiser or a ranged armored combatant**.
+Your subclass begins providing its defining mechanic, while the base class continues adding Infusions, spells, utility, and defensive options. This is generally when the class stops feeling like a generic magical inventor and starts functioning as a dedicated **alchemist, armored warrior, artillery caster, or construct-based martial**.
 
-**Best for:** Frontline tanking, defensive combat, magical armor, ranged combat, and players who want an Artificer that feels like a magical armored warrior.
+### End Game
 
----
+At high levels, the subclass becomes the main determinant of your combat role, while the base Artificer remains valuable through equipment enhancement, spellcasting, and utility.
 
-### [[Artillerist]]
-
-A ranged Artificer who constructs a **magical [[Eldritch Cannon]]** and uses it to unleash destructive firepower from a safe distance. **Arcane magic + ranged physical damage**, specializing in AoE, elemental damage, battlefield control, and letting your cannon do the heavy lifting while you cast from the backline.
-
-The Artillerist's defining feature is the [[Eldritch Cannon]]. You can create a magical cannon that provides additional attacks and abilities, with different ways of deploying and using it. The cannon can operate independently or be used directly by the Artificer, giving the subclass a unique way to spend its **Bonus Action** while keeping its main Action available for spells or other abilities.
-
-As the Artillerist levels, the cannon becomes increasingly powerful and gains access to stronger offensive options. Later features allow the Artificer to create **multiple Eldritch Cannons**, dramatically increasing the subclass's battlefield presence. The subclass also receives offensive spell options such as [[Fireball]], [[Ice Storm]], and [[Wall of Fire]], reinforcing its role as the Artificer's dedicated magical artillery specialist.
-
-**Best for:** Ranged damage, AoE, elemental magic, battlefield control, and players who want their Artificer to fight from the backline alongside a magical turret.
+The result is a class that can contribute before combat through preparation, during combat through its subclass mechanics, and after combat through utility and equipment management.
 
 ---
 
-### [[Battle Smith]]
+# [[Alchemist]]
 
-A combat-focused Artificer who combines **magical weapons and armor with a mechanical [[Steel Defender]]**. **Physical + arcane technology**, built for frontline or ranged combat while your construct companion fights alongside you, protects allies, and provides additional battlefield pressure.
+[[Alchemist]] turns the Artificer's magical craftsmanship toward **alchemy, experimental potions, and consumable support**. Instead of building a character around direct weapon damage, you create specialized concoctions that can provide healing, buffs, utility, and situational advantages.
 
-The Battle Smith's defining feature is the **[[Steel Defender]]**, a mechanical companion that fights alongside you and gives the subclass an additional presence on the battlefield. The defender can attack enemies, assist the party, and provide defensive utility while the Artificer fights alongside it.
+The subclass's defining feature is **Experimental Alchemy**, which provides additional alchemical options as you progress. This gives the Alchemist another resource to manage alongside normal spell slots.
 
-At Level 3, the Battle Smith also gains **[[Martial Weapon]] proficiency**, making it the most naturally combat-oriented Artificer subclass. As it levels, it gains [[Extra Attack]] and further improves its ability to function as a martial character while maintaining its spellcasting and Artificer utility.
+The important distinction is that your support tools are not limited to actions spent casting spells. You can prepare consumables and use them when the situation calls for them, allowing the Alchemist to contribute while preserving spell slots for more important encounters.
 
-The result is essentially a **magical warrior + mechanical companion** playstyle. You can fight in melee or at range while your Steel Defender occupies enemies, provides additional attacks, and helps control the battlefield.
+### Combat & Exploration
 
-**Best for:** Martial combat, ranged weapon builds, frontline fighting, companion gameplay, and players who want a mechanical pet fighting beside them.
+In combat, [[Alchemist]] generally plays from the **backline**. Your primary value comes from keeping allies effective rather than trying to compete with dedicated damage dealers.
+
+Healing, buffs, defensive effects, and specialized consumables give you something useful to do when direct damage is not the best option. Your spellcasting still gives you offensive and control options, so you are not completely dependent on your potions.
+
+The subclass is particularly useful in exploration because consumables can be prepared around the expected situation. Players who enjoy checking their inventory, preparing resources, and adapting their equipment will get considerably more from the subclass.
+
+At high levels, **Chemical Mastery** substantially improves the support role, providing powerful restorative abilities as well as Poison and Acid resistance and immunity to being Poisoned.
+
+### Progression
+
+**Early Game:** [[Alchemist]] establishes itself as a support-oriented Artificer. Experimental Alchemy provides additional consumable options while your normal Artificer spells handle situations that potions cannot.
+
+**Mid Game:** Your alchemical toolkit expands, allowing you to provide more specialized buffs, healing, and utility while your spellcasting continues to improve.
+
+**End Game:** The subclass becomes a strong dedicated support character. Chemical Mastery gives you significant defensive protection against Poison and Acid while adding powerful restorative options.
+
+**Best for:** Support, healing, buffs, consumables, preparation, utility, and players who enjoy having a tool for different situations.
+
+---
+
+# [[Armorer]]
+
+[[Armorer]] transforms the Artificer's equipment expertise into a **magical suit of specialized armor**. Your armor becomes the centerpiece of the character, providing both offensive and defensive capabilities.
+
+The subclass can switch between two armor configurations:
+
+- **[[Guardian Armor]]** — frontline combat, durability, and drawing enemy attention.
+    
+- **[[Infiltrator Armor]]** — mobility, ranged attacks, and a more evasive playstyle.
+    
+
+This makes [[Armorer]] one of the most flexible Artificer subclasses because the same character can approach combat as either a heavily armored frontline fighter or a ranged armored combatant.
+
+### Combat & Exploration
+
+[[Guardian Armor]] is designed to keep enemies focused on you. Its **Thunder Gauntlets** function as your primary melee weapons, while their special effect discourages enemies from attacking your allies. [[Defensive Field]] provides additional temporary durability.
+
+This makes Guardian particularly effective when your party needs someone who can **stand in front, absorb attacks, and protect weaker characters**.
+
+[[Infiltrator Armor]] instead gives you a **Lightning Launcher** and a more mobile combat style. Rather than standing in the middle of the enemy formation, you can attack from range and reposition more easily.
+
+Outside combat, the subclass is less specialized than [[Alchemist]], but the ability to change armor configurations gives it considerable adaptability. You can essentially change how your character approaches encounters rather than being locked into one combat style.
+
+### Progression
+
+**Early Game:** [[Armorer]] gains Arcane Armor and chooses between Guardian and Infiltrator. Your equipment becomes your main subclass mechanic, immediately giving you either a frontline or ranged identity.
+
+**Mid Game:** Your armor becomes significantly more effective and Extra Attack improves your martial output. Guardian becomes a stronger tank/bruiser while Infiltrator develops into a more capable ranged attacker.
+
+**End Game:** Your armor configurations receive major upgrades. Guardian gains stronger battlefield-control tools, while Infiltrator improves its Lightning Launcher and offensive consistency. The subclass remains flexible enough to change between defensive and ranged roles when needed.
+
+**Best for:** Tanking, defensive combat, magical armor, ranged combat, adaptability, and players who want an Artificer that feels like a magical armored warrior.
+
+---
+
+# [[Artillerist]]
+
+[[Artillerist]] is the dedicated **ranged damage and battlefield-control** specialization of [[Artificer]]. Instead of turning equipment into armor or relying on a companion, you construct a magical [[Eldritch Cannon]] and use it as an additional source of damage and utility.
+
+The cannon is the center of the subclass's action economy. Depending on how it is deployed, it can function independently or be directly used by the Artificer. This gives the subclass additional things to do without necessarily consuming the same resources as your normal spellcasting.
+
+The result is a backline character that can combine **spells + cannon attacks** rather than spending every turn on a single spell.
+
+### Combat & Exploration
+
+The typical [[Artillerist]] wants to stay at a safe distance.
+
+Your main Action can be used for spells while the [[Eldritch Cannon]] provides another source of damage or battlefield pressure. This is particularly useful when you want to conserve spell slots or when a situation does not justify spending a powerful spell.
+
+The cannon also gives you flexibility through different modes. Offensive options let you deal damage, while other configurations can provide defensive or utility benefits.
+
+As you progress, your spell list reinforces the artillery role with powerful AoE options such as [[Fireball]], [[Ice Storm]], and [[Wall of Fire]]. Later, you can deploy **multiple Eldritch Cannons**, greatly increasing the amount of battlefield pressure your subclass can create.
+
+Outside combat, the subclass is less utility-focused than [[Alchemist]], but its magical cannon gives you another useful tool for interacting with encounters and positioning.
+
+### Progression
+
+**Early Game:** [[Artillerist]] gains the [[Eldritch Cannon]], immediately giving you a powerful Bonus Action option and establishing the subclass as a ranged specialist.
+
+**Mid Game:** The cannon becomes stronger while your spell selection expands into more serious elemental and AoE damage. You can use your Action for spells while your cannon continues contributing to the fight.
+
+**End Game:** You gain additional cannon deployment options and can field multiple [[Eldritch Cannons]]. Combined with high-level AoE spells, this gives the Artillerist excellent sustained ranged pressure and strong battlefield control.
+
+**Best for:** Ranged damage, AoE, elemental magic, battlefield control, Bonus Action efficiency, and players who want a magical turret alongside their spellcasting.
+
+---
+
+# [[Battle Smith]]
+
+[[Battle Smith]] is the most directly martial-focused [[Artificer]] subclass. It combines **magically enhanced weapons and equipment with a mechanical [[Steel Defender]]**, allowing you to fight alongside a construct companion.
+
+The [[Steel Defender]] is the defining feature. It acts as another presence on the battlefield, attacking enemies, assisting your party, and providing additional pressure while your Artificer fights independently.
+
+[[Battle Smith]] also receives **Martial Weapon proficiency**, making it the most natural choice for an Artificer who wants to rely heavily on weapons. Later, Extra Attack allows the subclass to function as a proper martial combatant while retaining Artificer spellcasting and utility.
+
+### Combat & Exploration
+
+The subclass effectively gives you **two combatants in one character slot**.
+
+Your Artificer can fight in melee or at range while the [[Steel Defender]] attacks enemies and occupies space on the battlefield. This creates additional tactical options because enemies have another creature to deal with and you have more opportunities to control positioning.
+
+The defender can also provide defensive utility, making [[Battle Smith]] particularly comfortable in fights where maintaining a frontline matters.
+
+Your Bonus Action becomes important because you may need to decide between commanding or using your companion and using your own Bonus Action abilities. Positioning the [[Steel Defender]] correctly is therefore an important part of playing the subclass effectively.
+
+Outside combat, the mechanical companion gives the subclass additional utility and fits naturally into exploration-heavy parties. The Artificer's Infusions and equipment customization also complement the Battle Smith's focus on magical weapons and armor.
+
+### Progression
+
+**Early Game:** [[Battle Smith]] immediately becomes the combat-focused Artificer. Martial weapons and the [[Steel Defender]] give you both personal combat power and an additional battlefield presence.
+
+**Mid Game:** Extra Attack turns the Artificer into a much stronger martial character while the Steel Defender continues supporting the party. You can specialize in melee or ranged weapons without giving up your Artificer spellcasting.
+
+**End Game:** Your weapon attacks, spellcasting, Infusions, and Steel Defender all scale together. The result is a highly flexible martial hybrid capable of fighting directly while maintaining a powerful mechanical companion.
+
+**Best for:** Martial combat, ranged weapons, melee weapons, companion gameplay, frontline fighting, and players who want a mechanical pet fighting beside them.
+
+---
+
+## Choosing an [[Artificer]]
+
+- **[[Alchemist]]** — Choose it if you want to support the party through potions, healing, buffs, and preparation.
+    
+- **[[Armorer]]** — Choose it if you want your equipment to define your combat style and prefer either tanking or ranged armored combat.
+    
+- **[[Artillerist]]** — Choose it if you want to fight from the backline with spells and magical cannons.
+    
+- **[[Battle Smith]]** — Choose it if you want the most martial Artificer experience and a mechanical companion.
+    
+
+[[Artificer]] is fundamentally a preparation and customization class: enhance your equipment, use your inventions efficiently, and let your subclass determine how you fight.
