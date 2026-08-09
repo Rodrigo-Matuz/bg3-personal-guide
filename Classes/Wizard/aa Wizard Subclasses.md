@@ -7,18 +7,12 @@ Wizards are particularly strong at adapting to encounters because they can learn
 In combat, [[Wizard]] can fill several different roles depending on its subclass:
 
 - **Arcane damage dealer** — Uses powerful spells such as Fireball and other offensive magic to eliminate groups of enemies.
-- 
 - **Battlefield controller** — Uses spells that disable, slow, reposition, or otherwise restrict enemies.
-- 
 - **Defensive caster** — Uses wards, reactions, and defensive magic to survive attacks and protect allies.
-- 
 - **Support caster** — Provides buffs, utility, protection, and specialized magical effects for the party.
-- 
 - **Summoner** — Creates magical creatures or undead servants that add additional bodies and actions to the battlefield.
 - **Melee spellblade** — Combines Wizard spellcasting with weapons, mobility, and defensive magic.
-
 - **Utility specialist** — Uses the Wizard's huge spell selection to solve exploration, environmental, and non-combat problems.
-
 - **Debuffer** — Weakens enemies with curses, enchantments, psychic effects, or other magical conditions.
 - **Information specialist** — Uses divination and magical knowledge to manipulate rolls, reveal information, and prepare for encounters.
 
