@@ -15,7 +15,7 @@ The class's defining mechanic is **Infusion**. Infusions allow you to enhance we
 
 The class begins without a subclass and chooses one at **Level 3**. This is an important breakpoint: the early game teaches you the general Artificer toolkit, while the subclass determines what your character is primarily built to do for the rest of the game.
 
-### How [[Artificer]] Plays
+### Core Gameplay
 
 The Artificer's action economy depends heavily on its subclass.
 
@@ -82,9 +82,7 @@ At high levels, **Chemical Mastery** substantially improves the support role, pr
 The subclass can switch between two armor configurations:
 
 - **[[Guardian Armor]]** — frontline combat, durability, and drawing enemy attention.
-    
 - **[[Infiltrator Armor]]** — mobility, ranged attacks, and a more evasive playstyle.
-    
 
 This makes [[Armorer]] one of the most flexible Artificer subclasses because the same character can approach combat as either a heavily armored frontline fighter or a ranged armored combatant.
 
@@ -144,7 +142,7 @@ Outside combat, the subclass is less utility-focused than [[Alchemist]], but its
 
 # [[Battle Smith]]
 
-[[Battle Smith]] is the most directly martial-focused [[Artificer]] subclass. It combines **magically enhanced weapons and equipment with a mechanical [[Steel Defender]]**, allowing you to fight alongside a construct companion.
+[[Battle Smith]] is the most directly martial-focused [[Artificer]] subclass. It combines **magically enhanced weapons and equipment with a mechanical Steel Defender**, allowing you to fight alongside a construct companion.
 
 The [[Steel Defender]] is the defining feature. It acts as another presence on the battlefield, attacking enemies, assisting your party, and providing additional pressure while your Artificer fights independently.
 
@@ -176,13 +174,9 @@ Outside combat, the mechanical companion gives the subclass additional utility a
 
 ## Choosing an [[Artificer]]
 
-- **[[Alchemist]]** — Choose it if you want to support the party through potions, healing, buffs, and preparation.
-    
-- **[[Armorer]]** — Choose it if you want your equipment to define your combat style and prefer either tanking or ranged armored combat.
-    
-- **[[Artillerist]]** — Choose it if you want to fight from the backline with spells and magical cannons.
-    
-- **[[Battle Smith]]** — Choose it if you want the most martial Artificer experience and a mechanical companion.
-    
+- [[Alchemist]] — Choose it if you want to support the party through potions, healing, buffs, and preparation.
+- [[Armorer]] — Choose it if you want your equipment to define your combat style and prefer either tanking or ranged armored combat.
+- [[Artillerist]]— Choose it if you want to fight from the backline with spells and magical cannons.
+- [Battle Smith]] — Choose it if you want the most martial Artificer experience and a mechanical companion.
 
 [[Artificer]] is fundamentally a preparation and customization class: enhance your equipment, use your inventions efficiently, and let your subclass determine how you fight.
