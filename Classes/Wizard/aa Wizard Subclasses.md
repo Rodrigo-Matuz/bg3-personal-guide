@@ -7,23 +7,20 @@ Wizards are particularly strong at adapting to encounters because they can learn
 In combat, [[Wizard]] can fill several different roles depending on its subclass:
 
 - **Arcane damage dealer** — Uses powerful spells such as Fireball and other offensive magic to eliminate groups of enemies.
-    
+- 
 - **Battlefield controller** — Uses spells that disable, slow, reposition, or otherwise restrict enemies.
-    
+- 
 - **Defensive caster** — Uses wards, reactions, and defensive magic to survive attacks and protect allies.
-    
+- 
 - **Support caster** — Provides buffs, utility, protection, and specialized magical effects for the party.
-    
+- 
 - **Summoner** — Creates magical creatures or undead servants that add additional bodies and actions to the battlefield.
-    
 - **Melee spellblade** — Combines Wizard spellcasting with weapons, mobility, and defensive magic.
-    
+
 - **Utility specialist** — Uses the Wizard's huge spell selection to solve exploration, environmental, and non-combat problems.
-    
+
 - **Debuffer** — Weakens enemies with curses, enchantments, psychic effects, or other magical conditions.
-    
 - **Information specialist** — Uses divination and magical knowledge to manipulate rolls, reveal information, and prepare for encounters.
-    
 
 ---
 
@@ -52,18 +49,12 @@ The subclass becomes an extremely durable full caster when its defensive mechani
 
 **Best for:**
 
-- - Defensive Wizard builds
-        
-- - Protecting fragile party members
-        
-- - Counterspell-heavy playstyles
-        
-- - Concentration-focused casters
-        
-- - Frontline or semi-frontline Wizards
-        
-- - Players who want maximum survivability
-        
+- Defensive Wizard builds
+- Protecting fragile party members
+- Counterspell-heavy playstyles
+- Concentration-focused casters
+- Frontline or semi-frontline Wizards
+- Players who want maximum survivability
 
 ---
 
@@ -91,18 +82,12 @@ The subclass becomes a highly flexible spellblade capable of combining strong de
 
 **Best for:**
 
-- - Spellblade builds
-        
-- - Melee-capable Wizards
-        
-- - High-mobility casters
-        
-- - Players who want weapons and spells
-        
-- - Concentration-heavy melee builds
-        
-- - Flexible action economy
-        
+- Spellblade builds
+- Melee-capable Wizards
+- High-mobility casters
+- Players who want weapons and spells
+- Concentration-heavy melee builds
+- Flexible action economy
 
 ---
 
@@ -131,18 +116,12 @@ High-level Chronurgy becomes a powerful control-oriented Wizard capable of manip
 
 **Best for:**
 
-- - Roll manipulation
-        
-- - Battlefield control
-        
-- - Tactical players
-        
-- - Protecting important saving throws
-        
-- - Disrupting enemy turns
-        
-- - Fate/time manipulation builds
-        
+- Roll manipulation
+- Battlefield control
+- Tactical players
+- Protecting important saving throws
+- Disrupting enemy turns
+- Fate/time manipulation builds
 
 ---
 
@@ -171,18 +150,12 @@ The subclass becomes highly effective in encounters where multiple summons can e
 
 **Best for:**
 
-- - Summoner Wizards
-        
-- - Battlefield positioning
-        
-- - Teleportation
-        
-- - Utility-heavy builds
-        
-- - Additional bodies on the battlefield
-        
-- - Long encounters
-        
+- Summoner Wizards
+- Battlefield positioning
+- Teleportation
+- Utility-heavy builds
+- Additional bodies on the battlefield
+- Long encounters
 
 ---
 
@@ -211,18 +184,12 @@ The subclass becomes increasingly reliable as encounters become more dependent o
 
 **Best for:**
 
-- - Spell reliability
-        
-- - Crowd control
-        
-- - Support casting
-        
-- - Manipulating saving throws
-        
-- - Preventing critical failures
-        
-- - Tactical players
-        
+- Spell reliability
+- Crowd control
+- Support casting
+- Manipulating saving throws
+- Preventing critical failures
+- Tactical players
 
 ---
 
@@ -251,18 +218,12 @@ The subclass becomes a powerful controller capable of neutralizing important tar
 
 **Best for:**
 
-- - Crowd control
-        
-- - Mental manipulation
-        
-- - Charming enemies
-        
-- - Incapacitating priority targets
-        
-- - Non-lethal control
-        
-- - Players who prefer control over damage
-        
+- Crowd control
+- Mental manipulation
+- Charming enemies
+- Incapacitating priority targets
+- Non-lethal control
+- Players who prefer control over damage
 
 ---
 
@@ -291,18 +252,12 @@ The subclass becomes a dedicated magical artillery piece capable of producing ex
 
 **Best for:**
 
-- - Pure spell damage
-        
-- - AoE damage
-        
-- - Fireball-focused builds
-        
-- - Magic Missile builds
-        
-- - Aggressive casters
-        
-- - Parties with multiple melee characters
-        
+- Pure spell damage
+- AoE damage
+- Fireball-focused builds
+- Magic Missile builds
+- Aggressive casters
+- Parties with multiple melee characters
 
 ---
 
@@ -331,18 +286,12 @@ The subclass becomes a highly versatile nature/arcane hybrid capable of filling 
 
 **Best for:**
 
-- - Nature-themed Wizards
-        
-- - Utility-heavy parties
-        
-- - Plant magic
-        
-- - Summoning
-        
-- - Exploration utility
-        
-- - Arcane/Druid hybrids
-        
+- Nature-themed Wizards
+- Utility-heavy parties
+- Plant magic
+- Summoning
+- Exploration utility
+- Arcane/Druid hybrids
 
 ---
 
@@ -371,18 +320,12 @@ The subclass becomes a strong debuff specialist capable of turning important ene
 
 **Best for:**
 
-- - Curse-focused builds
-        
-- - Debuffing
-        
-- - Necrotic magic
-        
-- - Boss fights
-        
-- - Party damage amplification
-        
-- - Occult Wizard builds
-        
+- Curse-focused builds
+- Debuffing
+- Necrotic magic
+- Boss fights
+- Party damage amplification
+- Occult Wizard builds
 
 ---
 
@@ -411,18 +354,12 @@ The subclass becomes a highly flexible full caster capable of handling both arca
 
 **Best for:**
 
-- - Arcane/divine hybrids
-        
-- - Party support
-        
-- - Healing
-        
-- - Utility casting
-        
-- - Radiant damage
-        
-- - Flexible full casters
-        
+- Arcane/divine hybrids
+- Party support
+- Healing
+- Utility casting
+- Radiant damage
+- Flexible full casters
 
 ---
 
@@ -451,18 +388,12 @@ The subclass becomes a strong utility and deception specialist, particularly in 
 
 **Best for:**
 
-- - Illusion magic
-        
-- - Stealth support
-        
-- - Invisibility
-        
-- - Misdirection
-        
-- - Creative encounter solutions
-        
-- - Utility-focused Wizards
-        
+- Illusion magic
+- Stealth support
+- Invisibility
+- Misdirection
+- Creative encounter solutions
+- Utility-focused Wizards
 
 ---
 
@@ -491,18 +422,12 @@ The subclass becomes a dedicated necromantic controller capable of combining und
 
 **Best for:**
 
-- - Necromancer builds
-        
-- - Undead armies
-        
-- - Divination and necromancy hybrids
-        
-- - Summon-heavy parties
-        
-- - Curse-focused combat
-        
-- - Players who enjoy managing multiple units
-        
+- Necromancer builds
+- Undead armies
+- Divination and necromancy hybrids
+- Summon-heavy parties
+- Curse-focused combat
+- Players who enjoy managing multiple units
 
 ---
 
@@ -531,18 +456,12 @@ The subclass can become an army-building specialist, combining high-level Wizard
 
 **Best for:**
 
-- - Undead armies
-        
-- - Summoner builds
-        
-- - Necrotic damage
-        
-- - Action-economy advantage
-        
-- - Death-themed characters
-        
-- - Long encounters
-        
+- Undead armies
+- Summoner builds
+- Necrotic damage
+- Action-economy advantage
+- Death-themed characters
+- Long encounters
 
 ---
 
@@ -571,18 +490,12 @@ The subclass reaches its intended role as an extremely versatile Wizard capable 
 
 **Best for:**
 
-- - Spellbook-focused builds
-        
-- - Maximum versatility
-        
-- - Damage-type manipulation
-        
-- - Players who enjoy preparing different spells
-        
-- - Flexible arcane casters
-        
-- - Experimental builds
-        
+- Spellbook-focused builds
+- Maximum versatility
+- Damage-type manipulation
+- Players who enjoy preparing different spells
+- Flexible arcane casters
+- Experimental builds
 
 ---
 
@@ -611,18 +524,12 @@ The subclass becomes a powerful mental-control hybrid with enough tools to influ
 
 **Best for:**
 
-- - Psychic damage
-
-- - Telekinesis
-
-- - Mental control
-
-- - Psionic-themed characters
-
-- - Battlefield manipulation
-
-- - Alternative Wizard gameplay
-
+- Psychic damage
+- Telekinesis
+- Mental control
+- Psionic-themed characters
+- Battlefield manipulation
+- Alternative Wizard gameplay
 
 ---
 
