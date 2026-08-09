@@ -221,9 +221,7 @@ It is strongest when you can maintain pressure on several enemies rather than co
 - Necrotic damage
 - Debuff-heavy combat
 - Attrition fights
-    
 - Corrupted Paladin characters
-    
 
 ---
 
@@ -250,15 +248,10 @@ The subclass can still fight normally, but its strongest contribution may come f
 **Best for:**
 
 - Damage mitigation
-    
 - Protecting fragile allies
-    
 - Defensive parties
-    
 - Enemy disabling
-    
 - Support-oriented Paladins
-    
 
 ---
 
@@ -285,15 +278,10 @@ This makes action economy relatively simple: identify the most important enemy, 
 **Best for:**
 
 - Single-target burst
-    
 - Boss killing
-    
 - Aggressive melee
-    
 - Priority-target hunting
-    
 - High-damage Paladin builds
-    
 
 ---
 
@@ -320,15 +308,10 @@ Its normal weapon attacks and Smite damage remain available, so the subclass doe
 **Best for:**
 
 - Fighting spellcasters
-    
 - Anti-magic support
-    
 - Supernatural enemies
-    
 - Defensive frontline play
-    
 - Utility-focused Paladins
-    
 
 ---
 
@@ -355,15 +338,10 @@ The subclass benefits particularly well from effects that improve attack accurac
 **Best for:**
 
 - Maximum melee damage
-    
 - Smite-focused builds
-    
 - Aggressive combat
-    
 - Critical-hit builds
-    
 - Players who want minimal defensive complexity
-    
 
 ---
 
@@ -390,15 +368,10 @@ The subclass also has strong synergy with undead-focused parties. Its abilities 
 **Best for:**
 
 - Dark Paladin builds
-    
 - Necromancy and undead parties
-    
 - Fear and control
-    
 - Necrotic damage
-    
 - Aggressive frontline combat
-    
 
 ---
 
