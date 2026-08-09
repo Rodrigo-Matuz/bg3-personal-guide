@@ -9,19 +9,12 @@ Monks are particularly effective when they can move freely around the battlefiel
 In combat, [[Monk]] can fill several different roles depending on its subclass:
 
 - **Melee damage dealer** — Uses multiple attacks and powerful unarmed strikes to quickly eliminate targets.
-    
 - **Mobile skirmisher** — Reaches vulnerable enemies and escapes before opponents can punish it.
-    
 - **Crowd controller** — Uses martial abilities and Ki effects to disable or reposition enemies.
-    
 - **Tank/bruiser** — Uses defensive abilities and durability to remain in melee.
-    
 - **Support** — Heals, protects, or enhances allies through specialized subclass abilities.
-    
 - **Elemental damage dealer** — Adds elemental or radiant damage to martial attacks.
-    
 - **Stealth specialist** — Uses darkness, invisibility, and mobility to approach enemies from advantageous positions.
-    
 
 ---
 
@@ -50,15 +43,10 @@ The subclass remains primarily martial, so its elemental abilities supplement ra
 **Best for:**
 
 - Elemental damage
-    
 - Flexible damage types
-    
 - Breath attacks
-    
 - Martial characters with dragon abilities
-    
 - Adaptable melee builds
-    
 
 ---
 
@@ -87,15 +75,10 @@ The subclass rewards staying active in melee and taking advantage of its extende
 **Best for:**
 
 - Unarmed combat
-    
 - Force damage
-    
 - Extended melee reach
-    
 - Wisdom-based Monks
-    
 - Supernatural martial builds
-    
 
 ---
 
@@ -124,15 +107,10 @@ The subclass works best when it stays close to enemies and uses its mobility and
 **Best for:**
 
 - Tanking
-    
 - Durable melee builds
-    
 - Frontline combat
-    
 - Defensive Monk gameplay
-    
 - Players who enjoy Brewmaster-style mechanics
-    
 
 ---
 
@@ -161,15 +139,10 @@ Rather than focusing entirely on maximum single-target damage, it gains value by
 **Best for:**
 
 - Mobility
-    
 - Hit-and-run combat
-    
 - Enemy disruption
-    
 - Unpredictable melee combat
-    
 - Intoxication-based abilities
-    
 
 ---
 
@@ -198,15 +171,10 @@ The subclass is useful when you want a Monk that contributes more than personal 
 **Best for:**
 
 - Fire damage
-    
 - Equipment enhancement
-    
 - Martial support
-    
 - Melee combat
-    
 - Hybrid Monk builds
-    
 
 ---
 
@@ -235,15 +203,10 @@ The major trade-off is Ki consumption. Elemental techniques compete for the same
 **Best for:**
 
 - Elemental magic
-    
 - Ranged Monk attacks
-    
 - AoE
-    
 - Crowd control
-    
 - Versatile combat
-    
 
 ---
 
@@ -272,15 +235,10 @@ It can work with both melee and ranged weapons, giving the subclass more flexibi
 **Best for:**
 
 - Weapon-focused Monk builds
-    
 - Ranged weapons
-    
 - Precise martial combat
-    
 - High mobility
-    
 - Players who prefer weapons over unarmed strikes
-    
 
 ---
 
@@ -309,15 +267,10 @@ The subclass becomes especially effective when surrounded by several enemies bec
 **Best for:**
 
 - Tanking
-    
 - Necrotic damage
-    
 - Self-sustain
-    
 - Fear effects
-    
 - Durable melee builds
-    
 
 ---
 
@@ -346,15 +299,10 @@ This makes its action economy particularly flexible. A turn can be used for offe
 **Best for:**
 
 - Healing
-    
 - Martial support
-    
 - Necrotic damage
-    
 - Flexible combat roles
-    
 - Self-sufficient parties
-    
 
 ---
 
@@ -383,15 +331,10 @@ The subclass generally gives up some offensive specialization in exchange for st
 **Best for:**
 
 - Healing
-    
 - Mobile support
-    
 - Melee healers
-    
 - Sustained party support
-    
 - Mistweaver-style gameplay
-    
 
 ---
 
@@ -420,15 +363,10 @@ The subclass gets excellent value from the Monk's Bonus Action economy because a
 **Best for:**
 
 - Unarmed combat
-    
 - High damage
-    
 - Multiple attacks
-    
 - Knockdowns and pushes
-    
 - Straightforward Monk gameplay
-    
 
 ---
 
@@ -457,15 +395,10 @@ Its damage is still primarily martial, but its utility comes from deciding where
 **Best for:**
 
 - Stealth
-    
 - Assassination
-    
 - Teleportation
-    
 - Infiltration
-    
 - Hit-and-run combat
-    
 
 ---
 
@@ -492,15 +425,10 @@ The subclass is best when you want the Monk to stay in melee and consistently tr
 **Best for:**
 
 - Durability
-    
 - Straightforward melee combat
-    
 - Physical damage
-    
 - Frontline bruisers
-    
 - Low-complexity builds
-    
 
 ---
 
@@ -529,15 +457,10 @@ Its AoE abilities also allow it to punish groups of enemies, while its normal ma
 **Best for:**
 
 - Ranged Monk builds
-    
 - Radiant damage
-    
 - AoE
-    
 - Hybrid melee/ranged combat
-    
 - Fighting enemies at a distance
-    
 
 ---
 
@@ -564,15 +487,10 @@ Its gameplay rewards chaining attacks and movement together rather than standing
 **Best for:**
 
 - Maximum mobility
-    
 - Melee DPS
-    
 - Hit-and-run combat
-    
 - Wind abilities
-    
 - Rapid attack chains
-    
 
 ---
 
