@@ -7,21 +7,13 @@ The class can be built as a ranged spellcaster, melee hybrid, battlefield contro
 In combat, [[Warlock]] can fill several different roles depending on its subclass:
 
 - **Ranged damage dealer** — Uses [[Eldritch Blast]] and offensive spells for reliable damage from a distance.
-    
 - **Battlefield controller** — Uses curses, fear, charms, forced movement, and area spells to disrupt enemies.
-    
 - **Melee damage dealer** — Uses weapons and Warlock magic together, especially through [[The Hexblade]].
-    
 - **Summoner** — Uses supernatural or undead creatures to add additional bodies and actions to the battlefield.
-    
 - **Support caster** — Provides healing, buffs, defensive effects, or restorative magic through specialized patrons.
-    
 - **Necromancer** — Raises and commands undead through death-focused patrons and expanded spell lists.
-    
 - **Party face** — Uses high Charisma for dialogue, persuasion, deception, intimidation, and other social checks.
-    
 - **Utility caster** — Uses invocations, mobility, invisibility, curses, and supernatural abilities to solve exploration problems.
-    
 
 ---
 
@@ -46,15 +38,10 @@ It works particularly well for a Warlock that wants to remain mobile instead of 
 **Best for:**
 
 - Crowd control
-    
 - Teleportation
-    
 - Invisibility
-    
 - Social utility
-    
 - Mobile ranged combat
-    
 
 ---
 
@@ -79,15 +66,10 @@ Its main advantage is role compression: the same character can provide ranged ma
 **Best for:**
 
 - Secondary healing
-    
 - Radiant damage
-    
 - Party support
-    
 - Ranged spellcasting
-    
 - Flexible party composition
-    
 
 ---
 
@@ -112,15 +94,10 @@ This creates a strong action-economy advantage when multiple summons are active.
 **Best for:**
 
 - Undead armies
-    
 - Summoning
-    
 - Necromancy
-    
 - Long-term battlefield pressure
-    
 - Players who enjoy managing multiple companions
-    
 
 ---
 
@@ -145,15 +122,10 @@ Area damage makes it especially useful against groups, while [[Eldritch Blast]] 
 **Best for:**
 
 - Fire damage
-    
 - AoE damage
-    
 - Ranged offense
-    
 - Straightforward Warlock gameplay
-    
 - Aggressive playstyles
-    
 
 ---
 
@@ -178,15 +150,10 @@ It can operate at range but has strong thematic synergy with aggressive position
 **Best for:**
 
 - Life drain
-    
 - Self-sustain
-    
 - Darkness
-    
 - Invisibility
-    
 - Vampiric-themed builds
-    
 
 ---
 
