@@ -24,41 +24,24 @@ The class starts with its subclass immediately at **level 1**, making your subcl
 ### General Progression
 
 - **Level 1:** Choose your [[Accursed]] subclass and gain [[Jinx]].
-    
 - **Level 2:** Gain spellcasting, [[Afflict]]/[[Suppress]], and your first Malediction Metamorphosis.
-    
 - **Level 3:** Gain another subclass feature and become immune to other curses.
-    
 - **Level 4:** Feat/ASI.
-    
 - **Level 5:** Major subclass upgrade.
-    
 - **Level 6:** Additional Malediction Metamorphosis.
-    
 - **Level 7:** Gain protection against possession, magical sleep, and unwanted polymorphing.
-    
 - **Level 8:** Feat/ASI.
-    
 - **Level 10:** Gain or upgrade a Malediction Metamorphosis.
-    
 - **Level 11:** Major subclass upgrade.
-    
 - **Level 12:** Feat/ASI.
-    
 - **Level 14:** Gain or upgrade a Malediction Metamorphosis.
-    
 - **Level 15:** Major subclass upgrade.
-    
 - **Level 16:** Feat/ASI.
-    
 - **Level 18:** Gain or upgrade a Malediction Metamorphosis.
-    
 - **Level 19:** Feat/ASI.
-    
 - **Level 20:** Final subclass feature.
-    
 
-The important thing to understand is that **[[Accursed]] is not one fixed playstyle**. The subclass determines a large part of how the class actually functions.
+The important thing to understand is that **Accursed** is not one fixed playstyle**. The subclass determines a large part of how the class actually functions.
 
 ---
 
