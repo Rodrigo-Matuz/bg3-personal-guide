@@ -15,6 +15,8 @@ In combat, [[Artificer]] can fill several different roles depending on its subcl
 - **Companion controller** — Fights alongside a [[Steel Defender]] that adds another body and set of actions to the battlefield.
 - **Utility specialist** — Uses crafted equipment, consumables, spells, and specialized tools to solve different problems.
 
+---
+
 ## [[Alchemist]]
 
 The [[Alchemist]] is the support-focused [[Artificer]], using experimental concoctions instead of relying exclusively on conventional spellcasting. Its strongest contribution comes from preparing and using specialized potions, elixirs, and other consumables that can improve the party's performance or solve specific problems.
@@ -48,6 +50,8 @@ At higher progression, Chemical Mastery significantly improves its survivability
 - Utility and preparation
 - Players who enjoy having the right tool for the situation
 
+---
+
 ## [[Armorer]]
 
 The [[Armorer]] turns its armor into a magical piece of specialized equipment that determines how it fights. The subclass can configure its armor for either a durable frontline role or a more mobile ranged role, making it one of the most adaptable [[Artificer]] subclasses.
@@ -79,6 +83,8 @@ This gives the Armorer more flexibility than most martial subclasses. You can bu
 - Ranged combat
 - Flexible equipment-based builds
 - Players who want magical power armor
+
+---
 
 ## [[Artillerist]]
 
@@ -114,6 +120,8 @@ Later progression allows multiple [[Eldritch Cannon]] summons, dramatically incr
 - Backline support
 - Turret gameplay
 - Players who enjoy managing multiple battlefield tools
+
+---
 
 ## [[Battle Smith]]
 

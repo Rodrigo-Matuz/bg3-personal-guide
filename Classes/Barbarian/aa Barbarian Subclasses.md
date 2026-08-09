@@ -18,6 +18,8 @@ In combat, [[Barbarian]] can fill several different roles depending on its subcl
 - **Anti-mage** — Uses supernatural abilities to resist, interrupt, or punish enemy spellcasters.
 - **Self-sustaining fighter** — Converts kills or enemy damage into additional survivability.
 
+---
+
 ## [[Ancestral Guardian]]
 
 The [[Ancestral Guardian]] is the defensive [[Barbarian]], using ancestral spirits to interfere with enemies and protect allies. Instead of simply surviving attacks through Rage, this subclass actively makes enemies less effective when fighting your party.
@@ -47,6 +49,8 @@ The subclass does not have to sacrifice all of its damage to tank. You still ret
 - Frontline control
 - Defensive melee builds
 - Players who want to actively protect the party
+
+---
 
 ## [[Battlerager]]
 
@@ -78,6 +82,8 @@ The main drawback is limited flexibility. Compared with subclasses that provide 
 - Durable bruisers
 - Players who want minimal complexity
 
+---
+
 ## [[Beast]]
 
 The [[Beast]] turns the Barbarian's body into its primary weapon. Rage grants access to natural weapons such as claws, fangs, or a tail, allowing you to change your combat style depending on what the encounter requires.
@@ -107,6 +113,8 @@ The subclass is especially appealing if you want to fight without depending enti
 - Primal characters
 - Players who want multiple combat forms
 - Weapon-independent builds
+
+---
 
 ## [[Berserker]]
 
@@ -138,6 +146,8 @@ Because the subclass is so heavily focused on attacks, it performs best when it 
 - Aggressive play
 - Players who want the classic Barbarian experience
 
+---
+
 ## [[Giant]]
 
 The [[Giant]] uses supernatural size and strength to turn the Barbarian into a massive battlefield threat. Its Rage enhances physical power while introducing giant-themed abilities, elemental effects, and improved throwing capabilities.
@@ -167,6 +177,8 @@ Elemental abilities also give the subclass damage options beyond ordinary physic
 - High Strength builds
 - Battlefield presence
 - Melee + elemental damage
+
+---
 
 ## [[Ginnungagap]]
 
@@ -200,6 +212,8 @@ Later abilities reward successful saving throws against spells with healing, all
 - Reaction-based gameplay
 - Players who want a supernatural Barbarian without conventional spellcasting
 
+---
+
 ## [[Juggernaut]]
 
 The [[Juggernaut]] is built around momentum, physical control, and refusing to be moved. Instead of relying on magical defenses, it makes the Barbarian itself the battlefield obstacle that enemies struggle to stop.
@@ -229,6 +243,8 @@ The drawback is that forced movement is situational. An enemy that you want to k
 - High-durability frontliners
 - Hazard-based combat
 - Players who enjoy manipulating enemy positioning
+
+---
 
 ## [[Path of the Corpse Eater]]
 
@@ -260,6 +276,8 @@ Once Rage is active, the subclass functions much like a normal aggressive Barbar
 - Prolonged battles
 - Players who want a brutal supernatural Barbarian
 
+---
+
 ## [[Rage Mage]]
 
 The [[Rage Mage]] combines Barbarian melee combat with limited spellcasting, allowing you to use magic without abandoning Rage. Its defining difference from normal spellcasting subclasses is that it is specifically designed to function while Raging.
@@ -289,6 +307,8 @@ The limitation is resource management. You do not function like a full caster an
 - Flexible combat
 - Physical + magical damage
 - Players who want a true spellcasting Barbarian
+
+---
 
 ## [[Storm Herald]]
 
@@ -320,6 +340,8 @@ This makes the Storm Herald less about burst damage and more about **persistent 
 - Frontline elemental combat
 - Players who want magic without conventional spellcasting
 
+---
+
 ## [[Wild Magic (Bar)]]
 
 The [[Wild Magic (Bar)]] turns Rage into an unpredictable magical event. Instead of selecting a single specialized power, you trigger random magical effects when you Rage, creating different combat situations from one encounter to the next.
@@ -350,6 +372,8 @@ Its strength is adaptability. You do not know exactly what your Rage will provid
 - Flexible Rage effects
 - Players who dislike repetitive combat rotations
 
+---
+
 ## [[Wildheart]]
 
 The [[Wildheart]] channels animal spirits through its chosen [[Bestial Heart]], making it one of the most customizable Barbarian subclasses. Different hearts change the benefits you receive while Raging, allowing you to specialize toward damage, mobility, defense, control, or utility.
@@ -379,6 +403,8 @@ The main drawback is that choosing one heart means giving up the benefits of the
 - Defensive or offensive specialization
 - Mobility and utility
 - Players who want to tailor their Rage to a specific role
+
+---
 
 ## [[Zealot]]
 
