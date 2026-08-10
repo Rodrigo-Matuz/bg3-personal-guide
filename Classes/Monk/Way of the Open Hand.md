@@ -70,3 +70,11 @@ url: "https://youtu.be/OBlUwE7p-Kw?si=kOhTZkpYgVhpmqu3"
 favicon: ""
 aspectRatio: "56.25"
 ```
+```embed
+title: "OP OPEN HAND MONK Build Guide: Baldur's Gate 3"
+image: "https://i.ytimg.com/vi/8Q9EOMJL-Eg/maxresdefault.jpg"
+description: "This is an extremely powerful OPEN HAND MONK Build Guide in Baldur's Gate, the damage output makes it OP in BG3.  Being able to deal upwards of 76 damage on ..."
+url: "https://www.youtube.com/watch?v=8Q9EOMJL-Eg"
+favicon: ""
+aspectRatio: "56.25"
+```
