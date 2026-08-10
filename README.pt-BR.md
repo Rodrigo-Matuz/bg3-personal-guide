@@ -1,5 +1,4 @@
 [English](README.md) | [Português](README.pt-BR.md)
-
 # Baldur's Gate 3 — Guia Pessoal
 
 Um guia de referência pessoal para **Baldur's Gate 3**, focado em entender classes, subclasses, talentos, mecânicas, missões, itens e outras informações úteis enquanto jogo com uma **configuração fortemente modificada**.
